@@ -1,0 +1,54 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=44;
+	taxlabels
+	91Physalisperuviana
+	Leucophysalis
+	Witheringia
+	Tubocapsicum
+	Iochroma_tingoanum
+	Iochroma_nitidum
+	Iochroma_grandiflorum
+	Iochroma_umbellatum
+	Iochroma_amicorum
+	Eriolarynx_lorentzii
+	Iochroma_australe
+	Eriolarynx_fasciculata
+	Dunalia_brachyacantha
+	Dunalia_spinosa
+	Iochroma_parvifolium
+	Vassobia_breviflora
+	Vassobia_dichotoma
+	Dunalia_obovata
+	Dunalia_spathulata
+	Dunalia_solanacea
+	Saracha_quitensis
+	Saracha_punctata
+	Saracha_andina
+	31Aarb
+	Iochroma_confertiflorum
+	Acnistus_arborescens
+	98AarbWAXY
+	Iochroma_tupayachianum
+	Iochroma_salpoanum
+	Iochroma_peruvianum
+	Iochroma_edule
+	Iochroma_ellipticum
+	Iochroma_loxense
+	Iochroma_cyaneum
+	Iochroma_cornifolium
+	Iochroma_gesnerioides
+	Iochroma_fuchsioides
+	Iochroma_calycinum
+	Iochroma_baumii
+	Iochroma_stenanthum
+	Iochroma_squamosum
+	Iochroma_lehmannii
+	144CuatresiaWAXY
+	145LarnaxWAXYcl1
+;
+end;
+
+begin trees;
+	tree TREE1 = [&R] (((((91Physalisperuviana:5.62881400808692,Leucophysalis:5.62881401181221):1.131296157836914,Witheringia:6.760110169649124):1.3508659042418003,Tubocapsicum:8.110976103693247):3.7636008225381374,((((Iochroma_tingoanum:0.7825187593698502,(Iochroma_nitidum:0.5614559799432755,Iochroma_grandiflorum:0.5614559799432755):0.2210627794265747):0.2015189230442047,Iochroma_umbellatum:0.9840376973152161):0.9551117420196533,Iochroma_amicorum:1.9391494393348694):2.690088212490082,(((((((Eriolarynx_lorentzii:0.10419967398047447,Iochroma_australe:0.10419967398047447):1.2783404495567083,Eriolarynx_fasciculata:1.3825401160866022):0.29678682051599026,((Dunalia_brachyacantha:0.8925304897129536,Dunalia_spinosa:0.8925304897129536):0.48338873870670795,Iochroma_parvifolium:1.3759192321449518):0.30340770818293095):0.2864232435822487,(Vassobia_breviflora:1.177251735702157,Vassobia_dichotoma:1.177251735702157):0.7884984444826841):0.23749776184558868,(Dunalia_obovata:0.9818249344825745,Dunalia_spathulata:0.9818249344825745):1.2214230075478554):0.22366274148225784,(((Dunalia_solanacea:1.271528609097004,Saracha_quitensis:1.271528609097004):0.19396616518497467,Saracha_punctata:1.4654947817325592):0.34160737693309784,Saracha_andina:1.807102158665657):0.6198085397481918):1.31062513589859,(((31Aarb:1.7088155448436737,((Iochroma_confertiflorum:1.11749417334795,(Acnistus_arborescens:0.8189258873462677,(98AarbWAXY:0.4600878991186619,Iochroma_tupayachianum:0.4600878991186619):0.3588379882276058):0.2985682860016823):0.36430971324443817,((Iochroma_salpoanum:0.7509211227297783,Iochroma_peruvianum:0.7509211152791977):0.411935992538929,Iochroma_edule:1.1628571078181267):0.3189467787742615):0.22701165080070496):0.2728957310318947,Iochroma_ellipticum:1.9817112758755684):0.9238616451621056,((((Iochroma_loxense:0.4190260171890259,Iochroma_cyaneum:0.4190260171890259):0.5467774271965027,Iochroma_cornifolium:0.9658034443855286):0.7958254292607307,((Iochroma_gesnerioides:0.9148473143577576,Iochroma_fuchsioides:0.9148473106324673):0.24174657464027405,(Iochroma_calycinum:0.7959015779197216,Iochroma_baumii:0.7959015779197216):0.3606923073530197):0.6050349846482277):0.5578520074486732,(Iochroma_stenanthum:1.9567171931266785,(Iochroma_squamosum:0.8521109968423843,Iochroma_lehmannii:0.8521109968423843):1.1046062037348747):0.3627636805176735):0.5860920399427414):0.831962913274765):0.8917018175125122):7.245339274406433):2.2376904785633087,(144CuatresiaWAXY:11.799978733062744,145LarnaxWAXYcl1:11.799978733062744):2.312288671731949);
+end;
