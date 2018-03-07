@@ -1,0 +1,942 @@
+Gene.ID	Gene.Symbol	24hpi_CtE_Hep2_MOI_1_rRNAdep.Total.Read.Count	24hpi_CtE_Hep2_MOI_1_rRNAdep.Avg.RPKM	1hpi_CtE_Hep2_MOI_1_rRNAdep.Total.Read.Count	1hpi_CtE_Hep2_MOI_1_rRNAdep.Avg.RPKM	Log2(24hpi_CtE_Hep2_MOI_1_rRNAdep/1hpi_CtE_Hep2_MOI_1_rRNAdep)
+CT875	NOT FOUND	5888	0.7912822	78	1.6625254	-1.0711123	hypothetical protein
+CT001	NOT FOUND	12708	8.9327432	4	0.2930274	4.9299958	hypothetical protein
+CT002	gatC	2525	1.3276492	16	1.1782005	0.1722890	aspartyl/glutamyl-tRNA amidotransferase subunit C
+CT003	gatA	6609	0.6854300	23	0.4100830	0.7410934	aspartyl/glutamyl-tRNA amidotransferase subunit A
+CT004	gatB	5859	0.6225897	12	0.2550712	1.2873817	aspartyl/glutamyl-tRNA amidotransferase subunit B
+CT005	NOT FOUND	613	0.0904440	78	2.0633121	-4.5117927	hypothetical protein
+CT006	NOT FOUND	112	0.0352842	10	0.3898184	-3.4657073	hypothetical protein
+CT007	NOT FOUND	2561	0.4191205	4	0.1546756	1.4381195	hypothetical protein
+CT008	rnhB_1	967	0.1723936	4	0.0721960	1.2557154	ribonuclease HIII
+CT009	yfgA	917	0.3670978	2	0.1097222	1.7423090	HTH transcriptional regulator
+CT010	htrB	1524	0.1841347	4	0.0476557	1.9500408	lipid A biosynthesis lauroyl acyltransferase
+CT011	NOT FOUND	4321	0.5441273	2	0.0259320	4.3911388	hypothetical protein
+CT012	ybbP	5062	1.0250065	6	0.3476730	1.5598301	hypothetical protein
+CT013	cydA	12826	1.5531787	6	0.0950011	4.0311358	cytochrome d ubiquinol oxidase subunit I
+CT014	cydB	5271	0.7920079	2	0.0306935	4.6895098	cytochrome d ubiquinol oxidase subunit II
+CT015	phoH	2003	0.2599786	8	0.1339437	0.9567662	ATPase
+CT016	NOT FOUND	1609	0.3864667	8	0.1991625	0.9563981	hypothetical protein
+CT017	NOT FOUND	9659	1.1815843	110	2.1163210	-0.8408359	hypothetical protein
+CT018	NOT FOUND	795	0.2871717	271	13.8932489	-5.5963248	hypothetical protein
+CTs01	tmRNA	395110	162.4800184	7081	381.5460944	-1.2315949	10Sa RNA
+CT019	ileS	6879	0.3530512	102	0.7900348	-1.1620387	isoleucyl-tRNA synthetase
+CT020	lepB	1883	0.1651419	6	0.0518227	1.6720501	signal peptidase I
+CT021	NOT FOUND	190	0.0445751	0	0.0000000	18.7658785	hypothetical protein
+CT022	rpmE2	6965	3.5980017	162	11.7772466	-1.7107345	50S ribosomal protein L31 type B
+CT023	prfA	5029	0.7464832	34	0.8434048	-0.1761155	peptide chain release factor 1
+CT024	NOT FOUND	1861	0.3654869	21	0.6305621	-0.7868187	N5-glutamine S-adenosyl-L-methionine-dependent methyltransferase
+CT025	ffh	6367	0.7909082	142	2.5646889	-1.6972016	signal recognition particle, subunit FFH/SRP54
+CT026	rpsP	2725	1.3506062	94	7.2240166	-2.4191938	30S ribosomal protein S16
+CT027	trmD	5828	0.9412659	87	2.2656627	-1.2672588	tRNA (guanine-N(1)-)-methyltransferase/unknown domain fusion protein
+CT028	rplS	2683	1.2610056	50	3.4452306	-1.4500257	50S ribosomal protein L19
+CT029	rnhB	3261	0.8048770	47	1.8759376	-1.2207716	ribonuclease HII
+CT030	gmk	2581	0.6521672	21	1.0352524	-0.6666688	guanylate kinase
+CT031	NOT FOUND	2034	1.0674486	10	0.6111806	0.8044960	hypothetical protein
+CT032	metG	5776	0.5446926	48	0.6350559	-0.2214413	methionyl-tRNA synthetase
+CT033	recD_1	2412	0.1771403	8	0.1378833	0.3614448	exodeoxyribonuclease V alpha chain
+CT034	ytfF	2237	0.3664046	44	1.0250043	-1.4841205	cationic amino acid transporter
+CT035	NOT FOUND	1046	0.2212814	35	1.0194218	-2.2037970	biotin protein ligase
+CT036	NOT FOUND	723	0.1017643	41	1.0052632	-3.3042698	hypothetical protein
+CT037	NOT FOUND	168	0.0744170	5	0.3319328	-2.1571869	hypothetical protein
+CTt01	tRNAAsn	67	0.1505290	0	0.0000000	20.5216100	tRNA-Asn
+CT038	NOT FOUND	796	0.3792228	0	0.0000000	21.8546143	hypothetical protein
+CT039	dcd	4217	1.2077283	14	0.6186553	0.9650882	deoxycytidine triphosphate deaminase
+CT039.1	NOT FOUND	47	0.0491477	0	0.0000000	18.9067644	hypothetical protein
+CT040	ruvB	3449	0.6099297	5	0.1031806	2.5634712	Holliday junction DNA helicase RuvB
+CT041	NOT FOUND	5867	1.2112988	9	0.2077361	2.5437309	hypothetical protein
+CT042	glgX	1561	0.1238704	0	0.0000000	20.2404001	glycogen hydrolase (debranching)
+CT043	NOT FOUND	8783	2.7893784	2	0.0646756	5.4305783	hypothetical protein
+CT044	ssb	2847	0.9760270	0	0.0000000	23.2184896	single-stranded DNA-binding protein
+CT045	pepA	5096	0.5421505	8	0.0869240	2.6408669	leucyl aminopeptidase
+CT046	hctB	4487	1.1491861	61	2.2799679	-0.9884010	histone-like protein 2
+CT047	NOT FOUND	627	0.1093453	3	0.0752381	0.5393559	hypothetical protein
+CT048	yraL	231	0.0504611	8	0.1826134	-1.8555489	SAM-dependent methyltransferase
+CT049	NOT FOUND	185	0.0190197	2	0.0221293	-0.2184634	hypothetical protein
+CT050	NOT FOUND	332	0.0355619	0	0.0000000	18.4399729	hypothetical protein
+CT051	NOT FOUND	518	0.0523491	2	0.0303263	0.7875953	hypothetical protein
+CT052	hemN_1	1267	0.1937456	0	0.0000000	20.8857321	coproporphyrinogen III oxidase
+CT053	NOT FOUND	1947	0.6909280	0	0.0000000	22.7201039	hypothetical protein
+CT054	sucA	2577	0.1445612	2	0.0119928	3.5914400	2-oxoglutarate dehydrogenase E1 component
+CT055	sucB_1	1874	0.2691456	4	0.0593743	2.1804763	dihydrolipoamide succinyltransferase
+CT056	NOT FOUND	1350	0.3052144	11	0.3413108	-0.1612631	hypothetical protein
+CT057	gcpE	3402	0.2983732	69	0.8207709	-1.4598616	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+CT058	NOT FOUND	556	0.0800111	2	0.0429348	0.8980527	hypothetical protein
+CT059	fer	185	0.1135697	0	0.0000000	20.1151465	ferredoxin
+CTt02	tRNAPro_1	43	0.1082701	0	0.0000000	20.0462035	tRNA-Pro
+CT060	flhA	1256	0.1188846	0	0.0000000	20.1811304	type III secretion system protein
+CT061	fliA	807	0.1788300	0	0.0000000	20.7701573	RNA polymerase sigma factor sigma-28
+CT062	tyrS	3723	0.5277526	9	0.1183892	2.1563243	tyrosyl-tRNA synthetase
+CT063	gnd	2307	0.2794650	11	0.1447593	0.9490115	6-phosphogluconate dehydrogenase
+CT064	lepA	5444	0.4860813	20	0.2581993	0.9127126	GTP-binding protein LepA
+CT065	NOT FOUND	16121	1.5402035	1780	28.3779967	-4.2035790	ADP/ATP translocase
+CT066	NOT FOUND	7192	2.4285024	45	2.3164809	0.0681321	hypothetical protein
+CT067	ytgA	10043	1.6877771	36	0.8023124	1.0728884	solute protein binding family
+CT068	ytgB_1	7118	1.4811768	26	0.6862371	1.1099649	rRNA methylase
+CT069	ytgC	8553	1.0182392	23	0.3805142	1.4200543	integral membrane protein
+CT070	ytgD	6578	1.0745275	13	0.2523346	2.0902925	integral membrane protein
+CT071	yaeM	5806	0.8339777	9	0.1546414	2.4310822	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+CT072	yaeL	7597	0.6806560	8	0.0939766	2.8565524	metalloprotease
+CT073	NOT FOUND	2704	0.4366790	6	0.1151258	1.9233620	OMP [leader (19) peptide]
+CT074	recF	859	0.1274257	2	0.0296872	2.1017434	recombination protein F
+CT075	dnaN	4906	0.6167482	8	0.2469996	1.3201729	DNA polymerase III subunit beta
+CT076	smpB	867	0.3243990	2	0.0714835	2.1820872	SsrA-binding protein
+CT077	yojL	607	0.1175584	5	0.0856900	0.4561789	hypothetical protein
+CT078	folD	652	0.1314226	6	0.1131823	0.2155650	bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/ 5,10-methylene-tetrahydrofolate cyclohydrolase
+CT079	NOT FOUND	290	0.1039154	3	0.1434645	-0.4652844	hypothetical protein
+CT080	ltuB	6966	3.8819355	155	12.5852488	-1.6968858	late transcription unit B protein
+CT081	NOT FOUND	19340	9.5712266	199	16.2133292	-0.7604047	hypothetical protein
+CT082	NOT FOUND	1005	0.0942834	34	0.5192326	-2.4613053	hypothetical protein
+CT083	NOT FOUND	491	0.1597737	7	0.3128292	-0.9693453	hypothetical protein
+CT084	NOT FOUND	2234	0.3176127	5	0.2326888	0.4488668	phopholipase D superfamily protein
+CT085	NOT FOUND	1497	0.1433279	27	0.3915724	-1.4499595	hypothetical protein
+CT086	rpmB	4404	2.6947969	74	6.2688142	-1.2180159	50S ribosomal protein L28
+CT087	malQ	529	0.0574273	0	0.0000000	19.1313772	4-alpha-glucanotransferase
+CT088	sycE	575	0.2168872	0	0.0000000	21.0485135	secretion chaperone
+CT089	lcrE	4946	0.6401769	0	0.0000000	22.6100392	low calcium response E
+CT090	lcrD	13877	1.0417252	6	0.0529351	4.2986063	low calcium response D
+CT091	yscU	3938	0.6059898	1	0.0150492	5.3315348	type III secretion system protein
+CT092	ychF	846	0.1266902	2	0.1039964	0.2847714	GTP-dependent nucleic acid-binding protein EngD
+CT093	ribF	1375	0.2497847	5	0.0981159	1.3481263	bifunctional riboflavin kinase/FMN adenylyltransferase
+CT094	truB	4572	1.0401920	59	1.9905394	-0.9363096	tRNA pseudouridine synthase B
+CT095	rbfA	4653	2.0152572	76	4.6680673	-1.2118612	ribosome-binding factor A
+CT096	infB	21604	1.2470359	272	2.5495016	-1.0317122	translation initiation factor IF-2
+CT097	nusA	13344	1.5653885	119	2.5887108	-0.7257130	transcription elongation factor NusA
+CT098	rpsA	30468	2.7287240	449	6.3154586	-1.2106610	30S ribosomal protein S1
+CT099	trxB	3440	0.5149394	4	0.0757543	2.7650030	thioredoxin reductase
+CT100	acpS	737	0.3560887	1	0.0658333	2.4353472	4'-phosphopantetheinyl transferase
+CT101	NOT FOUND	749	0.2545326	4	0.1411104	0.8510261	hypothetical protein
+CT102	NOT FOUND	1576	0.5599315	2	0.0705552	2.9884260	hypothetical protein
+CT103	NOT FOUND	2115	0.3850586	0	0.0000000	21.8766466	HAD family phosphatase/phosphatase
+CT104	fabI	2450	0.4377587	2	0.0363395	3.5905254	enoyl-(acyl carrier protein) reductase
+CT105	NOT FOUND	652	0.0578875	4	0.0821411	-0.5048523	hypothetical protein
+CT106	yceC	443	0.0830996	6	0.1234572	-0.5710976	pseudouridine synthetase family protein
+CT107	mutY	429	0.0656413	6	0.2490090	-1.9235219	A/G-specific adenine glycosylase
+CT108	ybgI	1264	0.2721124	0	0.0000000	21.3757713	Acr family transporter
+CT109	NOT FOUND	937	0.1885468	0	0.0000000	20.8464912	hypothetical protein
+CT110	groEL	60390	5.4768727	152	2.6203004	1.0636201	chaperonin GroEL
+CT111	groES	7110	3.5425603	37	2.3587861	0.5867478	co-chaperonin GroES
+CT112	pepF	5607	0.4840072	12	0.1599814	1.5971243	oligoendopeptidase F
+CT113	clpB	13020	0.8071243	2	0.0125179	6.0107264	Clp protease ATPase
+CT114	NOT FOUND	3368	0.3783794	2	0.0223111	4.0840000	hypothetical protein
+CT115	NOT FOUND	674	0.2453064	141	8.0619595	-5.0384756	inclusion membrane protein D
+CT116	NOT FOUND	1682	0.6646743	317	19.4409774	-4.8703113	inclusion membrane protein E
+CT117	NOT FOUND	1416	0.7596712	260	19.1494876	-4.6557860	inclusion membrane protein F
+CT118	NOT FOUND	1116	0.3480606	115	4.7791214	-3.7793352	inclusion membrane protein G
+CT119	incA	614	0.1263999	0	0.0000000	20.2695639	inclusion membrane protein A
+CT120	NOT FOUND	103	0.0798736	0	0.0000000	19.6073592	hypothetical protein
+CT121	araD	2058	0.4701047	6	0.2025641	1.2146036	ribulose-phosphate 3-epimerase
+CT122	efp_1	2600	0.7671858	15	0.5707728	0.4266595	elongation factor P
+CT123	accB	1647	0.5551403	12	0.6203828	-0.1603062	acetyl-CoA carboxylase biotin carboxyl carrier protein subunit
+CT124	accC	4007	0.4821382	14	0.2472241	0.9636273	acetyl-CoA carboxylase biotin carboxylase subunit
+CT125	rplM	10989	3.7253837	132	7.0626351	-0.9228174	50S ribosomal protein L13
+CT126	rpsI	6507	2.6576679	73	5.7112843	-1.1036544	30S ribosomal protein S9
+CT127	ydhO	1038	0.2110925	20	0.6663526	-1.6584104	polysaccharide hydrolase invasin repeat-containing protein
+CT128	adk	1794	0.4002564	14	0.3894166	0.0396101	adenylate kinase
+CT129	glnP	1017	0.2748049	49	1.6183571	-2.5580500	amino acid ABC transporter ATPase
+CT130	glnQ	934	0.2225194	29	1.0120708	-2.1853075	amino acid ABC transporter ATPase
+CT131	NOT FOUND	2553	0.1229655	4	0.0234113	2.3929767	transmembrane protein
+CT132	NOT FOUND	751	0.0910558	7	0.0950622	-0.0621208	hypothetical protein
+CT133	NOT FOUND	661	0.1372057	51	1.8936305	-3.7867431	rRNA methylase
+CT134	NOT FOUND	869	0.3351622	323	18.3674337	-5.7761495	hypothetical protein
+CT135	NOT FOUND	1482	0.2163491	396	9.5313530	-5.4612465	hypothetical protein
+CT136	NOT FOUND	7134	1.6036351	85	2.5634893	-0.6767630	lysophospholipase esterase
+CT137	ywlC	2981	0.5779666	5	0.0963253	2.5849994	SuA5 superfamily-related protein
+CT138	NOT FOUND	1917	0.3115965	14	0.3427030	-0.1372798	microsomal dipeptidase
+CT139	oppA_1	928	0.1200665	4	0.1787666	-0.5742436	oligopeptide binding protein
+CT140	ypdP	1399	0.3120231	22	0.8034577	-1.3645691	hypothetical protein
+CT141	secA_1	1356	0.4932147	9	0.5776169	-0.2278971	protein translocase
+CTt03	tRNAThr_1	205	0.4933542	4	1.0958423	-1.1513444	tRNA-Thr
+CTt04	tRNATyr	150	0.3017851	2	0.5710843	-0.9201821	tRNA-Tyr
+CT142	NOT FOUND	5042	0.9570980	8	0.2474236	1.9516835	hypothetical protein
+CT143	NOT FOUND	3045	0.5830988	15	0.3251254	0.8427441	hypothetical protein
+CT144	NOT FOUND	2085	0.3957407	7	0.1415961	1.4827739	hypothetical protein
+CT145	NOT FOUND	3798	0.3403719	4	0.0353350	3.2679421	Serine/threonine protein kinase
+CT146	ligA	2682	0.2235270	9	0.0884996	1.3367062	NAD-dependent DNA ligase LigA
+CT147	NOT FOUND	4986	0.1843728	1054	5.9287151	-5.0070205	hypothetical protein
+CT148	mhpA	2868	0.3083980	44	0.7583748	-1.2981178	FAD-dependent monooxygenase
+CT149	NOT FOUND	256	0.0530578	16	0.4239340	-2.9982029	hydrolase
+CT150	rpmG	1669	1.9240795	42	7.9545184	-2.0476062	50S ribosomal protein L33
+CT151	NOT FOUND	4923	0.5418648	58	1.0135304	-0.9033846	hypothetical protein
+CT152	ycfV	603	0.1459034	4	0.0961548	0.6015827	ABC transporter ATPase
+CT153	NOT FOUND	4282	0.2819938	32	0.3303654	-0.2283992	MAC/perforin family protein
+CT154	NOT FOUND	300	0.0477845	2	0.0411458	0.2157976	phospholipase D endonuclease superfamily protein
+CT155	NOT FOUND	270	0.0496864	0	0.0000000	18.9224915	phospholipase D endonuclease superfamily protein
+CT156	NOT FOUND	83	0.0466712	0	0.0000000	18.8321730	hypothetical protein
+CT157	NOT FOUND	306	0.0419913	10	0.1706938	-2.0232481	phospholipase D endonuclease superfamily protein
+CT158	NOT FOUND	331	0.0772002	1	0.0227312	1.7639307	phospholipase D endonuclease superfamily protein
+CT159	NOT FOUND	295	0.0592742	4	0.0857412	-0.5325842	hypothetical protein
+CT160	NOT FOUND	273	0.0922709	0	0.0000000	19.8155162	hypothetical protein
+CT161	NOT FOUND	268	0.0633854	0	0.0000000	19.2737910	hypothetical protein
+CT162	NOT FOUND	15	0.0113407	0	0.0000000	16.7911502	hypothetical protein
+CT163	NOT FOUND	652	0.0613768	4	0.1390407	-1.1797418	hypothetical protein
+CT164	NOT FOUND	252	0.1412877	0	0.0000000	20.4302044	hypothetical protein
+CT165	NOT FOUND	612	0.2412217	0	0.0000000	21.2019283	hypothetical protein
+CT166	NOT FOUND	638	0.0562102	0	0.0000000	19.1004724	hypothetical protein
+CT167	NOT FOUND	1085	0.1339931	0	0.0000000	20.3537273	hypothetical protein
+CT168	NOT FOUND	182	0.0979699	0	0.0000000	19.9019790	hypothetical protein
+CT169	trpR	3253	1.8843763	46	3.8961373	-1.0479575	Trp operon repressor
+CT170	trpB	562	0.0804804	16	0.2776825	-1.7867266	tryptophan synthase subunit beta
+CT171	trpA	779	0.1661770	12	0.2955196	-0.8305331	tryptophan synthase subunit alpha
+CT172	NOT FOUND	116	0.0310653	0	0.0000000	18.2449445	hypothetical protein
+CT172.1	NOT FOUND	55	0.0519960	0	0.0000000	18.9880411	hypothetical protein
+CT173	NOT FOUND	75	0.0470209	0	0.0000000	18.8429426	hypothetical protein
+CT174	NOT FOUND	206	0.0679207	0	0.0000000	19.3734918	hypothetical protein
+CT175	oppA_2	1168	0.1222103	0	0.0000000	20.2209345	oligopeptide binding protein permease
+CT176	dsbB	1117	0.4365204	0	0.0000000	22.0576176	putative disulfide oxidoreductase
+CT177	dsbG	5887	1.3205647	6	0.1673567	2.9801568	disulfide bond chaperone
+CT178	NOT FOUND	4895	0.6741523	4	0.1271590	2.4064410	hypothetical protein
+CT179	NOT FOUND	1686	0.5240413	4	0.1270818	2.0439231	hypothetical protein
+CT180	tauB	5205	1.2198618	47	1.8237690	-0.5802053	nitrate/iron ABC transporter ATPase
+CTt05	tRNAIle	1088	2.5075409	11	4.2829659	-0.7723370	tRNA-Ile
+CTt06	tRNAAla_1	555	1.3443191	4	1.5554314	-0.2104392	tRNA-Ala
+CT181	NOT FOUND	1319	0.2739770	20	0.5625632	-1.0379604	hypothetical protein
+CT182	kdsB	1971	0.4084288	61	1.8381711	-2.1701147	3-deoxy-manno-octulosonate cytidylyltransferase
+CT183	pyrG	2187	0.2018041	74	1.0971962	-2.4427940	CTP synthetase
+CT184	yqgF	758	0.2597927	19	0.9587896	-1.8838535	Holliday junction resolvase-like protein
+CT185	zwf	7520	0.7713636	14	0.3303760	1.2233022	glucose-6-phosphate 1-dehydrogenase
+CT186	devB	2458	0.5176950	12	0.2728696	0.9238907	6-phosphogluconolactonase
+CT187	dnaX_1	2129	0.4008897	1	0.0271478	3.8842982	DNA polymerase III subunit delta'
+CT188	tmk	1792	0.4769610	0	0.0000000	22.1854399	thymidylate kinase
+CT189	gyrA_1	15204	0.9312246	4	0.0644763	3.8522883	DNA gyrase subunit A
+CT190	gyrB	10527	0.6962826	4	0.0948240	2.8763488	DNA gyrase subunit B
+CT191	NOT FOUND	1097	0.5034484	2	0.3262108	0.6260394	hypothetical protein
+CT192	NOT FOUND	199	0.0414903	0	0.0000000	18.6624146	hypothetical protein
+CT193	tgt	772	0.1099541	2	0.0291300	1.9163238	queuine tRNA-ribosyltransferase
+CT194	mgtE	2856	0.3181555	2	0.0230690	3.7857047	Mg2  transporter
+CT195	NOT FOUND	617	0.1037189	6	0.1098853	-0.0833196	hypothetical protein
+CT196	NOT FOUND	172	0.0852549	33	2.5439826	-4.8991612	hypothetical protein
+CT197	gcp_1	1374	0.2276863	7	0.2475383	-0.1206043	putative DNA-binding/iron metalloprotein/AP endonuclease
+CT198	oppA_3	2125	0.2244070	4	0.0418709	2.4220978	oligopeptide binding protein
+CT199	oppB_1	1414	0.2388247	2	0.0346035	2.7869622	oligopeptide permease
+CT200	oppC_1	1298	0.2514719	13	0.2679441	-0.0915349	oligopeptide permease
+CT201	oppD	1011	0.1958854	7	0.1367958	0.5179860	oligopeptide transport ATPase
+CT202	oppF	696	0.1523713	1	0.0219063	2.7981735	oligopeptide transport ATPase
+CT203	NOT FOUND	1867	0.4111725	0	0.0000000	21.9713123	hypothetical protein
+CT204	ybhI	2012	0.2326636	0	0.0000000	21.1498141	dicarboxylate translocator
+CT205	pfkA_1	2561	0.2504332	4	0.0570397	2.1343875	diphosphate--fructose-6-phosphate 1-phosphotransferase
+CT206	NOT FOUND	1030	0.2007699	2	0.1348646	0.5740312	acyltransferase family protein
+CT207	pfkA_2	3797	0.3643476	10	0.1169335	1.6396272	diphosphate--fructose-6-phosphate 1-phosphotransferase
+CTt07	tRNAMet_3	437	1.0755439	2	0.4404931	1.2878751	tRNA-Met
+CTt08	tRNAMet_1	187	0.4911260	2	0.4404931	0.1569738	tRNA-Met
+CT208	gseA	1308	0.1867613	0	0.0000000	20.8327641	3-deoxy-D-manno-octulosonic-acid transferase
+CT209	leuS	3847	0.2563238	26	0.2689345	-0.0692873	leucyl-tRNA synthetase
+CT210	hemL	3112	0.4019325	0	0.0000000	21.9385218	glutamate-1-semialdehyde aminotransferase
+CT211	NOT FOUND	1533	0.4530795	0	0.0000000	22.1113328	hypothetical protein
+CT212	NOT FOUND	1987	0.7084627	2	0.0729228	3.2802500	hypothetical protein
+CT213	rpiA	984	0.2273713	0	0.0000000	21.1166187	ribose-5-phosphate isomerase A
+CT214	NOT FOUND	3071	0.2947440	140	2.0025953	-2.7643367	hypothetical protein
+CT215	dhnA	5027	0.7574306	22	0.3707435	1.0306923	fructose-bisphosphate aldolase
+CT216	xasA	5061	0.5616539	16	0.2868590	0.9693396	glutamate/gamma-aminobutyrate antiporter
+CT217	ydaO	1205	0.2848883	34	1.5670574	-2.4595894	PP-loop superfamily ATPase
+CT218	surE	4466	0.8601125	12	0.3604337	1.2547914	stationary phase survival protein SurE
+CT219	ubiA	754	0.1390955	1	0.0260726	2.4154694	prenyltransferase
+CT220	ubiX	961	0.2736820	22	0.9209481	-1.7506192	aromatic acid decarboxylase
+CT221	yqfU	6549	1.2378190	209	5.5615580	-2.1676890	hypothetical protein
+CTt09	tRNAAsp	1013	2.5733070	32	8.6015292	-1.7409698	tRNA-Asp
+CTt10	tRNAVal_1	385	0.9993738	14	3.4298726	-1.7790589	tRNA-Val
+CT221.1	NOT FOUND	154	0.1837725	0	0.0000000	20.8094895	hypothetical protein
+CT222	NOT FOUND	314	0.1413103	0	0.0000000	20.4304352	hypothetical protein
+CT223	NOT FOUND	2606	0.5077756	2	0.1408364	1.8501708	hypothetical protein
+CT224	NOT FOUND	355	0.1326396	0	0.0000000	20.3390801	hypothetical protein
+CT225	NOT FOUND	902	0.4061425	1	0.0441687	3.2008897	hypothetical protein
+CT226	NOT FOUND	418	0.1303887	8	0.2455480	-0.9131863	hypothetical protein
+CT227	NOT FOUND	585	0.2399452	10	0.7662761	-1.6751594	hypothetical protein
+CT228	NOT FOUND	5490	1.4957626	400	16.4994360	-3.4634632	hypothetical protein
+CT229	NOT FOUND	780	0.2067567	1080	40.5301549	-7.6149193	hypothetical protein
+CT230	NOT FOUND	691	0.0957154	10	0.1661803	-0.7959264	neutral amino acid (glutamate) transporter
+CT231	NOT FOUND	1385	0.1508512	10	0.1407963	0.0995167	sodium-dependent amino acid transporter
+CT232	incB	516	0.2503784	18	1.2485229	-2.3180402	inclusion membrane protein B
+CT233	incC	435	0.1374973	13	0.5535186	-2.0092287	inclusion membrane protein C
+CT234	NOT FOUND	1832	0.1005172	119	0.9809473	-3.2867335	hypothetical protein
+CT235	NOT FOUND	586	0.2192908	14	0.8920120	-2.0242178	CRP family transcriptional regulator
+CT236	acpP	10768	7.3478258	15	1.1396536	2.6887220	acyl carrier protein
+CT237	fabG	3121	0.7024674	2	0.0436365	4.0088240	3-ketoacyl-(acyl-carrier-protein) reductase
+CT238	fabD	1739	0.3285092	2	0.0351634	3.2237873	acyl-carrier-protein S-malonyltransferase
+CT239	fabH	3519	0.6418889	10	0.2639121	1.2822661	3-oxoacyl-(acyl carrier protein) synthase III
+CT240	recR	682	0.1972788	0	0.0000000	20.9118045	recombination protein RecR
+CT241	yaeT	22226	1.4661916	21	0.2158352	2.7640716	OMP85 family membrane protein
+CT242	NOT FOUND	6904	2.0585513	3	0.1078477	4.2545621	OmpH-like Outer membrane protein
+CT243	lpxD	7860	1.1770413	0	0.0000000	23.4886616	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase
+CT244	NOT FOUND	868	0.1186959	0	0.0000000	20.1788387	hypothetical protein
+CT245	pdhA	2343	0.3559172	14	0.3320488	0.1001464	pyruvate dehydrogenase E1 component alpha subunit
+CT246	pdhB	1702	0.2638467	2	0.0330258	2.9980345	pyruvate dehydrogenase E1 component beta subunit
+CT247	pdhC	2252	0.2743587	2	0.0252686	3.4406457	branched-chain alpha-keto acid dehydrogenase subunit E2
+CT248	glgP	7635	0.4969718	2	0.0193865	4.6800397	glycogen phosphorylase
+CT249	NOT FOUND	532	0.2598130	49	4.1715625	-4.0050432	hypothetical protein
+CT250	dnaA	3175	0.3650433	10	0.2002137	0.8665269	chromosomal replication initiation protein
+CT251	NOT FOUND	13624	0.9102965	2	0.0137887	6.0447782	putative inner membrane protein translocase component YidC
+CT252	lgt	1342	0.2791829	8	0.1772765	0.6552093	prolipoprotein diacylglyceryl transferase
+CT253	NOT FOUND	4480	1.0970247	2	0.0731482	3.9066298	hypothetical protein
+CT254	NOT FOUND	2123	0.4339380	4	0.2970169	0.5469439	hypothetical protein
+CT255	NOT FOUND	666	0.2680949	0	0.0000000	21.3543123	hypothetical protein
+CT256	NOT FOUND	2295	0.2941956	0	0.0000000	21.4883442	hypothetical protein
+CT257	NOT FOUND	1875	0.2538055	0	0.0000000	21.2752919	hypothetical protein
+CT258	yhfO	2336	0.3399576	0	0.0000000	21.6969234	NifS family pyridoxal phosphate-dependent protein
+CT259	NOT FOUND	1014	0.2368843	0	0.0000000	21.1757512	PP2C phosphatase family protein
+CT260	NOT FOUND	2337	0.7351265	2	0.0662530	3.4719348	hypothetical protein
+CT261	dnaQ_1	2479	0.5658369	5	0.1165826	2.2790338	DNA polymerase III subunit epsilon
+CT262	NOT FOUND	1419	0.2990810	7	0.1479737	1.0151955	hypothetical protein
+CT263	NOT FOUND	1190	0.3374440	10	0.6915279	-1.0351395	hypothetical protein
+CT264	msbA	4730	0.3933655	113	1.3639646	-1.7938639	transport ATP binding protein
+CT265	accA	5465	0.8974944	387	9.4109078	-3.3903585	acetyl-CoA carboxylase carboxyltransferase subunit alpha
+CT266	NOT FOUND	6855	0.9316785	2	0.0401015	4.5381041	hypothetical protein
+CT267	ihfA	23354	12.5513774	4	0.2640148	5.5710831	integration host factor alpha-subunit
+CT268	amiA	4492	0.9733153	14	0.3115115	1.6436218	N-acetylmuramoyl-L-alanine amidase
+CT269	murE	14423	1.6138973	9	0.1112174	3.8590944	UDP-N-acetylmuramoylalanyl-D-glutamate--2, 6-diaminopimelate ligase
+CT270	pbp3	2353	0.2090199	0	0.0000000	20.9952089	penicillin-binding protein
+CT271	NOT FOUND	1032	0.6094899	0	0.0000000	22.5391709	hypothetical protein
+CT272	mraW	1990	0.3611585	2	0.0524917	2.7824709	S-adenosyl-methyltransferase MraW
+CT273	NOT FOUND	3451	0.9739423	2	0.0835979	3.5422977	hypothetical protein
+CT274	NOT FOUND	1031	0.4156166	3	0.1340393	1.6325972	hypothetical protein
+CT275	dnaA	10169	1.2130421	2	0.0346491	5.1296679	chromosomal replication initiation protein
+CT276	NOT FOUND	2028	0.5830513	2	0.0810257	2.8471713	hypothetical protein
+CT277	NOT FOUND	839	0.2173380	4	0.0987773	1.1376890	hypothetical protein
+CT278	nqr2	8756	0.8990276	2	0.0313492	4.8418649	Na( )-translocating NADH-quinone reductase subunit B
+CT279	nqr3	2227	0.3676876	2	0.0342760	3.4232099	Na( )-translocating NADH-quinone reductase subunit C
+CT280	nqr4	2001	0.4811370	2	0.0507734	3.2443030	Na( )-translocating NADH-quinone reductase subunit D
+CT281	nqr5	2641	0.5835621	2	0.0443490	3.7179127	Na( )-translocating NADH-quinone reductase subunit E
+CT282	gcsH	1991	0.9023463	4	0.2677966	1.7525436	glycine cleavage system protein H
+CT283	NOT FOUND	11137	0.8539188	10	0.1059592	3.0105900	hypothetical protein
+CT284	NOT FOUND	1883	0.2137327	91	1.5542992	-2.8623842	phospholipase D
+CT285	lplA_1	724	0.1530617	51	1.6602071	-3.4391786	lipoate-protein ligase A
+CT286	clpC	13743	0.8203271	23	0.2025091	2.0182126	ClpC protease ATPase
+CT287	mnmA	3476	0.5082465	121	2.6800160	-2.3986412	tRNA-specific 2-thiouridylase MnmA
+CT288	NOT FOUND	2370	0.2213037	122	1.9219920	-3.1185026	hypothetical protein
+CT289	NOT FOUND	14714	2.0991355	13	0.2412581	3.1211460	hypothetical protein
+CT290	ptsN_1	2459	0.6002337	25	0.9517414	-0.6650453	PTS IIA protein   HTH DNA-binding domain
+CT291	ptsN_2	2632	0.9404478	5	0.2018758	2.2198799	PTS IIA protein
+CT292	dut	5133	1.9763651	24	1.5802271	0.3227176	deoxyuridine 5'-triphosphate nucleotidohydrolase
+CT293	accD	2994	0.5236375	41	0.9933723	-0.9237660	acetyl-CoA carboxylase subunit beta
+CT294	sodM	4096	1.0917274	5	0.1312258	3.0564894	superoxide dismutase
+CT295	mrsA_1	9870	0.8885478	4	0.0595650	3.8989126	phosphoglucomutase
+CT296	NOT FOUND	3205	1.1981448	17	0.8861730	0.4351420	hypothetical protein
+CT297	rnc	1269	0.2919399	4	0.1362069	1.0998716	ribonuclease III
+CT298	radA	2018	0.2420759	0	0.0000000	21.2070280	DNA repair protein RadA
+CT299	hemC	746	0.1702086	6	0.2679015	-0.6543988	porphobilinogen deaminase
+CT300	NOT FOUND	92	0.0551011	0	0.0000000	19.0717216	hypothetical protein
+CT301	pknD	3328	0.1986753	4	0.0285193	2.8004020	serine/threonine-protein kinase
+CT302	valS	5667	0.3367713	10	0.0735436	2.1950975	valyl-tRNA synthetase
+CT303	NOT FOUND	2098	0.6551251	0	0.0000000	22.6433390	hypothetical protein
+CT304	atpK	1567	0.5762016	2	0.0765176	2.9127101	V-type ATP synthase subunit K
+CT305	atpI	3023	0.2616685	20	0.2815313	-0.1055550	V-type ATP synthase subunit I
+CT306	atpD	1551	0.3793070	9	0.2880576	0.3970086	V-type ATP synthase subunit D
+CT307	atpB	2892	0.3432814	28	0.3858490	-0.1686447	V-type ATP synthase subunit B
+CT308	atpA	2385	0.2287926	38	0.6440429	-1.4931166	V-type ATP synthase subunit A
+CT309	NOT FOUND	931	0.1968931	10	0.4264582	-1.1149917	hypothetical protein
+CT310	atpE	2360	0.6241750	44	1.8677047	-1.5812440	V-type ATP synthase subunit E
+CT311	NOT FOUND	2570	0.6014054	4	0.1701101	1.8218690	hypothetical protein
+CT312	NOT FOUND	8175	3.6091703	24	1.3313620	1.4387643	ferredoxin
+CT313	tal	31825	5.2164335	56	1.3577788	1.9418153	transaldolase B
+CT314	rpoC	51646	1.9912578	515	3.0278517	-0.6046145	DNA-directed RNA polymerase subunit beta'
+CT315	rpoB	33405	1.3559514	403	2.7947805	-1.0434294	DNA-directed RNA polymerase subunit beta
+CT316	rplL	9317	3.6736372	159	10.5851658	-1.5267629	50S ribosomal protein L7/L12
+CT317	rplJ	7651	2.3158709	199	9.2059071	-1.9910049	50S ribosomal protein L10
+CT318	rplA	7124	1.5719823	207	8.4695517	-2.4297003	50S ribosomal protein L1
+CT319	rplK	5819	2.1524036	148	7.9208900	-1.8797139	50S ribosomal protein L11
+CT320	nusG	3605	1.0715730	54	2.5036446	-1.2242998	transcription antitermination protein NusG
+CT321	secE	1753	1.1574780	31	2.6552878	-1.1978836	preprotein translocase subunit SecE
+CTt11	tRNATrp	545	1.2167444	7	2.5294040	-1.0557712	tRNA-Trp
+CT322	tuf	20101	2.6095001	297	6.3620564	-1.2857198	elongation factor Tu
+CTt12	tRNAThr_2	1577	3.4076215	34	9.5535575	-1.4872731	tRNA-Thr
+CT323	infA	1552	1.0954205	15	1.3346215	-0.2849459	translation initiation factor IF-1
+CT324	NOT FOUND	455	0.0847934	26	0.7578793	-3.1599437	hypothetical protein
+CT325	NOT FOUND	410	0.1563153	11	0.8503277	-2.4435598	hypothetical protein
+CT326	NOT FOUND	502	0.0494630	28	0.5951454	-3.5888202	hypothetical protein
+CT326.1	NOT FOUND	8	0.0080259	3	0.3761905	-5.5506544	hypothetical protein
+CT326.2	NOT FOUND	617	0.5524209	29	5.5108235	-3.3184280	hypothetical protein
+CTt13	tRNAMet_2	19	0.0557156	2	1.1089041	-4.3149106	tRNA-Met
+CT327	trpC	3716	0.9866585	90	4.0061767	-2.0216034	N-(5'-phosphoribosyl)anthranilate isomerase
+CT328	tpiA	2384	0.4828339	4	0.0790218	2.6112044	triosephosphate isomerase
+CT329	xseA	2831	0.2968647	3	0.0362969	3.0318873	exodeoxyribonuclease VII large subunit
+CT330	NOT FOUND	1426	0.8350409	20	2.1338314	-1.3535273	hypothetical protein
+CT331	dxs	2292	0.1958685	20	0.2564902	-0.3890182	1-deoxy-D-xylulose-5-phosphate synthase
+CT332	pykF	5133	0.5751966	15	0.3104878	0.8895186	pyruvate kinase
+CT333	uvrA	2653	0.0810290	2	0.0088416	3.1960590	excinuclease ABC subunit A
+CT334	dnaX_2	778	0.0906068	2	0.0232666	1.9613589	DNA polymerase III subunits gamma and tau
+CT335	NOT FOUND	546	0.2979605	2	0.1120154	1.4114240	hypothetical protein
+CT336	ptsI	3189	0.3116926	0	0.0000000	21.5716925	phosphoenolpyruvate-protein phosphotransferase
+CT337	ptsH	1180	0.5961957	0	0.0000000	22.5073545	phosphocarrier protein HPr
+CT338	NOT FOUND	468	0.1650295	1	0.0512987	1.6857297	hypothetical protein
+CT339	NOT FOUND	564	0.0641903	6	0.0735902	-0.1971583	hypothetical protein
+CT340	pdhA/B	3780	0.3018331	62	0.6711969	-1.1529851	2-oxoisovalerate dehydrogenase alpha subunit
+CT341	dnaJ	10149	1.4356710	175	3.7114906	-1.3702735	chaperone protein DnaJ
+CT342	rpsU	7344	6.7274936	68	11.7474229	-0.8042032	30S ribosomal protein S21
+CT343	NOT FOUND	1426	0.3782425	72	2.7931044	-2.8844862	O-sialoglycoprotein endopeptidase family protein
+CT344	lon	10268	0.6852321	14	0.1228427	2.4797806	ATP-dependent protease La
+CT345	NOT FOUND	270	0.1227430	1	0.0647541	0.9225973	hypothetical protein
+CT346	elaC	947	0.1743303	17	0.4365478	-1.3243163	ribonuclease Z
+CT347	xerC	129	0.0255944	0	0.0000000	17.9654687	site-specific tyrosine recombinase XerC
+CT348	yjjK	23423	2.3347882	108	1.6706530	0.4828796	ABC transporter ATPase
+CT349	maf	2689	0.7156267	2	0.1937394	1.8850898	Maf-like protein
+CT350	NOT FOUND	2409	0.2338556	2	0.0191631	3.6092151	hypothetical protein
+CT351	NOT FOUND	1690	0.1371071	4	0.0452722	1.5986060	hypothetical protein
+CT351a	secG	2299	1.2341381	10	1.1533867	0.0976275	preprotein translocase subunit SecG
+CT352	NOT FOUND	2669	1.4299797	9	1.0872434	0.3953197	hypothetical protein
+CT353	def	3874	1.1891872	24	1.2947674	-0.1227172	peptide deformylase
+CT354	ksgA	4359	0.8855448	4	0.0959191	3.2066753	dimethyladenosine transferase
+CT355	NOT FOUND	13178	2.1173047	35	0.5928933	1.8363845	hypothetical protein
+CT356	yyaL	1069	0.0832333	2	0.0224114	1.8929281	hypothetical protein
+CTt14	tRNASer_1	47	0.0964126	0	0.0000000	19.8788622	tRNA-Ser
+CT357R	NOT FOUND	396	0.2280436	8	0.8913195	-1.9666332	hypothetical protein
+CT357	NOT FOUND	645	0.3236983	16	1.4972868	-2.2096290	hypothetical protein
+CT358	NOT FOUND	1875	0.5982727	21	0.8652406	-0.5322982	hypothetical protein
+CT359	NOT FOUND	4995	1.4668313	47	1.8813771	-0.3590861	hypothetical protein
+CT360	NOT FOUND	969	0.2545821	2	0.0519880	2.2918804	hypothetical protein
+CT361	dapA	5973	1.1488784	44	1.3641227	-0.2477472	dihydrodipicolinate synthase
+CT362	lysC	6710	0.8799897	33	0.7306138	0.2683776	aspartate kinase
+CT363	asd	3784	0.6041238	42	1.1067723	-0.8734423	aspartate-semialdehyde dehydrogenase
+CT364	dapB	5304	1.1214137	39	1.1262053	-0.0061512	dihydrodipicolinate reductase
+CT365	NOT FOUND	1549	0.1486943	28	0.3069262	-1.0455425	hypothetical protein
+CT366	aroA	1169	0.1536233	15	0.3507452	-1.1910262	3-phosphoshikimate 1-carboxyvinyltransferase
+CT367	aroL	415	0.1354282	4	0.2783752	-1.0395025	shikimate kinase
+CT368	aroC	458	0.0733993	0	0.0000000	19.4854068	chorismate synthase
+CT369	aroB	636	0.0939845	2	0.0290521	1.6937804	3-dehydroquinate synthase
+CT370	aroDE	929	0.1062723	4	0.0453674	1.2280377	bifunctional 3-dehydroquinate dehydratase/shikimate dehydrogenase protein
+CT371	NOT FOUND	341	0.0704478	0	0.0000000	19.4261951	hypothetical protein
+CT372	NOT FOUND	2836	0.3747677	2	0.0356659	3.3933793	hypothetical protein
+CT373	NOT FOUND	2143	0.5707460	2	0.0554362	3.3639486	hypothetical protein
+CT374	arcD	2868	0.3123505	1	0.0112247	4.7984170	arginine/ornithine antiporter
+CT375	NOT FOUND	2563	0.3983562	28	0.7188625	-0.8516568	D-amino acid dehydrogenase
+CT376	mdhC	4541	0.7641920	49	1.1777277	-0.6239989	malate dehydrogenase
+CT377	ltuA	244	0.2994789	11	1.5339679	-2.3567422	late transcription unit A protein
+CT378	pgi	7736	0.7812651	4	0.1025982	2.9288068	glucose-6-phosphate isomerase
+CT379	hflX	2688	0.3078230	2	0.0851935	1.8532858	GTP binding protein
+CT380	phnP	2010	0.4195404	10	0.4449394	-0.0847991	metal-dependent hydrolase
+CT381	artJ	8297	1.7845836	14	0.4197448	2.0880031	arginine binding protein
+CT382	aroG	695	0.1346965	4	0.1044185	0.3673351	3-deoxy-7-phosphoheptulonate synthase
+CT382.1	NOT FOUND	1255	0.9804293	4	0.3395468	1.5298032	hypothetical protein
+CT383	NOT FOUND	591	0.1464778	50	1.6713954	-3.5122996	hypothetical protein
+CT384	NOT FOUND	1759	0.1808329	3	0.0645988	1.4850779	hypothetical protein
+CT385	ycfF	2515	1.2325097	3	0.1675491	2.8789432	Hit family hydrolase
+CT386	NOT FOUND	7117	1.3186635	11	0.3257350	2.0173058	metal dependent hydrolase
+CT387	NOT FOUND	2489	0.2019440	14	0.2030778	-0.0080773	hypothetical protein
+CT388	NOT FOUND	917	0.5163216	3	0.5668317	-0.1346505	hypothetical protein
+CT389	NOT FOUND	1717	0.2292919	0	0.0000000	21.1287540	hypothetical protein
+CT390	aspC	1830	0.2579161	4	0.0800000	1.6888299	L,L-diaminopimelate aminotransferase
+CT391	NOT FOUND	1024	0.1632238	1	0.0235119	2.7953884	hypothetical protein
+CT392	yprS	444	0.0643706	2	0.0417990	0.6229334	hypothetical protein
+CT393	proS	4481	0.4093017	53	0.7417214	-0.8577128	prolyl-tRNA synthetase
+CT394	hrcA	2424	0.3170607	11	0.1646177	0.9456396	heat-inducible transcription repressor
+CT395	grpE	3369	0.9203553	5	0.2068063	2.1539108	HSP-70 cofactor
+CT396	dnaK	21311	1.6069696	54	0.6010829	1.4187067	molecular chaperone DnaK
+CT397	vacB	11130	0.8791896	91	1.0357819	-0.2364740	exoribonuclease II
+CT398	NOT FOUND	18217	3.6963939	150	5.2654764	-0.5104456	hypothetical protein
+CT398.1	NOT FOUND	370328	45.1274265	425	7.6546638	2.5595936	Ribonuclease P RNA
+CT399	yrbH	3527	0.5756199	16	0.4371798	0.3968898	GutQ/KpsF family sugar-P isomerase
+CT400	sucB_2	2226	0.3256628	17	0.3680655	-0.1765836	branched-chain alpha-keto acid dehydrogenase subunit E2
+CT401	gltT	5226	0.7308412	164	2.8132230	-1.9445939	glutamate symport
+CT402	lpxK	12754	1.7107399	337	6.5317314	-1.9328448	tetraacyldisaccharide 4'-kinase
+CT403	yjfH	2951	0.6216866	31	0.9265086	-0.5756168	rRNA methylase
+CT404	NOT FOUND	3623	0.7251165	38	1.1698894	-0.6900874	N6-adenine-specific DNA methylase
+CT405	ribC	4721	1.2701143	42	2.1943012	-0.7888034	riboflavin synthase subunit alpha
+CT406	nrdR	3958	1.3151414	9	0.3472854	1.9210243	transcriptional regulator NrdR
+CT407	dksA	4787	1.9746945	7	0.4029240	2.2930498	dnaK suppressor protein
+CT408	lspA	2114	0.7027185	5	0.1910610	1.8789136	lipoprotein signal peptidase
+CT409	NOT FOUND	4610	0.5538774	313	5.6553726	-3.3519830	amino acid permease
+CT410	pcnB_1	3126	0.4003059	63	1.3910455	-1.7969949	polyA polymerase
+CT411	lpxB	1350	0.1171718	4	0.0357418	1.7129412	lipid-A-disaccharide synthase
+CT412	pmpA	972	0.0552771	0	0.0000000	19.0763224	polymorphic outer membrane protein
+CT413	pmpB	19958	0.6108118	4	0.0279864	4.4479301	putative outer membrane protein B
+CT414	pmpC	11972	0.3440268	2	0.0089215	5.2690908	putative outer membrane protein C
+CTt15	tRNASer_3	87	0.1813490	2	0.5642857	-1.6376569	tRNA-Ser
+CT415	yebL	896	0.1706379	18	0.7650854	-2.1646826	solute-binding protein
+CT416	NOT FOUND	534	0.1255008	6	0.3679276	-1.5517253	ABC transporter ATPase
+CT417	NOT FOUND	1194	0.2306112	28	0.7870470	-1.7709871	metal transport protein
+CT418	obgE	1503	0.2586389	32	0.7420870	-1.5206490	GTPase ObgE
+CT419	rpmA	1729	1.3073520	19	1.9219612	-0.5559315	50S ribosomal protein L27
+CT420	rplU	5045	2.5225128	74	5.1082927	-1.0179796	50S ribosomal protein L21
+CTt16	tRNAPhe	120	0.2755928	6	1.3395818	-2.2811724	tRNA-Phe
+CT421	NOT FOUND	3157	0.7117086	12	0.5330334	0.4170607	hypothetical protein
+CT421.1	NOT FOUND	5132	5.2955158	56	9.1183452	-0.7840009	hypothetical protein
+CT421.2	NOT FOUND	4369	4.4874212	52	8.4174410	-0.9074951	hypothetical protein
+CT422	NOT FOUND	2170	0.7302568	14	0.5761064	0.3420686	metalloenzyme
+CT423	NOT FOUND	1701	0.2606996	5	0.1103090	1.2408379	CBS domain-containing protein
+CT424	rsbV_1	3049	1.4600716	0	0.0000000	23.7995358	anti-sigma F factor antagonist
+CT425	NOT FOUND	4387	0.3739715	0	0.0000000	21.8344969	hypothetical protein
+CT426	NOT FOUND	1132	0.1684658	2	0.0427027	1.9800565	hypothetical protein
+CT427	NOT FOUND	909	0.1850349	2	0.0576642	1.6820496	hypothetical protein
+CT428	ubiE	2350	0.5553785	4	0.1266641	2.1324637	ubiquinone/menaquinone biosynthesis methyltransferase
+CT429	NOT FOUND	15301	2.4769939	53	1.4581464	0.7644548	hypothetical protein
+CT430	dapF	6616	1.2892180	4	0.0787355	4.0333382	diaminopimelate epimerase
+CT431	clpP_1	9446	2.6233639	5	0.1663122	3.9794520	ATP-dependent Clp protease proteolytic subunit
+CT432	glyA	6005	0.6729983	12	0.2405529	1.4842486	serine hydroxymethyltransferase
+CT433	hemD	92	0.0231245	0	0.0000000	17.8190626	uroporphyrinogen-III synthase
+CT434	ispF	1127	0.3405224	0	0.0000000	21.6993183	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+CT435	cysJ	2904	0.4313497	15	0.3802419	0.1819404	sulfite reductase
+CT436	rpsJ	6574	3.1556131	58	4.8190500	-0.6108284	30S ribosomal protein S10
+CT437	fusA	28403	2.1706716	390	4.5778140	-1.0765173	elongation factor G
+CT438	rs7	8758	3.0961493	123	6.3299430	-1.0317175	30S ribosomal protein S7
+CT439m	rpsL	8648	3.8206826	156	10.5525467	-1.4656889	30S ribosomal protein S12
+CT440	NOT FOUND	292	0.1311570	8	0.6698908	-2.3526313	hypothetical protein
+CT441	tsp	1306	0.0998116	6	0.0505372	0.9818618	tail-specific protease
+CT442	crpA	97	0.0305822	0	0.0000000	18.2223327	hypothetical protein
+CT443	omcB	46253	4.2956426	444	6.4158581	-0.5787682	60kD cysteine-rich outer membrane protein
+CT444	omcA	68591	42.7809948	989	90.3504895	-1.0785625	9kDa-cysteine-rich lipoprotein
+CT444.1	NOT FOUND	498	0.3764181	6	0.6320000	-0.7475885	hypothetical protein
+CT445	gltX	5973	0.6234774	68	1.2515831	-1.0053450	glutamyl-tRNA synthetase
+CT446	euo	1214	0.3729911	433	19.3223637	-5.6949863	hypothetical protein
+CT447	recJ	5179	0.4935333	0	0.0000000	22.2347160	ssDNA exonuclease
+CT448	secD/secF	15499	0.6020486	24	0.1426066	2.0778392	bifunctional preprotein translocase subunit SecD/SecF
+CT449	NOT FOUND	164	0.0878165	8	0.8834624	-3.3306045	hypothetical protein
+CT450	yaeS	1656	0.3569896	4	0.1244095	1.5207854	undecaprenyl pyrophosphate synthase
+CT451	cdsA	2520	0.4291176	2	0.0355082	3.5951489	phosphatidate cytidylyltransferase
+CT452	cmk	1574	0.3939201	4	0.2259547	0.8018694	cytidylate kinase
+CT453	plsC	1436	0.3733300	10	0.2730967	0.4510395	1-acyl-sn-glycerol-3-phosphate acyltransferase
+CT454	argS	2785	0.2697311	2	0.0192651	3.8074603	arginyl-tRNA synthetase
+CT455	murA	5206	0.6586107	10	0.2056127	1.6794966	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+CT456	NOT FOUND	3860	0.2086988	22	0.1531431	0.4465420	hypothetical protein
+CT457	yebC	3428	0.8449174	10	0.4764198	0.8265770	hypothetical protein
+CT458	YhhY	950	0.3101426	2	0.2271825	0.4490800	ribosomal-protein-alanine acetyltransferase
+CT459	prfB	1362	0.2113627	6	0.1149788	0.8783529	peptide chain release factor 2
+CT460	NOT FOUND	13203	8.5664589	6	0.3746723	4.5149977	SWIB (YM74) complex protein
+CT461	yaeI	5385	0.8887973	4	0.0658515	3.7545662	phosphohydrolase
+CT462	ispD	1499	0.3860513	1	0.0246943	3.9665426	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+CT463	truA	1430	0.3007746	1	0.0294776	3.3509918	tRNA pseudouridine synthase A
+CT464	NOT FOUND	2043	0.5139138	2	0.0702222	2.8715273	hydrolase, haloacid dehalogenase-like family
+CT465	NOT FOUND	401	0.1067628	0	0.0000000	20.0259776	hypothetical protein
+CTt17	tRNALeu_1	15	0.0229137	0	0.0000000	17.8058509	tRNA-Leu
+CT466	NOT FOUND	1178	0.5975091	0	0.0000000	22.5105293	hypothetical protein
+CT467	atoS	1904	0.3099285	2	0.0447592	2.7916793	2-component regulatory system-sensor histidine kinase
+CT468	atoC	769	0.1074001	2	0.0986219	0.1230153	2-component regulatory system-ATPase
+CTt18	tRNAArg_3	15	0.0424283	0	0.0000000	18.6946673	tRNA-Arg
+CT469	NOT FOUND	151	0.0467147	0	0.0000000	18.8335171	hypothetical protein
+CT470	recO	560	0.1327027	4	0.1092848	0.2801049	DNA repair protein RecO
+CT471	NOT FOUND	1479	0.4186464	2	0.0540572	2.9531735	hypothetical protein
+CTt19	tRNALeu_2	47	0.1044443	0	0.0000000	19.9943023	tRNA-Leu
+CT472	NOT FOUND	1496	0.3046120	2	0.1440252	1.0806515	hypothetical protein
+CT473	NOT FOUND	223	0.1205368	0	0.0000000	20.2010422	hypothetical protein
+CT474	NOT FOUND	530	0.0923566	2	0.0509678	0.8576290	hypothetical protein
+CT475	pheT	3582	0.2459147	6	0.0474475	2.3737540	phenylalanyl-tRNA synthetase subunit beta
+CT476	NOT FOUND	6105	1.0410491	4	0.0981367	3.4071015	hypothetical protein
+CT477	ada	972	0.3288736	0	0.0000000	21.6491018	methylated-DNA protein - cysteine methyltransferase
+CT478	oppC_2	5493	0.4992835	6	0.1034502	2.2709228	oligopeptide permease
+CT479	oppB_2	6333	0.6843504	5	0.0751171	3.1875219	oligopeptide permease
+CT480	oppA_4	10528	0.8130548	24	0.2866454	1.5040855	oligopeptide binding lipoprotein
+CT480.1	NOT FOUND	33735	36.4074403	4	0.4848272	6.2306189	hypothetical protein
+CT481	NOT FOUND	770	0.1741280	0	0.0000000	20.7317168	hypothetical protein
+CT482	NOT FOUND	4981	1.2122663	6	0.1947959	2.6376714	hypothetical protein
+CT483	NOT FOUND	480	0.2135914	0	0.0000000	21.0264221	hypothetical protein
+CT484	NOT FOUND	1333	0.2171730	2	0.0326291	2.7346136	hypothetical protein
+CT485	hemH	2311	0.3895287	0	0.0000000	21.8932982	ferrochelatase
+CT486	fliY	4126	0.8221334	0	0.0000000	22.9709411	glutamine-binding protein
+CT487	yhhF	443	0.1219991	0	0.0000000	20.2184391	methyltransferase
+CT488	NOT FOUND	907	0.2001369	2	0.0644898	1.6338443	hypothetical protein
+CT489	glgC	1271	0.1620382	8	0.0983303	0.7206260	glucose-1-phosphate adenylyltransferase
+CT490	NOT FOUND	808	0.5231538	0	0.0000000	22.3188037	hypothetical protein
+CT491	rho	12649	1.4747485	43	0.8914507	0.7262420	transcription termination factor Rho
+CT492	coaE	10753	2.8593680	48	2.0599444	0.4730909	dephospho-CoA kinase
+CT493	polA	5134	0.3168621	20	0.1909610	0.7305771	DNA polymerase I
+CT494	sohB	2594	0.4173924	8	0.1754985	1.2499456	protease
+CT495	NOT FOUND	2121	0.2174137	109	2.0710499	-3.2518479	ADP/ATP translocase
+CT496	pgsA_1	5860	1.9832511	64	3.2018340	-0.6910311	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+CTt20	tRNASer_2	18	0.0372417	0	0.0000000	18.5065594	tRNA-Ser
+CT496.1	NOT FOUND	149	0.1825818	1	0.1580000	0.2086184	hypothetical protein
+CT497	dnaB	2499	0.2954268	4	0.1140944	1.3725727	replicative DNA helicase
+CT498	gidA	16813	1.4487794	248	3.3259899	-1.1989460	tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA
+CT499	lplA_2	1497	0.3370762	12	0.3418654	-0.0203536	lipoate-protein ligase A
+CT500	ndk	39140	15.7499008	305	16.8150194	-0.0944077	nucleoside diphosphate kinase
+CT501	ruvA	1727	0.4658343	0	0.0000000	22.1513854	Holliday junction DNA helicase RuvA
+CT502	ruvC	2893	0.9595646	4	0.1270818	2.9166225	Holliday junction resolvase
+CT503	NOT FOUND	7914	2.3436270	22	1.0612328	1.1430018	hypothetical protein
+CTt21	tRNALeu_3	910	1.7636255	4	1.8614246	-0.0778629	tRNA-Leu
+CT504	NOT FOUND	10046	1.8569749	72	1.9015439	-0.0342169	hypothetical protein
+CT505	gapA	12150	1.9450829	99	2.5034695	-0.3640972	glyceraldehyde-3-phosphate dehydrogenase
+CT506	rplQ	6888	2.5568135	122	6.4964953	-1.3453148	50S ribosomal protein L17
+CT507	rpoA	17134	2.3766886	338	7.2300659	-1.6050557	DNA-directed RNA polymerase subunit alpha
+CT508	rs11	10136	4.3218972	243	15.1124104	-1.8059972	30S ribosomal protein S11
+CT509	rpsM	6751	3.0074952	151	10.6462060	-1.8237048	30S ribosomal protein S13
+CT510	secY	10279	1.2313076	149	2.8659197	-1.2188068	preprotein translocase subunit SecY
+CT511	rplO	4895	1.8871753	101	4.8844747	-1.3719749	50S ribosomal protein L15
+CT512	rpsE	4450	1.4863810	91	4.8071708	-1.6933840	30S ribosomal protein S5
+CT513	rplR	3532	1.5747197	97	6.6651811	-2.0815490	50S ribosomal protein L18
+CT514	rplF	3446	1.0369584	111	4.9542382	-2.2563055	50S ribosomal protein L6
+CT515	rpsH	2683	1.1259176	58	3.5162826	-1.6429498	30S ribosomal protein S8
+CT516	rplE	4601	1.3649215	72	3.8521292	-1.4968381	50S ribosomal protein L5
+CT517	rplX	2672	1.2736080	78	6.8276446	-2.4224663	50S ribosomal protein L24
+CT518	rplN	3879	1.7531130	108	7.6410854	-2.1238583	50S ribosomal protein L14
+CT519	rpsQ	2994	1.9190914	84	7.4808305	-1.9627752	30S ribosomal protein S17
+CT520	rpmC	2185	1.6685943	47	5.2957222	-1.6661943	50S ribosomal protein L29
+CT521	rplP	2417	1.0147064	55	3.2015440	-1.6577056	50S ribosomal protein L16
+CT522	rpsC	4336	1.1067098	140	5.5608837	-2.3290371	30S ribosomal protein S3
+CT523	rplV	3376	1.6979101	113	9.0217523	-2.4096477	50S ribosomal protein L22
+CT524	rpsS	3905	2.5116231	128	12.2965701	-2.2915638	30S ribosomal protein S19
+CT525	rplB	13045	2.5252785	333	8.9463815	-1.8248620	50S ribosomal protein L2
+CT526	rplW	5619	2.6920983	146	10.4124765	-1.9515105	50S ribosomal protein L23
+CT527	rplD	5545	1.3751129	141	4.6999607	-1.7730984	50S ribosomal protein L4
+CT528	rplC	5053	1.2863770	169	6.9813787	-2.4401985	50S ribosomal protein L3
+CT529	NOT FOUND	1206	0.2384889	94	2.4285494	-3.3481008	hypothetical protein
+CT530	fmt	2987	0.5046350	8	0.1371041	1.8799686	methionyl-tRNA formyltransferase
+CT531	lpxA	4562	0.8450383	15	0.3602464	1.2300327	UDP-N-acetylglucosamine acyltransferase
+CT532	fabZ	2670	0.9327714	0	0.0000000	23.1530921	(3R)-hydroxymyristoyl-ACP dehydratase
+CT533	lpxC	5505	1.0435456	6	0.1479634	2.8181814	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase
+CT534	lnt	1596	0.1616391	0	0.0000000	20.6243448	apolipoprotein N-acyltransferase
+CT535	yciA	3162	1.0746416	4	0.3045476	1.8191160	acyl-CoA hydrolase
+CT536	dnaQ_2	3826	0.7916130	12	0.4969316	0.6717480	DNA polymerase III subunit epsilon
+CT537	yjeE	3540	1.2468501	6	0.4103302	1.6034308	ATPase or kinase
+CT538	NOT FOUND	13340	2.9962132	58	2.1166728	0.5013420	hypothetical protein
+CTt22	tRNALeu_5	86	0.1592514	0	0.0000000	20.6028746	tRNA-Leu
+CT539	trxA	3140	1.6724359	12	0.9698632	0.7860977	thioredoxin
+CT540	yibK	2744	0.9659905	20	1.0405355	-0.1072453	rRNA methylase
+CT541	mip	7185	1.5501852	16	0.4169159	1.8946123	peptidyl-prolyl cis-trans isomerase
+CT542	aspS	8318	0.7932365	34	0.4358822	0.8638128	aspartyl-tRNA synthetase
+CT543	hisS	8455	1.0900087	57	1.1320479	-0.0545953	histidyl-tRNA synthetase
+CT544	uhpC	11895	1.4481083	18	0.3658541	1.9848292	hexosphosphate transport
+CT545	dnaE	7079	0.3015114	17	0.1306644	1.2063464	DNA polymerase III subunit alpha
+CT546	NOT FOUND	2210	0.3945415	10	0.3155092	0.3224950	hypothetical protein
+CT547	NOT FOUND	2267	0.4178479	0	0.0000000	21.9945465	hypothetical protein
+CT548	NOT FOUND	565	0.1554987	0	0.0000000	20.5684711	hypothetical protein
+CT549	rsbW	1056	0.3699964	0	0.0000000	21.8190798	sigma regulatory factor-histidine kinase
+CT550	NOT FOUND	2920	1.1248705	8	0.4276954	1.3951033	hypothetical protein
+CT551	dacC	2802	0.4511251	10	0.1937900	1.2190334	D-alanyl-D-alanine carboxypeptidase
+CT552	NOT FOUND	203	0.0794072	4	0.3968137	-2.3211204	hypothetical protein
+CT553	fmu	153	0.0238889	0	0.0000000	17.8659809	RNA methyltransferase
+CT554	brnQ	10967	1.4070755	92	1.9348890	-0.4595511	branched chain amino acid ABC transporter carrier protein
+CT555	NOT FOUND	3863	0.1689763	3	0.0249574	2.7592814	SWI/SNF family helicase
+CT556	NOT FOUND	6657	2.4468851	0	0.0000000	24.5444430	hypothetical protein
+CT557	lpdA	8043	0.9282295	12	0.2782496	1.7381019	dihydrolipoamide dehydrogenase
+CT558	lipA	2371	0.4317885	0	0.0000000	22.0418934	lipoyl synthase
+CT559	yscJ	14034	2.3407023	22	0.4791763	2.2883130	Yop proteins translocation lipoprotein J
+CT560	NOT FOUND	3275	0.6461573	0	0.0000000	22.6234540	hypothetical protein
+CT561	yscL	5428	1.3215651	2	0.0485067	4.7679196	type III secretion system protein
+CT562	yscR	2272	0.4115626	3	0.1136265	1.8568126	type III secretion system protein
+CT563	yscS	1514	0.8780302	7	0.6998246	0.3272771	Yop proteins translocation protein S
+CT564	yyscT	2282	0.4257822	18	0.6105666	-0.5200330	Yop proteins translocation protein T
+CT565	NOT FOUND	31602	11.9080137	110	5.3581042	1.1521382	hypothetical protein
+CT566	NOT FOUND	1329	0.2098579	134	3.4276568	-4.0297377	hypothetical protein
+CT567	NOT FOUND	972	0.3026761	119	5.9103810	-4.2874053	hypothetical protein
+CT568	NOT FOUND	1264	0.4621983	173	8.6525489	-4.2265410	hypothetical protein
+CT569	NOT FOUND	989	0.5066634	175	11.7800027	-4.5391673	general secretion pathway protein G
+CT570	gspF	1083	0.1636919	156	2.9323517	-4.1630043	general secretion pathway protein F
+CT571	gspE	1969	0.2269339	267	4.5774796	-4.3342085	general secretion pathway protein E
+CT572	gspD	2859	0.2131582	410	4.4178021	-4.3733332	general secretion pathway protein D
+CT573	NOT FOUND	1219	0.1813693	248	4.9874119	-4.7812897	hypothetical protein
+CT574	pepP	2502	0.3728256	0	0.0000000	21.8300695	aminopeptidase P
+CT575	mutL	2881	0.2809126	23	0.3647780	-0.3768975	DNA mismatch repair protein
+CT576	lcrH_1	2008	0.4575127	25	0.6676254	-0.5452271	low calcium response protein H
+CT577	NOT FOUND	781	0.3229087	20	1.4838402	-2.2001375	hypothetical protein
+CT578	NOT FOUND	2501	0.2540295	48	0.7042356	-1.4710623	hypothetical protein
+CT579	NOT FOUND	2744	0.3210336	106	1.8739919	-2.5453187	hypothetical protein
+CT580	NOT FOUND	1016	0.1683106	47	1.1560548	-2.7800119	hypothetical protein
+CT581	thrS	4813	0.4007811	33	0.5195419	-0.3744256	threonyl-tRNA synthetase
+CT582	minD	5479	1.1289259	6	0.1273301	3.1483054	chromosome partitioning ATPase-CHLTR plasmid protein homolog GP5D
+CT583	gp6D	3045	0.6240268	0	0.0000000	22.5731766	virulence plasmid protein pGP6-D-related protein
+CT584	NOT FOUND	5074	1.4791981	2	0.0858696	4.1065240	hypothetical protein
+CT585	trpS	5183	0.8063894	4	0.0768458	3.3914384	tryptophanyl-tRNA synthetase
+CT586	uvrB	2324	0.1869607	7	0.1087177	0.7821482	excinuclease ABC subunit B
+CT587	eno	6726	0.8148727	5	0.0813306	3.3247045	phosphopyruvate hydratase
+CT588	rbsU	1405	0.1202816	0	0.0000000	20.1979845	sigma regulatory family protein-PP2C phosphatase
+CT589	NOT FOUND	929	0.0829002	2	0.0262023	1.6616821	hypothetical protein
+CT590	NOT FOUND	4461	0.2543623	0	0.0000000	21.2784534	hypothetical protein
+CT591	sdhB	618	0.1489580	0	0.0000000	20.5064742	succinate dehydrogenase iron-sulfur subunit
+CT592	sdhA	673	0.0665368	2	0.0275261	1.2733522	succinate dehydrogenase flavoprotein subunit
+CT593	sdhC	226	0.0644488	0	0.0000000	19.2977940	succinate dehydrogenase
+CT593.1	NOT FOUND	204	0.1858606	0	0.0000000	20.8257895	hypothetical protein
+CT594	ycfH	1231	0.2497548	0	0.0000000	21.2520810	PHP superfamily hydrolase
+CT595	dsbD	2122	0.1622825	2	0.0550746	1.5590484	Thio:disulfide interchange protein
+CT596	exbB	1441	0.3305984	2	0.0466330	2.8256566	polysaccharide transporter
+CT597	exbD	283	0.1157221	0	0.0000000	20.1422330	biopolymer transport protein
+CT598	NOT FOUND	325	0.0766681	2	0.0460402	0.7357323	histone H1-I
+CT599	tolB	3234	0.4090665	8	0.1348738	1.6007253	translocation protein TolB
+CT600	pal	4535	1.2653553	11	0.4075714	1.6344178	peptidoglycan-associated lipoprotein
+CT601	papQ	3127	0.8268329	36	1.3731678	-0.7318402	invasin repeat-containing phosphatase
+CT602	NOT FOUND	5215	2.0958321	223	14.2688652	-2.7672754	hypothetical protein
+CT603	ahpC	13806	3.8992822	784	32.8545650	-3.0748136	thioredoxin peroxidase
+CTt23	tRNAArg_1	308	0.7389557	30	9.3947969	-3.6683030	tRNA-Arg
+CT604	groEL_2	1975	0.2063863	0	0.0000000	20.9769158	HSP-60
+CT605	ybbC	914	0.1253448	0	0.0000000	20.2574707	hypothetical protein
+CT606	yggV	1866	0.4895668	1	0.0258702	4.2421426	putative deoxyribonucleotide triphosphate pyrophosphatase
+CT606.1	NOT FOUND	1030	0.7634299	2	0.1358187	2.4908136	hypothetical protein
+CT607	ung	376	0.0941979	2	0.0686957	0.4554751	uracil-DNA glycosylase
+CT608	uvrD	7033	0.5707721	10	0.1010968	2.4971775	DNA helicase
+CT609	rpoN	1096	0.1343285	0	0.0000000	20.3573340	RNA polymerase factor sigma-54
+CT610	NOT FOUND	13711	3.2442329	25	0.7669112	2.0807460	hypothetical protein
+CT611	NOT FOUND	6756	1.5148242	25	0.8410843	0.8488281	hypothetical protein
+CT612	folA	3466	1.2055862	24	1.0318056	0.2245637	dihydrofolate reductase
+CT613	folP	17011	2.0587913	62	1.0929332	0.9135923	dihydropteroate synthase
+CT614	folX	3299	1.4130398	13	0.7834152	0.8509531	dihydroneopterin aldolase
+CT615	rpoD	6288	0.5791229	28	0.3740553	0.6306179	RNA polymerase sigma factor
+CT616	NOT FOUND	1628	0.2142547	7	0.0884401	1.2765543	hypothetical protein
+CT617	rpsT	14516	7.8483893	316	25.1723729	-1.6813729	30S ribosomal protein S20
+CT618	NOT FOUND	4135	0.8677423	209	6.9912850	-3.0102192	hypothetical protein
+CT619	NOT FOUND	2114	0.1303034	23	0.1647964	-0.3388101	hypothetical protein
+CT620	NOT FOUND	3400	0.2126363	6	0.0447330	2.2489765	hypothetical protein
+CT621	NOT FOUND	19383	1.2486130	12	0.1347325	3.2121566	hypothetical protein
+CT622	NOT FOUND	2779	0.2279038	14	0.1823506	0.3217101	hypothetical protein
+CT623	NOT FOUND	5242	0.6193911	4	0.0501871	3.6254622	hypothetical protein
+CT624	mviN	2925	0.2978280	0	0.0000000	21.5060480	integral membrane protein
+CT625	nfo	3675	0.7089457	14	0.4691880	0.5955090	endonuclease IV
+CT626	rpsD	9206	2.3769420	182	6.7838596	-1.5129994	30S ribosomal protein S4
+CT627	yceA	4324	0.6551202	4	0.0812973	3.0104803	hypothetical protein
+CT628	ispA	2090	0.3893612	4	0.0913202	2.0921032	dimethylallyltransferase
+CT629	glmU	2037	0.5445674	0	0.0000000	22.3766792	glucosamine-1-phosphate acetyltransferase
+CT630	cpxR	3147	0.7483154	4	0.0953114	2.9729258	HTH transcriptional regulatory protein and receiver domain
+CT631	NOT FOUND	790	0.5812254	2	0.1858824	1.6447076	hypothetical protein
+CTt24	tRNAPro_2	237	0.5547555	0	0.0000000	22.4034206	tRNA-Pro
+CT632	NOT FOUND	4809	0.4864296	4	0.0503123	3.2732480	hypothetical protein
+CT633	hemB	1229	0.2008453	0	0.0000000	20.9376533	delta-aminolevulinic acid dehydratase
+CT634	NOT FOUND	4916	0.6049670	25	0.3871044	0.6441337	Na( )-translocating NADH-quinone reductase subunit A
+CT635	NOT FOUND	1337	0.4884129	36	2.1949849	-2.1680378	hypothetical protein
+CT636	greA	5055	0.3859777	23	0.3408197	0.1795088	transcript cleavage factor/unknown domain fusion protein
+CTt25	tRNAAla_2	29	0.0698573	3	0.6697909	-3.2612277	tRNA-Ala
+CT637	tyrB	2445	0.3259775	10	0.2839509	0.1991309	aromatic amino acid aminotransferase
+CT638	NOT FOUND	595	0.1166797	4	0.1041621	0.1637231	rod shape-determining protein MreC
+CT638.1	NOT FOUND	120	0.0931277	0	0.0000000	19.8288508	hypothetical protein
+CT639	recB	2105	0.1124437	10	0.0673135	0.7402351	exodeoxyribonuclease V beta chain
+CT640	recC	3030	0.1763266	27	0.2150150	-0.2861872	exodeoxyribonuclease V gamma chain
+CT641	ygeD	3579	0.3498559	61	0.9304109	-1.4111072	efflux protein
+CT642	NOT FOUND	779	0.1486720	4	0.1984069	-0.4163292	hypothetical protein
+CT643	topA	8280	0.5061461	11	0.1100969	2.2007800	DNA topoisomerase I/SWI domain fusion protein
+CT644	yohI	1641	0.2567331	12	0.1946059	0.3997138	oxidoreductase
+CT645	NOT FOUND	124	0.0642013	2	0.1595960	-1.3137500	integral membrane protein
+CT646	NOT FOUND	118	0.0143123	25	0.4622311	-5.0132876	hypothetical protein
+CT647	NOT FOUND	342	0.1163619	148	6.1806109	-5.7310607	hypothetical protein
+CT648	NOT FOUND	725	0.0940200	253	4.5208517	-5.5874808	hypothetical protein
+CT649	ygfA	4	0.0006490	4	0.2739227	-8.7213234	formyltetrahydrofolate synthetase
+CT650	recA	1471	0.2161297	31	0.6383099	-1.5623598	recombinase A
+CT651	NOT FOUND	74	0.0055003	0	0.0000000	15.7472227	hypothetical protein
+CT652	recD_2	307	0.0309440	0	0.0000000	18.2393002	exodeoxyribonuclease V alpha chain
+CT652.1	NOT FOUND	885	0.7966605	0	0.0000000	22.9255336	hypothetical protein
+CT653	yhbG	1735	0.3763642	0	0.0000000	21.8436980	ABC transporter ATP-binding protein
+CT654	NOT FOUND	2000	0.6588156	0	0.0000000	22.6514433	hypothetical protein
+CT655	kdsA	10793	2.1122960	4	0.1170370	4.1737754	2-dehydro-3-deoxyphosphooctonate aldolase
+CTt26	tRNAArg_2	62	0.1319233	0	0.0000000	20.3312680	tRNA-Arg
+CT656	NOT FOUND	2527	1.4179987	8	0.5945459	1.2539961	hypothetical protein
+CT657	NOT FOUND	1368	0.6621533	2	0.3600629	0.8789163	hypothetical protein
+CT658	sfhB	3003	0.4931849	45	1.1294056	-1.1953632	ribosomal large subunit pseudouridine synthase D
+CT659	NOT FOUND	7304	5.1503049	94	9.6288326	-0.9027031	hypothetical protein
+CT660	gyrA_2	3320	0.3651739	21	0.2625076	0.4762245	DNA topoisomerase IV subunit A
+CT661	gyrB_2	1096	0.0958249	2	0.0260726	1.8778661	DNA topoisomerase IV subunit B
+CT662	hemA	563	0.0985432	0	0.0000000	19.9103968	glutamyl-tRNA reductase
+CT663	NOT FOUND	5165	2.2439203	0	0.0000000	24.4195181	hypothetical protein
+CT664	NOT FOUND	22508	1.5088532	10	0.1371859	3.4592483	FHA domain-containing protein
+CT665	NOT FOUND	6576	4.2520647	2	0.1293512	5.0387982	hypothetical protein
+CT666	NOT FOUND	7503	4.7017590	7	0.4527291	3.3764806	hypothetical protein
+CT667	NOT FOUND	10497	3.7933444	6	0.2173099	4.1256446	hypothetical protein
+CT668	NOT FOUND	6780	1.6078231	2	0.1703869	3.2382224	hypothetical protein
+CT669	yscN	7323	0.9063404	2	0.0245271	5.2076044	type III secretion system ATPase
+CT670	NOT FOUND	4378	1.3629613	4	0.1285858	3.4059414	hypothetical protein
+CT671	NOT FOUND	10650	1.9278495	2	0.0382588	5.6550570	hypothetical protein
+CT672	fliN	7655	1.0919065	6	0.0871564	3.6470989	type III secretion system protein
+CT673	pkn5	3206	0.3486477	0	0.0000000	21.7333385	S/T protein kinase
+CT674	yscC	17767	0.9937137	6	0.0406914	4.6100344	Yop proteins translocation protein C/general secretion pathway protein
+CTt27	tRNAThr_3	4324	10.9100608	11	4.9026196	1.1540344	tRNA-Thr
+CT675	karG	708	0.1241487	2	0.0304356	2.0282374	ATP:guanido phosphotransferase
+CT676	NOT FOUND	744	0.2429847	4	0.3101533	-0.3521160	hypothetical protein
+CTt28	tRNALys	178	0.4247689	1	0.2232636	0.9279300	tRNA-Lys
+CTt29	tRNAGlu	250	0.5993628	3	1.1979532	-0.9990701	tRNA-Glu
+CT677	frr	709	0.2011572	29	1.2398554	-2.6237763	ribosome recycling factor
+CT678	pyrH	4850	1.0688862	41	1.6208316	-0.6006259	uridylate kinase
+CT679	tsf	1506	0.2557391	5	0.1221396	1.0661417	elongation factor Ts
+CT680	rpsB	0	0.0000000	0	0.0000000	0.0000000	30S ribosomal protein S2
+CTt30	tRNAGly_2	0	0.0000000	0	0.0000000	0.0000000	tRNA-Gly
+CT681	ompA	8998	1.1091316	4	0.0551548	4.3298003	major outer membrane protein
+CT682	pbpB	4964	0.2396959	0	0.0000000	21.1927738	penicillin-binding protein
+CT683	NOT FOUND	3041	0.5132811	6	0.1116994	2.2001277	TPR-motif-containing protein
+CT684	NOT FOUND	2314	0.2511456	0	0.0000000	21.2600926	cysteine desulfurase activator complex subunit SufB
+CT685	NOT FOUND	958	0.2045446	2	0.1490886	0.4562455	ABC transporter ATP-binding protein
+CT686	NOT FOUND	720	0.0969253	0	0.0000000	19.8865138	ABC transporter membrane protein
+CT687	yfhO_1	1314	0.1752414	2	0.0949420	0.8842253	cysteine desulfurase
+CT688	parB	1525	0.2668878	0	0.0000000	21.3478019	chromosome partitioning protein
+CT689	dppF	1789	0.3592131	0	0.0000000	21.7764085	peptide ABC transporter ATPase
+CT690	dppD	3085	0.5255016	4	0.1675983	1.6486877	peptide ABC transporter ATPase
+CT691	NOT FOUND	39734	9.2383306	177	6.3307784	0.5452493	hypothetical protein
+CT692	NOT FOUND	12181	1.6109647	44	0.8409980	0.9377506	inorganic phosphate transporter
+CT693	pgk	2153	0.3125477	4	0.0537896	2.5386772	phosphoglycerate kinase
+CT694	NOT FOUND	361	0.0548062	1	0.0167678	1.7086457	hypothetical protein
+CT695	NOT FOUND	1039	0.1435703	4	0.0791980	0.8582214	hypothetical protein
+CT696	NOT FOUND	4033	0.5460414	0	0.0000000	22.3805789	hypothetical protein
+CT697	nth	1045	0.2909967	0	0.0000000	21.4725714	endonuclease III
+CT698	trmE	1660	0.2085068	36	0.7011775	-1.7496855	tRNA modification GTPase TrmE
+CT699	psdD	784	0.1355919	10	0.4674354	-1.7854962	phosphatidylserine decarboxylase
+CT700	NOT FOUND	8253	0.9372934	0	0.0000000	23.1600693	hypothetical protein
+CT701	secA	21253	1.1981567	44	0.3847786	1.6387161	preprotein translocase subunit SecA
+CT702	NOT FOUND	5055	1.5853573	21	0.9295122	0.7702623	hypothetical protein
+CT703	engA	2720	0.2980642	69	1.1972511	-2.0060309	GTP-binding protein EngA
+CT704	pcnB_2	4651	0.6123901	4	0.0708826	3.1109475	polyA polymerase
+CT705	clpX	16522	2.0342633	19	0.3695141	2.4608051	ATP-dependent protease ATP-binding subunit ClpX
+CT706	clpP	7933	2.0805696	9	0.3307835	2.6530194	ATP-dependent Clp protease proteolytic subunit
+CT707	tig	16872	2.0090105	34	0.6516046	1.6244164	trigger factor
+CTt31	tRNAGly_1	75	0.1798610	1	0.2263645	-0.3317654	tRNA-Gly
+CT708	NOT FOUND	38557	1.7319874	16	0.1258254	3.7829333	SWF/SNF family helicase
+CT709	mreB	11637	1.7643284	2	0.0296063	5.8970711	rod shape-determining protein MreB
+CT710	pckA	7825	0.7659968	6	0.0625517	3.6142174	phosphoenolpyruvate carboxykinase
+CT711	NOT FOUND	4580	0.3239656	14	0.2185299	0.5680099	hypothetical protein
+CT712	NOT FOUND	3330	0.4710570	0	0.0000000	22.1674702	hypothetical protein
+CT713	porB	9730	1.6039666	8	0.2875787	2.4796154	outer membrane protein B
+CT714	gpsA	1023	0.1822843	4	0.0648686	1.4905981	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase
+CT715	NOT FOUND	746	0.0899184	0	0.0000000	19.7782568	UDP-N-acetylglucosamine pyrophosphorylase
+CT716	NOT FOUND	185	0.0758885	0	0.0000000	19.5335218	hypothetical protein
+CT717	fliI	417	0.0514966	0	0.0000000	18.9741177	type III secretion system ATPase
+CT718	NOT FOUND	649	0.2015387	0	0.0000000	20.9426255	hypothetical protein
+CT719	fliF	3103	0.5071788	0	0.0000000	22.2740630	type III secretion system protein
+CT720	NOT FOUND	673	0.1428338	2	0.0605364	1.2384626	NifU-related protein
+CT721	yfhO_2	1089	0.1548703	4	0.1273563	0.2821902	NifS-related protein
+CT722	pgm	1651	0.4006992	2	0.1080004	1.8914830	phosphoglyceromutase
+CT723	yjbC	419	0.0946037	96	3.0148760	-4.9940568	ribosomal large subunit pseudouridine synthase B
+CT724	NOT FOUND	420	0.1318399	12	0.3725313	-1.4985745	hypothetical protein
+CT725	birA	435	0.1392375	5	0.1468310	-0.0766087	biotin--protein ligase
+CT726	rodA	1753	0.2422809	5	0.0714835	1.7609985	rod shape protein
+CT727	zntA	5628	0.4469377	5	0.0618399	2.8534638	metal transport P-type ATPase
+CT728	NOT FOUND	4264	0.8713812	9	0.2710033	1.6849936	hypothetical protein
+CT729	serS	4261	0.5218453	12	0.2094767	1.3168324	seryl-tRNA synthetase
+CT730	ribD	1121	0.1634162	4	0.1435284	0.1872148	riboflavin deaminase
+CT731	ribA/ribB	4025	0.5192421	103	2.0453430	-1.9778637	bifunctional 3,4-dihydroxy-2-butanone 4-phosphate synthase/GTP cyclohydrolase II protein
+CT732	ribH	859	0.3029468	13	1.0590680	-1.8056587	6,7-dimethyl-8-ribityllumazine synthase
+CT733	NOT FOUND	5954	0.7155128	14	0.2741596	1.3839616	hypothetical protein
+CT734	NOT FOUND	13290	3.2713814	609	21.5852036	-2.7220705	hypothetical protein
+CT735	dagA_2	4806	0.6158263	195	3.0334244	-2.3003517	Na( )-linked D-alanine glycine permease
+CT736	ybcL	3005	1.1014171	40	1.6842299	-0.6127281	hypothetical protein
+CT737	NOT FOUND	1795	0.4485638	6	0.2946917	0.6061067	SET domain containing protein
+CT738	yycJ	1308	0.2606162	0	0.0000000	21.3134953	Zn-dependent hydrolase
+CT739	ftsK	2500	0.1736878	2	0.0197500	3.1365719	cell division protein FtsK
+CTt32	tRNAHis	48	0.1088723	0	0.0000000	20.0542055	tRNA-His
+CTr01	16SrRNA_1	1038810	182.6004202	1852	24.0022105	2.9274509	16S ribosomal RNA
+CTr02	23SrRNA_1	1057623	96.6123617	5896	38.5460181	1.3256259	23S ribosomal RNA
+CTr03	5SrRNA_1	287	0.5250971	2	0.2786025	0.9143760	5S ribosomal RNA
+CT740	dmpP	6947	0.8555276	22	0.4487519	0.9308963	Na( )-translocating NADH-quinone reductase subunit F
+CT741	yajC	3141	1.4386200	0	0.0000000	23.7781822	preprotein translocase subunit YajC
+CT742	ygcA	1452	0.2015838	2	0.0273690	2.8807651	rRNA methyltransferase
+CT743	hctA	11864	4.8711078	2	0.3029101	4.0072883	histone-like developmental protein
+CT744	NOT FOUND	1339	0.0851770	2	0.0464315	0.8753600	CHLTR phosphoprotein
+CT745	hemG	1257	0.1657089	2	0.0371765	2.1561882	protoporphyrinogen oxidase
+CT746	hemN_2	2227	0.2557788	2	0.0344978	2.8903204	coproporphyrinogen III oxidase
+CT747	hemE	1644	0.2624309	2	0.1132542	1.2123730	uroporphyrinogen decarboxylase
+CT748	mfd	6381	0.3053151	20	0.1511642	1.0141824	transcription-repair coupling factor
+CT749	alaS	7343	0.4259985	42	0.3791356	0.1681344	alanyl-tRNA synthetase
+CTr04	16SrRNA_2	1037288	182.3135094	1916	23.9595857	2.9277466	16S ribosomal RNA
+CTr05	23SrRNA_2	1132221	104.1322595	5867	38.8853658	1.4211179	23S ribosomal RNA
+CTr06	5SrRNA_2	248	0.4896079	4	0.6204678	-0.3417295	5S ribosomal RNA
+CT750	tktB	8168	0.6840351	57	0.7244097	-0.0827355	transketolase
+CT751	amn	1720	0.3457718	8	0.3721839	-0.1061955	AMP nucleosidase
+CT752	efp_2	1593	0.4760770	22	0.8720400	-0.8731994	elongation factor P
+CT753	NOT FOUND	653	0.4693031	1	0.1053333	2.1555584	hypothetical protein
+CT754	icc	669	0.1385396	2	0.0373385	1.8915626	phosphohydrolase
+CT755	groEL_3	1439	0.1614194	0	0.0000000	20.6223825	60 kDa chaperonin GroEL
+CTt33	tRNACys	61	0.1647661	0	0.0000000	20.6519880	tRNA-Cys
+CT756	murF	1212	0.1450712	0	0.0000000	20.4683297	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D- alanine ligase
+CT757	mraY	722	0.1203813	0	0.0000000	20.1991799	phospho-N-acetylmuramoyl-pentapeptide- transferase
+CT758	murD	4432	0.5783325	0	0.0000000	22.4634677	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase
+CT759	nlpD	3659	0.8066703	0	0.0000000	22.9435477	muramidase
+CT760	ftsW	2090	0.3134425	0	0.0000000	21.5797694	cell division protein FtsW
+CT761	murG	1943	0.3097616	0	0.0000000	21.5627269	undecaprenyldiphospho-muramoylpentapeptide beta-N- acetylglucosaminyltransferase
+CT762	murC/ddlA	6633	0.4421543	0	0.0000000	22.0761185	bifunctional D-alanyl-alanine synthetase A/UDP-N-acetylmuramate--L-alanine ligase
+CT763	NOT FOUND	3255	1.2564397	4	0.2257143	2.4767717	hypothetical protein
+CT764	NOT FOUND	387	0.0821851	0	0.0000000	19.6485173	hypothetical protein
+CT765	rsbV_2	604	0.2972354	0	0.0000000	21.5031745	anti-sigma F factor antagonist
+CT766	miaA	1422	0.2298371	2	0.0464706	2.3062215	tRNA delta(2)-isopentenylpyrophosphate transferase
+CT767	NOT FOUND	1300	0.2059597	2	0.0450143	2.1939068	hypothetical protein
+CT768	NOT FOUND	16263	1.5620945	156	2.1386931	-0.4532477	hypothetical protein
+CT769	ybeB	8906	3.9279781	7	0.3580312	3.4556297	iojap superfamily protein
+CT770	fabF	16194	2.1191563	20	0.2828735	2.9052611	3-oxoacyl-(acyl carrier protein) synthase II
+CT771	NOT FOUND	4623	1.7321041	4	0.1765927	3.2940280	hydrolase/phosphatase-like protein
+CT772	ppa	2009	0.4899414	6	0.1552214	1.6582817	inorganic pyrophosphatase
+CT773	ldh	4811	0.7767858	0	0.0000000	22.8890854	leucine dehydrogenase
+CT774	cysQ	1505	0.2626962	0	0.0000000	21.3249639	3'(2'),5'-bisphosphate nucleotidase
+CT775	NOT FOUND	8113	1.7530989	90	3.1494463	-0.8451908	1-acyl-sn-glycerol-3-phosphate acyltransferase
+CT776	aas	6992	0.7092431	118	1.7164699	-1.2750924	long chain fatty acid--[acyl-carrier-protein] ligase
+CT777	bioF	2973	0.4379393	23	0.3993123	0.1332134	8-amino-7-oxononanoate synthase
+CT778	priA	1874	0.1365038	2	0.0144105	3.2437488	primosome assembly protein PriA
+CT779	NOT FOUND	422	0.1155463	0	0.0000000	20.1400396	hypothetical protein
+CT780	NOT FOUND	5279	1.7290229	2	0.0658515	4.7145969	protein disulfide isomerase
+CT781	lysS	4431	0.4537962	8	0.0918340	2.3049442	lysyl-tRNA synthetase
+CT782	cysS	3393	0.3703999	8	0.1718206	1.1081807	cysteinyl-tRNA synthetase
+CT783	NOT FOUND	14259	2.2302139	29	0.5737352	1.9587251	disulfide bond isomerase
+CT784	rnpA	8281	3.8284539	125	8.6530061	-1.1764394	ribonuclease P
+CT785	rpmH	4656	6.2940180	99	16.2688152	-1.3700561	50S ribosomal protein L34
+CT786	rpmJ	11649	13.3665726	144	26.6748602	-0.9968512	50S ribosomal protein L36
+CT787	rpsN	10286	5.5517636	150	12.6412596	-1.1871223	30S ribosomal protein S14
+CT788	NOT FOUND	3896	1.2946903	63	3.1239749	-1.2707760	leader (60) peptide-periplasmic
+CT789	NOT FOUND	543	0.3518349	8	1.0049255	-1.5141182	hypothetical protein
+CT790	NOT FOUND	6959	2.2986922	6	0.1975545	3.5404907	hypothetical protein
+CT791	uvrC	2353	0.2117811	0	0.0000000	21.0141424	excinuclease ABC subunit C
+CT792	mutS	3921	0.2480664	2	0.0132345	4.2283507	DNA mismatch repair protein MutS
+CT793	NOT FOUND	60	0.0364526	0	0.0000000	18.4756622	hypothetical protein
+CT794	dnaG	2322	0.2220123	20	0.2777905	-0.3233576	DNA primase
+CT794.1	NOT FOUND	162	0.0976315	178	14.3529605	-7.1997829	hypothetical protein
+CT795	NOT FOUND	2509	0.8126841	183	9.8770557	-3.6033144	hypothetical protein
+CT796	glyQ	4212	0.2262403	14	0.1943547	0.2191639	glycyl-tRNA synthetase
+CT797	pgsA_2	2493	0.6845172	12	0.5164060	0.4065811	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+CT798	glgA	30384	3.3345789	50	0.7387627	2.1743217	glycogen synthase
+CTt34	tRNAGln	352	0.9324462	2	0.6583333	0.5022023	tRNA-Gln
+CT799	ctc	9760	2.9465291	103	4.4329969	-0.5892658	50S ribosomal protein L25/general stress protein Ctc
+CT800	pth	4778	1.4958449	28	1.5888564	-0.0870281	peptidyl-tRNA hydrolase
+CT801	rpsF	15662	7.4220397	160	12.1855147	-0.7152795	30S ribosomal protein S6
+CT802	rpsR	13351	9.1701920	138	13.7501034	-0.5844187	30S ribosomal protein S18
+CT803	rplI	15037	4.9552339	122	5.8327068	-0.2352124	50S ribosomal protein L9
+CT804	ychB	3551	0.6666828	5	0.2055343	1.6976213	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+CT805	NOT FOUND	2290	0.2761921	2	0.0240920	3.5190460	hypothetical protein
+CT806	ptr	4792	0.2633822	22	0.1740435	0.5977099	insulinase family/protease III
+CT807	plsB	1256	0.1960255	33	0.8610142	-2.1349959	glycerol-3-phosphate acyltransferase
+CT808	cafE	5831	0.5787162	147	2.3339067	-2.0118189	ribonuclease E
+CT809	NOT FOUND	309	0.1562167	37	3.2185335	-4.3647831	hypothetical protein
+CT810	rpmF	2390	2.2149791	37	4.7536842	-1.1017529	50S ribosomal protein L32
+CT811	plsX	3163	0.5267235	43	1.0830400	-1.0399688	putative glycerol-3-phosphate acyltransferase PlsX
+CT812	pmpD	10008	0.3579847	4	0.0141847	4.6574904	polymorphic outer membrane protein
+CT813	NOT FOUND	475	0.0939042	4	0.1192453	-0.3446709	hypothetical protein
+CT814	NOT FOUND	866	0.3312710	11	0.4643842	-0.4873069	hypothetical protein
+CT814.1	NOT FOUND	917	0.3928791	10	0.5713305	-0.5402402	hypothetical protein
+CT815	glmM	2365	0.2912180	2	0.0344227	3.0806674	phosphoglucosamine mutase
+CT816	glmS	6231	0.5361564	2	0.0179003	4.9045982	glucosamine--fructose-6-phosphate aminotransferase
+CT817	tyrP_1	2773	0.3783829	14	0.3522051	0.1034310	tyrosine transporter
+CT818	tyrP_2	1363	0.2015719	10	0.2174954	-0.1096903	tyrosine transporter
+CT819	yccA	8321	1.9380740	28	1.0617510	0.8681782	transport permease
+CT820	ftsY	3100	0.5942793	42	1.2345994	-1.0548298	cell division protein FtsY
+CT821	sucC	6558	0.9674478	0	0.0000000	23.2057524	succinyl-CoA synthetase subunit beta
+CT822	sucD	3320	0.6527184	0	0.0000000	22.6380293	succinyl-CoA synthetase subunit alpha
+CT823	htrA	7677	0.8325565	10	0.1936389	2.1041794	DO Serine protease
+CT824	NOT FOUND	22165	1.2473424	12	0.1049879	3.5705626	zinc metalloprotease
+CT825	NOT FOUND	2494	0.3190723	0	0.0000000	21.6054519	hypothetical protein
+CT826	pssA	1100	0.2210745	0	0.0000000	21.0761012	CDP-diacylglycerol--serine O-phosphatidyltransferase
+CT827	nrdA	35944	1.8213894	16	0.1137020	4.0017099	ribonucleotide-diphosphate reductase subunit alpha
+CT828	nrdB	11149	1.6984107	2	0.0455332	5.2211227	ribonucleotide-diphosphate reductase subunit beta
+CT829	trmB	1520	0.3664692	16	0.4740533	-0.3713574	tRNA (guanine-N(7)-)-methyltransferase
+CTt35	tRNAVal_2	158	0.4080932	2	0.5405168	-0.4054407	tRNA-Val
+CT830	ytgB_2	331	0.0920620	3	0.0835808	0.1394343	rRNA methylase
+CT831	murB	633	0.1273648	2	0.0372106	1.7751810	UDP-N-acetylenolpyruvoylglucosamine reductase
+CT832	nusB	2463	0.7883021	58	2.8610540	-1.8597260	transcription antitermination protein NusB
+CT833	infC	9460	3.0694051	126	6.0573698	-0.9807325	translation initiation factor IF-3
+CT834	rpmI	5154	4.3152778	72	9.7752722	-1.1796833	50S ribosomal protein L35
+CT835	rplT	5382	2.4114455	80	5.8645822	-1.2821303	50S ribosomal protein L20
+CT836	pheS	5691	0.9276346	77	1.7278903	-0.8973830	phenylalanyl-tRNA synthetase subunit alpha
+CTt36	tRNASer_4	113	0.2385671	1	0.2821429	-0.2420309	tRNA-Ser
+CT837	NOT FOUND	2240	0.1746853	26	0.3685781	-1.0772121	hypothetical protein
+CT838	NOT FOUND	1623	0.2326162	7	0.1811535	0.3607389	hypothetical protein
+CT839	NOT FOUND	1690	0.2629905	0	0.0000000	21.3265793	hypothetical protein
+CT840	mesJ	824	0.1376851	2	0.1185300	0.2161202	PP-loop superfamily ATPase
+CT841	ftsH	14381	0.8161352	222	1.8644267	-1.1918519	ATP-dependent zinc protease
+CT842	pnp	33049	2.5371853	211	2.4367480	0.0582719	polynucleotide phosphorylase/polyadenylase
+CT843	rpsO	30414	18.1412554	184	16.3755458	0.1477313	30S ribosomal protein S15
+CT844	yfhC	571	0.1978143	0	0.0000000	20.9157153	cytosine deaminase
+CT845	NOT FOUND	459	0.2878743	0	0.0000000	21.4570076	hypothetical protein
+CT846	NOT FOUND	795	0.1892738	6	0.1807042	0.0668447	hypothetical protein
+CT847	NOT FOUND	864	0.2546208	0	0.0000000	21.2799188	hypothetical protein
+CT848	NOT FOUND	1021	0.3333545	2	0.0934911	1.8341563	hypothetical protein
+CT849	NOT FOUND	2250	0.7892912	0	0.0000000	22.9121262	hypothetical protein
+CT849.1	NOT FOUND	1657	1.5544286	4	0.3449364	2.1719821	hypothetical protein
+CT850	NOT FOUND	2418	0.3418983	10	0.1338115	1.3533651	hypothetical protein
+CT851	map	1388	0.2499550	12	0.2401626	0.0576568	methionine aminopeptidase
+CT852	yhgN	74	0.0161037	0	0.0000000	17.2970327	YhgN family protein
+CT853	NOT FOUND	1924	0.5133237	16	0.9428275	-0.8771251	hypothetical protein
+CT854	NOT FOUND	1893	0.1742217	24	0.2544474	-0.5464430	ABC transporter permease fused to pyrimidine biosynthesis enzyme
+CT855	fumC	1970	0.2295380	0	0.0000000	21.1303016	fumarate hydratase
+CT856	ychM	2090	0.2032781	6	0.2015845	0.0120700	sulfate transporter
+CT857	NOT FOUND	2302	0.2834103	65	1.1918537	-2.0722431	Na /H  antiporter
+CT858	NOT FOUND	13323	1.1374809	12	0.1492782	2.9297669	protease
+CT859	ispH	6976	1.1863458	30	0.9072321	0.3869810	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+CT860	NOT FOUND	1127	0.1225201	0	0.0000000	20.2245870	hypothetical protein
+CT861	NOT FOUND	582	0.0651260	0	0.0000000	19.3128741	hypothetical protein
+CT862	lcrH_2	462	0.1288050	0	0.0000000	20.2967572	type III secretion chaperone
+CT863	NOT FOUND	1322	0.1466017	0	0.0000000	20.4834704	hypothetical protein
+CTt37	tRNALeu_4	180	0.4006600	2	0.3975182	0.0113575	tRNA-Leu
+CT864	xerD	2104	0.3939797	21	0.7210750	-0.8720279	site-specific tyrosine recombinase XerD
+CT865	NOT FOUND	2046	0.3415623	42	0.7961120	-1.2208227	hypothetical protein
+CT866	glgB	6700	0.5117853	32	0.3625525	0.4973488	glycogen branching enzyme
+CT867	NOT FOUND	895	0.1487557	116	2.9835243	-4.3259993	hypothetical protein
+CT868	NOT FOUND	348	0.0488584	43	0.8413376	-4.1060060	hypothetical protein
+CT869	pmpE	10202	0.5568532	30	0.2278660	1.2891114	polymorphic outer membrane protein
+CT870	pmpF	7947	0.4230372	14	0.1500805	1.4950480	polymorphic outer membrane protein
+CT871	pmpG	14231	0.7594356	11	0.0589351	3.6877286	polymorphic outer membrane protein
+CT872	pmpH	16918	0.8905207	4	0.0482126	4.2071670	polymorphic outer membrane protein
+CT873	NOT FOUND	63	0.0284865	0	0.0000000	18.1199188	hypothetical protein
+CT874	pmpI	5332	0.3154524	61	0.5828374	-0.8856711	polymorphic outer membrane protein
+CT875	NOT FOUND	852	0.2280703	18	0.5629649	-1.3035663	hypothetical protein
