@@ -1,0 +1,883 @@
+Chlamydia trachomatis, complete genome
+880 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+1..1017	+	338	5858769	hemB	YP_001654092.1	-	-	delta-aminolevulinic acid dehydratase
+1043..2440	-	465	5857942	nqrA	YP_001654093.1	-	-	Na(+)-translocating NADH-quinone reductase subunit A
+2462..2896	-	144	5858572	-	YP_001654094.1	-	-	hypothetical protein CTL0003
+3010..5157	+	715	5858782	greA	YP_001654095.1	-	-	transcription elongation factor GreA
+5345..6547	+	400	5857932	aspC	YP_001654096.1	-	-	aromatic amino acid aminotransferase
+6522..7532	+	336	5858612	-	YP_001654097.1	-	-	rod shape-determining protein MreC
+7548..10628	-	1026	5858760	recB	YP_001654098.1	-	-	exodeoxyribonuclease V subunit beta
+10630..13650	-	1006	5858560	recC	YP_001654099.1	-	-	exodeoxyribonuclease V subunit gamma
+13663..15342	+	559	5858002	-	YP_001654100.1	-	-	membrane efflux protein
+15362..16177	-	271	5858731	-	YP_001654101.1	-	-	hypothetical protein CTL0010
+17072..19645	+	857	5858735	topA	YP_001654102.1	-	-	DNA topoisomerase I
+19675..20679	-	334	5858362	-	YP_001654103.1	-	-	tRNA-dihydrouridine synthase
+20658..20954	-	98	5858065	-	YP_001654104.1	-	-	hypothetical protein CTL0013
+21059..22438	+	459	5857982	-	YP_001654105.1	-	-	hypothetical protein CTL0014
+22438..23016	+	192	5858794	-	YP_001654106.1	-	-	hypothetical protein CTL0015
+23007..24281	+	424	5858701	-	YP_001654107.1	-	-	hypothetical protein CTL0016
+24284..24820	+	178	5857973	-	YP_001654108.1	-	-	5-formyltetrahydrofolate cyclo-ligase
+25080..26138	+	352	5857960	recA	YP_001654109.1	-	-	recombinase A
+26424..28250	+	608	5858568	-	YP_001654110.1	-	-	hypothetical protein CTL0019
+28247..29737	+	496	5858050	recD	YP_001654111.1	-	-	exodeoxyribonuclease V subunit alpha
+29803..29982	+	59	5858007	-	YP_001654112.1	-	-	hypothetical protein CTL0021
+30083..30802	-	239	5858092	-	YP_001654113.1	-	-	ABC transporter ATP-binding protein
+30811..31299	-	162	5857968	-	YP_001654114.1	-	-	hypothetical protein CTL0023
+31296..32105	-	269	5858018	kdsA	YP_001654115.1	-	-	2-dehydro-3-deoxyphosphooctonate aldolase
+32591..32884	+	97	5857924	-	YP_001654116.1	-	-	hypothetical protein CTL0025
+32884..33201	+	105	5858019	-	YP_001654117.1	-	-	hypothetical protein CTL0026
+33283..34290	+	335	5858191	sfhB	YP_001654118.1	-	-	RNA pseudouridine synthase
+34390..34626	+	78	5858159	-	YP_001654119.1	-	-	hypothetical protein CTL0028
+34765..36237	-	490	5858093	gyrA2	YP_001654120.1	-	-	DNA topoisomerase IV subunit A
+36252..38069	-	605	5858181	gyrB	YP_001654121.1	-	-	DNA topoisomerase IV subunit B
+38449..39456	+	335	5858148	hemA	YP_001654122.1	-	-	glutamyl-tRNA reductase
+40168..40569	+	133	5858045	sycE	YP_001654123.1	-	-	type III secretion system chaperone
+40573..43062	+	829	5858226	-	YP_001654124.1	-	-	hypothetical protein CTL0033
+43106..43357	+	83	5857951	-	YP_001654125.1	-	-	hypothetical protein CTL0034
+43384..43635	+	83	5857950	-	YP_001654126.1	-	-	hypothetical protein CTL0035
+43654..44103	+	149	5858714	-	YP_001654127.1	-	-	hypothetical protein CTL0036
+44123..44794	+	223	5857938	-	YP_001654128.1	-	-	hypothetical protein CTL0037
+44796..46124	+	442	5858830	sctN	YP_001654129.1	-	-	ATP synthase
+46147..46653	+	168	5858566	-	YP_001654130.1	-	-	hypothetical protein CTL0039
+46657..47508	+	283	5858162	-	YP_001654131.1	-	-	hypothetical protein CTL0040
+47518..48639	+	373	5858835	sctQ	YP_001654132.1	-	-	type III secretion system protein
+48774..50246	+	490	5857908	pkn5	YP_001654133.1	-	-	serine/threonine-protein kinase
+50243..53008	+	921	5858779	-	YP_001654134.1	-	-	type III secretion system protein
+53322..54392	-	356	5858268	-	YP_001654135.1	-	-	protein-arginine kinase
+54382..54903	-	173	5858468	-	YP_001654136.1	-	-	protein-arginine kinase activator protein
+55274..55813	-	179	5858332	frr	YP_001654137.1	-	-	ribosome recycling factor
+55810..56547	-	245	5858098	pyrH	YP_001654138.1	-	-	uridylate kinase
+56560..57408	-	282	5858656	tsf	YP_001654139.1	-	-	elongation factor Ts
+57405..58253	-	282	5858829	rpsB	YP_001654140.1	-	-	30S ribosomal protein S2
+58637..59821	-	394	5858320	ompA	YP_001654141.1	-	-	major outer membrane porin
+60428..63670	+	1080	5858500	pbpB	YP_001654142.1	-	-	penicillin-binding protein
+63734..64741	+	335	5857981	-	YP_001654143.1	-	-	hypothetical protein CTL0052
+65083..66534	+	483	5858825	-	YP_001654144.1	-	-	cysteine desulfurase activator complex subunit SufB
+66537..67304	+	255	5858763	-	YP_001654145.1	-	-	FeS assembly ABC transporter ATP-binding protein SufC
+67308..68495	+	395	5858055	-	YP_001654146.1	-	-	FeS assembly protein SufD
+68488..69693	+	401	5858054	sufS	YP_001654147.1	-	-	cysteine desulfurase
+69829..70674	+	281	5858632	parB	YP_001654148.1	-	-	chromosome partitioning protein ParB
+70666..71496	-	276	5858431	dppF	YP_001654149.1	-	-	oligopeptide ABC transporter ATP-binding protein
+71489..72454	-	321	5858660	dppD	YP_001654150.1	-	-	oligopeptide ABC transporter ATP-binding protein
+72615..73289	+	224	5858521	-	YP_001654151.1	-	-	hypothetical protein CTL0060
+73292..74572	+	426	5858053	-	YP_001654152.1	-	-	phosphate permease
+74711..75922	+	403	5858720	pgk	YP_001654153.1	-	-	phosphoglycerate kinase
+76182..77150	+	322	5858442	-	YP_001654154.1	-	-	hypothetical protein CTL0063
+77201..78397	+	398	5858128	-	YP_001654155.1	-	-	hypothetical protein CTL0064
+78483..79661	+	392	5857976	-	YP_001654156.1	-	-	hypothetical protein CTL0065
+79658..80293	-	211	5857958	nth	YP_001654157.1	-	-	endonuclease III
+80300..81634	-	444	5858796	trmE	YP_001654158.1	-	-	tRNA modification GTPase
+81902..82807	+	301	5858418	psdD	YP_001654159.1	-	-	phosphatidylserine decarboxylase
+82872..84197	+	441	5858532	-	YP_001654160.1	-	-	hypothetical protein CTL0069
+84456..87365	+	969	5857962	secA	YP_001654161.1	-	-	preprotein translocase subunit SecA
+87459..87986	-	175	5858249	-	YP_001654162.1	-	-	hypothetical protein CTL0071
+88063..89535	-	490	5857964	engA	YP_001654163.1	-	-	GTPase Der
+89651..90883	-	410	5857984	pcnB	YP_001654164.1	-	-	poly A polymerase
+90898..92157	-	419	5858594	clpX	YP_001654165.1	-	-	ATP-dependent Clp protease ATP-binding subunit ClpX
+92167..92778	-	203	5858739	clpP	YP_001654166.1	-	-	ATP-dependent Clp protease proteolytic subunit
+92945..94273	-	442	5858454	tig	YP_001654167.1	-	-	trigger factor
+94632..98123	+	1163	5858311	-	YP_001654168.1	-	-	helicase
+98128..99228	+	366	5858075	mreB	YP_001654169.1	-	-	rod shape-determining protein MreB
+99225..101024	+	599	5858756	pckA	YP_001654170.1	-	-	phosphoenolpyruvate carboxykinase
+101136..103439	+	767	5858432	-	YP_001654171.1	-	-	hypothetical protein CTL0080
+103466..104638	+	390	5857969	-	YP_001654172.1	-	-	type III secretion system effector protein
+104704..105726	-	340	5858130	ompB	YP_001654173.1	-	-	outer membrane protein B
+105860..106864	-	334	5858505	gpsA	YP_001654174.1	-	-	glycerol-3-phosphate dehydrogenase
+106861..108228	-	455	5858036	-	YP_001654175.1	-	-	UDP-N-acetylglucosamine pyrophosphorylase
+108240..108605	-	121	5858106	-	YP_001654176.1	-	-	hypothetical protein CTL0085
+108598..109902	-	434	5858754	fliI	YP_001654177.1	-	-	type III secretion system ATP synthase
+109976..110500	-	174	5858083	-	YP_001654178.1	-	-	hypothetical protein CTL0087
+110505..111509	-	334	5857963	fliF	YP_001654179.1	-	-	type III secretion system protein
+111783..112565	-	260	5858033	-	YP_001654180.1	-	-	hypothetical protein CTL0089
+112562..113716	-	384	5858089	-	YP_001654181.1	-	-	aminotransferase
+113671..114351	-	226	5858631	pgmA	YP_001654182.1	-	-	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+114646..115371	+	241	5858449	-	YP_001654183.1	-	-	RNA pseudouridine synthase
+115490..116014	+	174	5857959	-	YP_001654184.1	-	-	hypothetical protein CTL0093
+116041..116595	+	184	5858090	birA	YP_001654185.1	-	-	biotin--protein ligase
+116602..117741	-	379	5858029	-	YP_001654186.1	-	-	cell division protein
+117833..119812	-	659	5858085	-	YP_001654187.1	-	-	metal transporting ATPase
+119836..120582	-	248	5858773	-	YP_001654188.1	-	-	hypothetical protein CTL0097
+120619..121905	-	428	5857961	serS	YP_001654189.1	-	-	serine--tRNA ligase
+121947..123074	+	375	5858243	ribD	YP_001654190.1	-	-	bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase
+123184..124458	+	424	5858517	ribA	YP_001654191.1	-	-	bifunctional 3,4-dihydroxy-2-butanone 4-phosphate synthase/GTP cyclohydrolase II
+124427..124900	+	157	5858575	ribH	YP_001654192.1	-	-	6,7-dimethyl-8-ribityllumazine synthase
+124951..126297	-	448	5858555	-	YP_001654193.1	-	-	hypothetical protein CTL0102
+126682..127347	+	221	5858734	-	YP_001654194.1	-	-	lipoprotein
+127452..128819	+	455	5858724	dagA	YP_001654195.1	-	-	Na+/alanine symporter
+128877..129329	+	150	5858434	-	YP_001654196.1	-	-	hypothetical protein CTL0105
+129338..129997	-	219	5858088	-	YP_001654197.1	-	-	hypothetical protein CTL0106
+129994..130782	-	262	5858459	-	YP_001654198.1	-	-	Zn-dependent hydrolase
+130786..133185	-	799	5858134	ftsK	YP_001654199.1	-	-	DNA translocase FtsK
+139457..140752	-	431	5858486	dmpP	YP_001654200.1	-	-	Na(+)-translocating NADH-quinone reductase subunit F
+140895..141239	-	114	5858687	yajC	YP_001654201.1	-	-	preprotein translocase subunit YajC
+141344..142534	-	396	5858071	-	YP_001654202.1	-	-	RNA methyltransferase
+142722..143099	-	125	5858703	hctA	YP_001654203.1	-	-	histone H1-like protein
+143495..145963	+	822	5858678	-	YP_001654204.1	-	-	hypothetical protein CTL0113
+145955..147229	-	424	5858215	hemG	YP_001654205.1	-	-	protoporphyrinogen oxidase
+147226..148599	-	457	5858133	hemN	YP_001654206.1	-	-	coproporphyrinogen-III oxidase
+148572..149582	-	336	5858692	hemE	YP_001654207.1	-	-	uroporphyrinogen decarboxylase
+149595..152834	-	1079	5858600	mfd	YP_001654208.1	-	-	transcription-repair coupling factor
+152810..155437	-	875	5858757	alaS	YP_001654209.1	-	-	alanine--tRNA ligase
+161262..163262	+	666	5858645	tktB	YP_001654210.1	-	-	transketolase
+163259..164128	-	289	5858365	amn	YP_001654211.1	-	-	AMP nucleosidase
+164384..164920	+	178	5858478	efp	YP_001654212.1	-	-	elongation factor P
+164936..165160	-	74	5858625	-	YP_001654213.1	-	-	hypothetical protein CTL0122
+165207..166079	-	290	5858110	-	YP_001654214.1	-	-	hypothetical protein CTL0123
+166160..167698	-	512	5858068	groEL	YP_001654215.1	-	-	chaperonin GroEL
+168146..169498	+	450	5858336	murF	YP_001654216.1	-	-	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+169644..170654	+	336	5858776	mraY	YP_001654217.1	-	-	phospho-N-acetylmuramoyl-pentapeptide-transferase
+170666..171916	+	416	5858642	murD	YP_001654218.1	-	-	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+171913..172650	+	245	5858023	nlpD	YP_001654219.1	-	-	muramidase
+172666..173823	+	385	5858063	ftsW	YP_001654220.1	-	-	lipid II flippase FtsW
+173732..174790	+	352	5858462	murG	YP_001654221.1	-	-	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+174795..177206	+	803	5857988	murC	YP_001654222.1	-	-	bifunctional UDP-N-acetylmuramate--L-alanine ligase/D-alanine--D-alanine ligase
+177243..177662	-	139	5858026	-	YP_001654223.1	-	-	hypothetical protein CTL0132
+177820..178626	-	268	5858069	-	YP_001654224.1	-	-	hypothetical protein CTL0133
+178780..179112	+	110	5858111	rbsV	YP_001654225.1	-	-	anti-sigma F factor antagonist
+179116..180135	+	339	5858494	miaA	YP_001654226.1	-	-	tRNA dimethylallyltransferase
+180140..181192	-	350	5858571	-	YP_001654227.1	-	-	hypothetical protein CTL0136
+181282..182964	+	560	5858060	-	YP_001654228.1	-	-	hypothetical protein CTL0137
+183418..183777	+	119	5858194	-	YP_001654229.1	-	-	ribosome silencing factor
+183788..185044	+	418	5857965	fabF	YP_001654230.1	-	-	3-oxoacyl-ACP synthase
+185041..185493	+	150	5858479	-	YP_001654231.1	-	-	hydrolase
+185574..186203	-	209	5858049	ppa	YP_001654232.1	-	-	inorganic pyrophosphatase
+186451..187491	+	346	5858157	ldh	YP_001654233.1	-	-	leucine dehydrogenase
+187457..188485	-	342	5858096	cysQ	YP_001654234.1	-	-	3\'(2\'),5\'-bisphosphate nucleotidase
+188783..189544	+	253	5857983	-	YP_001654235.1	-	-	1-acyl-sn-glycerol-3-phosphate acyltransferase
+189552..191165	+	537	5858079	aas	YP_001654236.1	-	-	long chain fatty acid-
+191208..192341	+	377	5858621	bioF	YP_001654237.1	-	-	8-amino-7-oxononanoate synthase
+192260..194521	-	753	5858030	priA	YP_001654238.1	-	-	primosomal protein N\'
+194476..195165	-	229	5858596	-	YP_001654239.1	-	-	hypothetical protein CTL0148
+195321..195815	+	164	5858193	-	YP_001654240.1	-	-	hypothetical protein CTL0149
+196047..197627	+	526	5858105	lysS	YP_001654241.1	-	-	lysine--tRNA ligase
+197624..199117	-	497	5858607	cysS	YP_001654242.1	-	-	cysteine--tRNA ligase
+199370..200419	+	349	5858606	-	YP_001654243.1	-	-	hypothetical protein CTL0152
+200497..200859	-	120	5858070	rnpA	YP_001654244.1	-	-	ribonuclease P protein component
+200872..201009	-	45	5858753	rpmH	YP_001654245.1	-	-	50S ribosomal protein L34
+201486..201623	+	45	5858008	rpmJ	YP_001654246.1	-	-	50S ribosomal protein L36
+201647..201952	+	101	5858719	rpsN	YP_001654247.1	-	-	30S ribosomal protein S14
+201986..202486	-	166	5858015	-	YP_001654248.1	-	-	hypothetical protein CTL0156
+202608..202859	-	83	5858761	-	YP_001654249.1	-	-	hypothetical protein CTL0157
+203139..203633	+	164	5858078	-	YP_001654250.1	-	-	hypothetical protein CTL0158
+203679..205418	-	579	5858792	uvrC	YP_001654251.1	-	-	excinuclease ABC subunit C
+205500..207962	-	820	5858799	mutS	YP_001654252.1	-	-	DNA mismatch repair protein MutS
+208295..210082	+	595	5858602	dnaG	YP_001654253.1	-	-	DNA primase
+210167..210454	+	95	5858691	-	YP_001654254.1	-	-	hypothetical protein CTL0163
+210580..211071	+	163	5858062	-	YP_001654255.1	-	-	hypothetical protein CTL0164
+211154..214165	-	1003	5858783	glyQ	YP_001654256.1	-	-	glycine--tRNA ligase
+214619..215227	+	202	5858595	pgsA	YP_001654257.1	-	-	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+215234..216658	-	474	5858439	glgA	YP_001654258.1	-	-	glycogen synthase
+217235..217792	+	185	5858333	rplY	YP_001654259.1	-	-	50S ribosomal protein L25/general stress protein Ctc
+217800..218339	+	179	5858562	pth	YP_001654260.1	-	-	peptidyl-tRNA hydrolase
+218477..218815	+	112	5858725	rpsF	YP_001654261.1	-	-	30S ribosomal protein S6
+218832..219077	+	81	5858576	rpsR	YP_001654262.1	-	-	30S ribosomal protein S18
+219098..219601	+	167	5858189	rplI	YP_001654263.1	-	-	50S ribosomal protein L9
+219665..220531	+	288	5858491	ispE	YP_001654264.1	-	-	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+220834..222186	-	450	5858047	-	YP_001654265.1	-	-	hypothetical protein CTL0174
+222365..225235	-	956	5858077	ptr	YP_001654266.1	-	-	insulinase/protease
+225287..226288	-	333	5858745	plsB	YP_001654267.1	-	-	glycerol-3-phosphate acyltransferase
+226301..227839	-	512	5857971	cafE	YP_001654268.1	-	-	ribonuclease E
+228109..228321	-	70	16665130	-	YP_008470958.1	-	-	hypothetical protein CTL0178a
+228286..228723	+	145	5858471	-	YP_001654269.2	-	-	hypothetical protein CTL0178
+228663..228989	+	108	5857967	-	YP_001654270.1	-	-	hypothetical protein CTL0179
+228973..229152	+	59	5858747	rpmF	YP_001654271.1	-	-	50S ribosomal protein L32
+229174..230139	+	321	5858541	plsX	YP_001654272.1	-	-	phosphate acyltransferase
+230359..234951	+	1530	5858550	pmpD	YP_001654273.1	-	-	outer membrane protein PmpD
+235152..235946	+	264	5858795	-	YP_001654274.1	-	-	inclusion membrane protein
+236030..236329	-	99	5858748	-	YP_001654275.1	-	-	hypothetical protein CTL0185
+236350..236712	-	120	5858112	-	YP_001654276.1	-	-	hypothetical protein CTL0186
+236957..238333	+	458	5858103	glmM	YP_001654277.1	-	-	phosphoglucosamine mutase
+238344..240164	+	606	5858216	glmS	YP_001654278.1	-	-	glutamine--fructose-6-phosphate aminotransferase
+240267..241463	+	398	5858658	tyrP	YP_001654279.1	-	-	tyrosine-specific transport protein
+241646..242839	+	397	5858800	-	YP_001654280.1	-	-	tyrosine-specific transport protein
+242881..243597	+	238	5858712	-	YP_001654281.1	-	-	hypothetical protein CTL0191
+243695..244549	-	284	5857966	ftsY	YP_001654282.1	-	-	signal recognition particle receptor FtsY
+244619..245779	+	386	5858038	sucC	YP_001654283.1	-	-	succinyl-CoA ligase subunit beta
+245794..246669	+	291	5858710	sucD	YP_001654284.1	-	-	succinyl-CoA ligase subunit alpha
+246808..248301	+	497	5858709	htrA	YP_001654285.1	-	-	serine protease
+248502..251426	+	974	5858677	-	YP_001654286.1	-	-	Zn-dependent peptidase
+251440..252723	-	427	5858145	rmuC	YP_001654287.1	-	-	DNA recombination protein
+252727..253518	-	263	5858546	pssA	YP_001654288.1	-	-	CDP-diacylglycerol--serine O-phosphatidyltransferase
+254153..257296	+	1047	5858185	nrdA	YP_001654289.1	-	-	ribonucleoside-diphosphate reductase subunit alpha
+257334..258374	+	346	5858638	nrdB	YP_001654290.1	-	-	ribonucleoside-diphosphate reductase subunit beta
+258634..259308	+	224	5858665	trmB	YP_001654291.1	-	-	tRNA (guanine-N(7)-)-methyltransferase
+259424..260008	+	194	5858258	-	YP_001654292.1	-	-	rRNA methylase
+260005..260880	-	291	5858048	murB	YP_001654293.1	-	-	UDP-N-acetylenolpyruvoylglucosamine reductase
+261013..261519	-	168	5858668	nusB	YP_001654294.1	-	-	transcription termination factor NusB
+261951..262511	+	186	5858759	infC	YP_001654295.1	-	-	translation initiation factor IF-3
+262498..262683	+	61	5858809	rpmI	YP_001654296.1	-	-	50S ribosomal protein L35
+262702..263073	+	123	5857943	rplT	YP_001654297.1	-	-	50S ribosomal protein L20
+263080..264108	+	342	5858583	pheS	YP_001654298.1	-	-	phenylalanine--tRNA ligase subunit alpha
+264419..266395	+	658	5858274	-	YP_001654299.1	-	-	hypothetical protein CTL0209
+266392..267492	-	366	5858347	-	YP_001654300.1	-	-	hypothetical protein CTL0210
+267495..268559	-	354	5857903	-	YP_001654301.1	-	-	hypothetical protein CTL0211
+268657..269622	+	321	5858379	tilS	YP_001654302.1	-	-	tRNA(Ile)-lysidine synthase
+269783..272524	+	913	5858378	ftsH	YP_001654303.1	-	-	ATP-dependent zinc metalloprotease FtsH
+272739..274826	-	695	5858659	pnp	YP_001654304.1	-	-	polyribonucleotide nucleotidyltransferase
+274855..275124	-	89	5858176	rpsO	YP_001654305.1	-	-	30S ribosomal protein S15
+275350..275841	+	163	5858676	-	YP_001654306.1	-	-	nucleoside deaminase
+275813..276091	+	92	5857905	-	YP_001654307.2	-	-	hypothetical protein CTL0217
+276063..276767	-	234	5858353	-	YP_001654308.1	-	-	hypothetical protein CTL0218
+276902..277420	-	172	5858389	-	YP_001654309.1	-	-	hypothetical protein CTL0219
+277433..277939	-	168	5858330	-	YP_001654310.1	-	-	hypothetical protein CTL0220
+277967..278446	-	159	5858358	-	YP_001654311.1	-	-	hypothetical protein CTL0221
+278763..278951	+	62	5858406	-	YP_001654312.1	-	-	hypothetical protein CTL0222
+278970..280187	+	405	5858227	-	YP_001654313.1	-	-	hypothetical protein CTL0223
+280144..281019	-	291	5858436	map	YP_001654314.1	-	-	methionine aminopeptidase
+281052..281693	-	213	5858102	-	YP_001654315.1	-	-	hypothetical protein CTL0225
+281710..282309	-	199	5857990	-	YP_001654316.1	-	-	hypothetical protein CTL0226
+282504..284273	-	589	5858777	-	YP_001654317.1	-	-	ABC transporter permease/substrate-binding protein
+285800..287503	-	567	5858640	-	YP_001654318.1	-	-	sulfate transporter
+288258..289523	+	421	5858727	-	YP_001654321.1	-	-	Na(+)/H(+) antiporter
+289633..291438	+	601	5858254	cpa	YP_001654322.1	-	-	hypothetical protein CTL0233
+291533..292456	+	307	5858681	ispH	YP_001654323.1	-	-	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+292508..293989	-	493	5858122	copD2	YP_001654324.1	-	-	type III secretion system translocator CopD2
+294001..295521	-	506	5858786	copB2	YP_001654325.1	-	-	type III secretion system translocator CopB2
+295549..296145	-	198	5858084	lcrH	YP_001654326.1	-	-	type III secretion chaperone
+296067..297515	-	482	5858707	-	YP_001654327.1	-	-	type III secretion low calcium response chaperone
+298073..298378	+	101	16665132	-	YP_008470960.1	-	-	hypothetical protein CTL0238b
+298375..299277	-	300	5858304	xerD	YP_001654328.1	-	-	site-specific tyrosine recombinase XerD
+299525..300514	+	329	5858423	-	YP_001654329.1	-	-	hypothetical protein CTL0244
+300529..302745	+	738	5858667	glgB	YP_001654330.1	-	-	1,4-alpha-glucan branching protein
+302756..303775	-	339	5858618	-	YP_001654331.1	-	-	deubiquitinase
+303998..305203	-	401	5858331	-	YP_001654332.1	-	-	deubiquitinase
+305380..308277	-	965	5858005	pmpE	YP_001654333.1	-	-	outer membrane protein PmpE
+308280..311378	-	1032	5858444	pmpF	YP_001654334.1	-	-	outer membrane protein PmpF
+311543..314581	+	1012	5858730	pmpG	YP_001654335.1	-	-	outer membrane protein PmpG
+314612..317632	+	1006	5857975	pmpH	YP_001654336.1	-	-	outer membrane protein PmpH
+318047..318643	+	198	5858675	-	YP_001654337.1	-	-	hypothetical protein CTL0252
+318738..321374	-	878	5858752	pmpI	YP_001654338.1	-	-	outer membrane protein PmpI
+321649..323421	+	590	5858006	-	YP_001654339.1	-	-	hypothetical protein CTL0255
+323566..323838	-	90	5857946	-	YP_001654340.1	-	-	hypothetical protein CTL0256
+324039..324341	+	100	5858620	gatC	YP_001654341.1	-	-	aspartyl/glutamyl-tRNA amidotransferase subunit C
+324353..325828	+	491	5858470	gatA	YP_001654342.1	-	-	aspartyl/glutamyl-tRNA amidotransferase subunit A
+325830..327296	+	488	5858207	gatB	YP_001654343.1	-	-	aspartyl/glutamyl-tRNA amidotransferase subunit B
+327395..328486	-	363	5858200	-	YP_001654344.1	-	-	hypothetical protein CTL0260
+328614..329183	-	189	5858154	-	YP_001654345.1	-	-	hypothetical protein CTL0261
+329497..330447	+	316	5858743	-	YP_001654346.1	-	-	hypothetical protein CTL0262
+330463..331365	-	300	5858307	rnhC	YP_001654347.1	-	-	ribonuclease HIII
+331621..332052	+	143	5858713	-	YP_001654348.1	-	-	DNA-binding protein
+332039..333406	-	455	5858214	htrB	YP_001654349.1	-	-	lipid A biosynthesis lauroyl acyltransferase
+333538..334794	-	418	5858081	-	YP_001654350.1	-	-	hypothetical protein CTL0266
+334791..335585	-	264	5858762	-	YP_001654351.1	-	-	integral membrane protein
+335860..337200	+	446	5858138	cydA	YP_001654352.1	-	-	cytochrome d ubiquinol oxidase subunit I
+337212..338273	+	353	5858683	cydB	YP_001654353.1	-	-	cytochrome d ubiquinol oxidase subunit II
+338371..339675	-	434	5858202	-	YP_001654354.1	-	-	ribonuclease
+339884..340612	+	242	5858104	-	YP_001654355.1	-	-	hypothetical protein CTL0271
+340798..342099	+	433	5858213	-	YP_001654356.1	-	-	hypothetical protein CTL0272
+342161..342634	-	157	5858573	-	YP_001654357.1	-	-	hypothetical protein CTL0273
+343680..346790	+	1036	5858570	ileS	YP_001654358.1	-	-	isoleucine--tRNA ligase
+346848..348734	-	628	5858143	lepB	YP_001654359.1	-	-	signal peptidase I
+348920..349663	-	247	5858781	-	YP_001654360.1	-	-	hypothetical protein CTL0276
+349739..350065	+	108	5858581	rpmE2	YP_001654361.1	-	-	50S ribosomal protein L31
+350253..351332	+	359	5858457	prfA	YP_001654362.1	-	-	peptide chain release factor 1
+351316..352188	+	290	5858726	-	YP_001654363.1	-	-	release factor glutamine methyltransferase
+352185..353531	+	448	5858426	ffh	YP_001654364.1	-	-	signal recognition particle subunit FFH
+353522..353872	+	116	5858789	rpsP	YP_001654365.1	-	-	30S ribosomal protein S16
+353888..354946	+	352	5858001	trmD	YP_001654366.1	-	-	fused tRNA (guanine-N(1)-)-methyltransferase/hypothetical protein
+354972..355337	+	121	5858420	rplS	YP_001654367.1	-	-	50S ribosomal protein L19
+355401..356054	+	217	5858544	rnhB	YP_001654368.1	-	-	ribonuclease HII
+356045..356662	+	205	5858565	gmk	YP_001654369.1	-	-	guanylate kinase
+356655..356957	+	100	5858755	-	YP_001654370.1	-	-	hypothetical protein CTL0286
+356957..358609	+	550	5857972	metG	YP_001654371.1	-	-	methionine--tRNA ligase
+358748..360988	-	746	5858314	recD	YP_001654372.1	-	-	exodeoxyribonuclease V subunit alpha
+361236..362216	-	326	5858003	-	YP_001654373.1	-	-	membrane transport/efflux protein
+362599..363372	+	257	5858066	-	YP_001654374.1	-	-	hypothetical protein CTL0290
+363337..364494	-	385	5857974	-	YP_001654375.1	-	-	hypothetical protein CTL0291
+365040..365384	-	114	5858345	-	YP_001654376.1	-	-	hypothetical protein CTL0293
+365406..365978	-	190	5858212	dcd	YP_001654377.1	-	-	deoxycytidine triphosphate deaminase
+366065..366217	+	50	5858206	-	YP_001654378.1	-	-	hypothetical protein CTL0295
+366259..367263	+	334	5858509	ruvB	YP_001654379.1	-	-	Holliday junction DNA helicase RuvB
+367265..368077	+	270	5858061	-	YP_001654380.1	-	-	hypothetical protein CTL0297
+368138..370138	-	666	5858637	-	YP_001654381.1	-	-	glycosyl hydrolase
+370259..370762	-	167	5858729	-	YP_001654382.1	-	-	type III secretion system chaperone
+371228..371701	+	157	5858567	ssb	YP_001654383.1	-	-	single-stranded DNA-binding protein
+372044..373543	+	499	5858119	-	YP_001654384.1	-	-	cytosol aminopeptidase
+373681..374352	+	223	5858142	hct2	YP_001654385.1	-	-	histone-like protein 2
+374507..375451	+	314	5858004	-	YP_001654386.1	-	-	hypothetical protein CTL0303
+375546..376259	+	237	5857980	-	YP_001654387.1	-	-	SAM-dependent methyltransferase
+376350..377822	+	490	5858116	-	YP_001654388.1	-	-	hypothetical protein CTL0305
+377881..379548	-	555	5858115	-	YP_001654389.1	-	-	hypothetical protein CTL0306
+379584..381275	-	563	5857941	-	YP_001654390.1	-	-	hypothetical protein CTL0307
+381336..382466	-	376	5857937	hemN	YP_001654391.1	-	-	coproporphyrinogen-III oxidase
+382456..382902	-	148	5858057	-	YP_001654392.1	-	-	hypothetical protein CTL0309
+383234..385945	+	903	5857947	sucA	YP_001654393.1	-	-	2-oxoglutarate dehydrogenase E1 component
+385949..387046	+	365	5858187	sucB	YP_001654394.1	-	-	2-oxoglutarate dehydrogenase complex subunit dihydrolipoyllysine-residue succinyltransferase
+387075..387806	-	243	5858186	-	YP_001654395.1	-	-	hypothetical protein CTL0312
+387815..389623	-	602	5858498	gcpE	YP_001654396.1	-	-	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+389775..390866	-	363	5858211	-	YP_001654397.1	-	-	hypothetical protein CTL0314
+390946..391221	-	91	5858022	fer	YP_001654398.1	-	-	ferredoxin
+391403..393220	+	605	5858276	flhA	YP_001654399.1	-	-	type III secretion system protein
+393328..394089	+	253	5858702	fliA	YP_001654400.1	-	-	RNA polymerase sigma factor sigma-28
+394248..395486	+	412	5857979	tyrS	YP_001654401.1	-	-	tyrosine--tRNA ligase
+395496..396938	+	480	5858811	gnd	YP_001654402.1	-	-	6-phosphogluconate dehydrogenase
+396999..398807	-	602	5858447	lepA	YP_001654403.1	-	-	elongation factor 4
+398993..400579	-	528	5857987	-	YP_001654404.1	-	-	ADP, ATP carrier protein
+400930..401406	-	158	5858511	-	YP_001654405.1	-	-	hypothetical protein CTL0322
+402067..403047	+	326	5858524	-	YP_001654406.1	-	-	ABC transporter substrate-binding protein
+403040..403819	+	259	5858528	-	YP_001654407.1	-	-	ABC transporter ATP-binding protein
+403820..405175	+	451	5858526	-	YP_001654408.1	-	-	ABC transporter permease
+405165..406121	+	318	5858525	-	YP_001654409.1	-	-	ABC transporter permease
+406148..407287	+	379	5858512	dxr	YP_001654410.1	-	-	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+407483..409342	+	619	5858619	-	YP_001654411.1	-	-	protease
+409289..410266	-	325	5858557	-	YP_001654412.1	-	-	hypothetical protein CTL0329
+410424..411521	-	365	5858158	recF	YP_001654413.1	-	-	recombination protein F
+411521..412771	-	416	5858548	dnaN	YP_001654414.1	-	-	DNA polymerase III subunit beta
+412901..413356	+	151	5858205	smpB	YP_001654415.1	-	-	SsrA-binding protein
+413334..414284	-	316	5858601	apbE	YP_001654416.1	-	-	thiamine biosynthesis lipoprotein
+414254..415117	-	287	5858626	folD	YP_001654417.1	-	-	bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/5,10-methylene-tetrahydrofolate cyclohydrolase
+415235..415630	-	131	5858585	-	YP_001654418.1	-	-	integral membrane protein
+415955..416248	+	97	5858108	ltuB	YP_001654419.1	-	-	late transcription unit B protein
+416611..418293	+	560	5858549	-	YP_001654421.1	-	-	hypothetical protein CTL0338
+418290..418772	+	160	5858790	-	YP_001654422.1	-	-	hypothetical protein CTL0338A
+418786..419871	-	361	5858797	-	YP_001654423.1	-	-	phospholipase
+420042..421781	-	579	5858556	-	YP_001654424.1	-	-	decarboxylase
+421901..422170	-	89	5858052	rpmB	YP_001654425.1	-	-	50S ribosomal protein L28
+422319..423902	-	527	5858076	malQ	YP_001654426.1	-	-	4-alpha-glucanotransferase
+423906..424346	-	146	5858067	scc1	YP_001654427.1	-	-	type III secretion chaperone
+424384..425649	-	421	5858087	copN	YP_001654428.1	-	-	low calcium response protein E
+425667..427793	-	708	5858608	lcrD	YP_001654429.1	-	-	low calcium response protein D
+427793..428875	-	360	5858605	sctU	YP_001654430.1	-	-	type III secretion system protein
+429132..430232	+	366	5858027	-	YP_001654431.1	-	-	ribosome-binding ATPase
+430241..431146	-	301	5858058	ribF	YP_001654432.1	-	-	bifunctional riboflavin kinase/FMN adenylyltransferase
+431103..431828	-	241	5858161	truB	YP_001654433.1	-	-	tRNA pseudouridine synthase B
+431866..432237	-	123	5858822	rbfA	YP_001654434.1	-	-	ribosome-binding factor A
+432244..434934	-	896	5858152	infB	YP_001654435.1	-	-	translation initiation factor IF-2
+434891..436195	-	434	5857991	nusA	YP_001654436.1	-	-	transcription termination/antitermination protein NusA
+436313..438022	-	569	5858770	rpsA	YP_001654437.1	-	-	30S ribosomal protein S1
+438267..439322	+	351	5857977	trxB	YP_001654438.1	-	-	thioredoxin reductase
+439328..439687	+	119	5858816	acpS	YP_001654439.1	-	-	holo
+439688..440149	-	153	5858616	-	YP_001654440.1	-	-	hypothetical protein CTL0356
+440285..440746	+	153	5858538	-	YP_001654441.1	-	-	hypothetical protein CTL0357
+440781..441677	+	298	5858587	-	YP_001654442.1	-	-	hypothetical protein CTL0358
+441667..442563	-	298	5858016	fabI	YP_001654443.1	-	-	enoyl-(acyl carrier protein) reductase
+442875..444845	+	656	5858716	-	YP_001654444.1	-	-	hypothetical protein CTL0360
+445045..445869	-	274	5857948	-	YP_001654445.1	-	-	tRNA pseudouridine synthase A
+445916..447022	+	368	5858135	-	YP_001654446.1	-	-	DNA glycosylase
+447076..447831	+	251	5858014	-	YP_001654447.1	-	-	hypothetical protein CTL0363
+447844..448632	-	262	5858527	-	YP_001654448.1	-	-	hypothetical protein CTL0364
+448761..450395	-	544	5858059	groEL	YP_001654449.1	-	-	chaperonin GroEL
+450434..450742	-	102	5858801	groES	YP_001654450.1	-	-	co-chaperonin GroES
+450914..452740	-	608	5858746	pepF	YP_001654451.1	-	-	oligoendopeptidase F
+453042..455645	+	867	5858318	clpB	YP_001654452.1	-	-	chaperone protein ClpB
+455671..457131	+	486	5858663	-	YP_001654453.1	-	-	hypothetical protein CTL0369
+457317..457799	+	160	5858590	incD	YP_001654454.1	-	-	inclusion membrane protein D
+457866..458264	+	132	5858183	incE	YP_001654455.1	-	-	inclusion membrane protein E
+458269..458583	+	104	5858025	incF	YP_001654456.1	-	-	inclusion membrane protein F
+458670..459173	+	167	5857996	incG	YP_001654457.1	-	-	inclusion membrane protein G
+459340..460080	-	246	5858137	incA	YP_001654458.1	-	-	inclusion membrane protein A
+460207..460482	-	91	5858165	-	YP_001654459.1	-	-	hypothetical protein CTL0375
+460581..461267	+	228	5858515	araD	YP_001654460.1	-	-	ribulose-phosphate 3-epimerase
+461254..461811	+	185	5858476	efp	YP_001654461.1	-	-	elongation factor P
+461824..462318	+	164	5858669	accB	YP_001654462.1	-	-	acetyl-CoA carboxylase biotin carboxyl carrier protein
+462322..463695	+	457	5858489	accC	YP_001654463.1	-	-	acetyl-CoA carboxylase biotin carboxylase subunit
+463918..464370	+	150	5858611	rplM	YP_001654464.1	-	-	50S ribosomal protein L13
+464396..464785	+	129	5858125	rpsI	YP_001654465.1	-	-	30S ribosomal protein S9
+464833..465684	-	283	5858011	-	YP_001654466.1	-	-	hypothetical protein CTL0382
+465780..466517	-	245	5858151	adk	YP_001654467.1	-	-	adenylate kinase
+466724..467368	+	214	5858477	-	YP_001654468.1	-	-	ABC transporter permease
+467365..468066	+	233	5858184	-	YP_001654469.1	-	-	ABC transporter ATP-binding protein
+468069..471485	-	1138	5858539	-	YP_001654470.1	-	-	hypothetical protein CTL0386
+471482..472759	-	425	5858506	-	YP_001654471.1	-	-	hypothetical protein CTL0387
+472838..473641	-	267	5858559	-	YP_001654472.1	-	-	methyltransferase
+474097..474510	+	137	5858533	-	YP_001654473.1	-	-	hypothetical protein CTL0389
+474568..475650	+	360	5858497	-	YP_001654474.1	-	-	hypothetical protein CTL0390
+475740..476459	+	239	5858150	-	YP_001654475.1	-	-	phospholipase-carboxylesterase family protein
+476478..477323	+	281	5858536	-	YP_001654476.1	-	-	threonylcarbamoyl-AMP synthase
+477301..478248	+	315	5858129	-	YP_001654477.1	-	-	microsomal dipeptidase
+478245..479525	-	426	5858522	oppA	YP_001654478.1	-	-	oligopeptide ABC transporter substrate-binding protein
+479701..480387	+	228	5858553	-	YP_001654479.1	-	-	hypothetical protein CTL0395
+480571..481017	+	148	5858435	-	YP_001654480.1	-	-	hypothetical protein CTL0396
+481417..482274	+	285	5858260	-	YP_001654481.1	-	-	hypothetical protein CTL0397
+482276..483118	+	280	5858718	-	YP_001654482.1	-	-	hypothetical protein CTL0398
+483118..483984	+	288	5858109	-	YP_001654483.1	-	-	hypothetical protein CTL0399
+484170..486014	+	614	5858117	pkn1	YP_001654484.1	-	-	serine/threonine-protein kinase
+486025..488016	+	663	5857985	ligA	YP_001654485.1	-	-	NAD-dependent DNA ligase LigA
+488114..492463	+	1449	5858451	-	YP_001654486.1	-	-	hypothetical protein CTL0402
+492526..494049	-	507	5858785	mhpA	YP_001654487.1	-	-	FAD-dependent monooxygenase
+494249..495196	-	315	5858574	-	YP_001654488.1	-	-	hypothetical protein CTL0404
+495595..495753	+	52	5858561	rpmG	YP_001654489.1	-	-	50S ribosomal protein L33
+495789..497300	+	503	5858540	-	YP_001654490.1	-	-	lipoprotein releasing system ABC transporter permease
+497305..497982	+	225	5858537	-	YP_001654491.1	-	-	lipoprotein releasing system ABC transporter ATP-binding protein
+498133..500565	-	810	5857993	-	YP_001654492.1	-	-	MAC/perforin family protein
+502302..503240	-	312	5858073	-	YP_001654493.1	-	-	phosphatidylcholine-hydrolyzing phospholipase D
+503754..504959	-	401	5858175	-	YP_001654494.1	-	-	phosphatidylcholine-hydrolyzing phospholipase D
+505082..505723	-	213	16665134	-	YP_008470962.1	-	-	phospholipase
+506303..506584	-	93	16665135	-	YP_008470963.1	-	-	hypothetical protein CTL0417a
+506843..507313	-	156	5858414	-	YP_008470964.1	-	-	hypothetical protein CTL0417b
+507306..508052	-	248	5858771	-	YP_001654495.1	-	-	hypothetical protein CTL0417
+508185..508433	-	82	5858455	-	YP_009143298.1	-	-	hypothetical protein CTL0418
+508663..510192	+	509	5858182	-	YP_001654496.1	-	-	hypothetical protein CTL0419
+511407..511691	+	94	5858190	trpR	YP_001654498.1	-	-	Trp operon repressor
+511732..511911	+	59	16665136	-	YP_008470965.1	-	-	hypothetical protein CTL0422a
+512040..513218	+	392	5858806	trpB	YP_001654499.1	-	-	tryptophan synthase subunit beta
+513211..513972	+	253	5858808	trpA	YP_001654500.1	-	-	tryptophan synthase subunit alpha
+514761..515006	-	81	5858700	-	YP_001654502.2	-	-	hypothetical protein CTL0426
+515293..516882	+	529	5858503	oppA2	YP_001654503.1	-	-	oligopeptide ABC transporter substrate-binding protein
+516909..517316	-	135	5858535	dsbB	YP_001654504.1	-	-	disulfide oxidoreductase
+517313..518029	-	238	5858475	dsbG	YP_001654505.1	-	-	hypothetical protein CTL0429
+518175..519389	+	404	5858655	-	YP_001654506.1	-	-	hypothetical protein CTL0430
+519391..520050	-	219	5858456	-	YP_001654507.2	-	-	hypothetical protein CTL0431
+520047..520739	-	230	5858552	-	YP_001654508.1	-	-	ABC transporter ATP-binding protein
+521047..521757	-	236	5857927	-	YP_001654509.1	-	-	hypothetical protein CTL0433
+522125..522889	+	254	5858046	kdsB	YP_001654510.1	-	-	3-deoxy-manno-octulosonate cytidylyltransferase
+522865..524484	+	539	5858425	pyrG	YP_001654511.1	-	-	CTP synthetase
+524471..524917	+	148	5858009	-	YP_001654512.1	-	-	Holliday junction resolvase
+525034..526557	+	507	5858195	zwf	YP_001654513.1	-	-	glucose-6-phosphate 1-dehydrogenase
+526582..527352	+	256	5857940	devB	YP_001654514.1	-	-	6-phosphogluconolactonase
+527349..528221	-	290	5858210	dnaX	YP_001654515.1	-	-	DNA polymerase III subunit delta\'
+528235..528846	-	203	5858199	tmk	YP_001654516.1	-	-	thymidylate kinase
+528848..531358	-	836	5858742	gyrA	YP_001654517.1	-	-	DNA gyrase subunit A
+531373..533787	-	804	5858149	gyrB	YP_001654518.1	-	-	DNA gyrase subunit B
+533790..534140	-	116	5858172	-	YP_001654519.1	-	-	hypothetical protein CTL0443
+534287..534982	-	231	5858508	-	YP_001654520.1	-	-	inclusion membrane protein
+535086..536204	-	372	5858126	tgt	YP_001654521.1	-	-	queuine tRNA-ribosyltransferase
+536331..537743	-	470	5858404	mgtE	YP_001654522.1	-	-	magnesium transport protein
+538183..539274	-	363	5858198	-	YP_001654523.1	-	-	hypothetical protein CTL0447
+539500..539820	+	106	5858114	-	YP_001654524.1	-	-	inclusion membrane protein
+539896..540912	+	338	5858728	gcp	YP_001654525.1	-	-	tRNA N6-adenosine threonylcarbamoyltransferase
+540876..542432	+	518	5858204	oppA3	YP_001654526.1	-	-	oligopeptide ABC transporter substrate-binding protein
+542591..543532	+	313	5858443	oppB	YP_001654527.1	-	-	oligopeptide ABC transporter permease
+543564..544409	+	281	5858551	oppC	YP_001654528.1	-	-	oligopeptide ABC transporter permease
+544402..545235	+	277	5858428	oppD	YP_001654529.1	-	-	oligopeptide ABC transporter ATP-binding protein
+545250..545993	+	247	5858429	oppF	YP_001654530.1	-	-	oligopeptide ABC transporter ATP-binding protein
+546305..547054	+	249	5858072	-	YP_001654531.1	-	-	hypothetical protein CTL0455
+547084..548499	+	471	5858127	-	YP_001654532.1	-	-	sodium:sulfate symporter
+548519..550180	+	553	5858523	pfkA	YP_001654533.1	-	-	pyrophosphate--fructose 6-phosphate 1-phosphotransferase
+550189..551037	+	282	5858657	-	YP_001654534.1	-	-	hypothetical protein CTL0458
+551019..552665	+	548	5858705	pfkA_2	YP_001654535.1	-	-	pyrophosphate--fructose 6-phosphate 1-phosphotransferase
+552911..554206	-	431	5858288	gseA	YP_001654536.1	-	-	3-deoxy-D-manno-octulosonic acid transferase
+554203..556662	-	819	5858499	leuS	YP_001654537.1	-	-	leucine--tRNA ligase
+556859..558127	+	422	5858804	hemL	YP_001654538.1	-	-	glutamate-1-semialdehyde-2,1-aminomutase
+558119..558688	-	189	5858810	-	YP_001654539.1	-	-	hypothetical protein CTL0463
+558708..559154	-	148	5858168	-	YP_001654540.1	-	-	hypothetical protein CTL0464
+559144..559872	-	242	5858696	rpiA	YP_001654541.1	-	-	ribose-5-phosphate isomerase A
+559967..561610	-	547	5858153	-	YP_001654542.1	-	-	inclusion membrane protein
+561914..562960	+	348	5858146	dhnA	YP_001654543.1	-	-	1,6-fructose bisphosphate aldolase
+562974..564374	+	466	5858680	xasA	YP_001654544.1	-	-	glutamate/gamma-aminobutyrate antiporter
+564468..565232	+	254	5858815	-	YP_001654545.1	-	-	hypothetical protein CTL0469
+565363..566214	+	283	5858766	surE	YP_001654546.1	-	-	5\'-nucleotidase SurE
+566326..567234	+	302	5858327	ubiA	YP_001654547.1	-	-	prenyltransferase
+567231..567809	+	192	5858821	-	YP_001654548.1	-	-	aromatic acid decarboxylase
+567806..568702	-	298	5858144	-	YP_001654549.1	-	-	hypothetical protein CTL0473
+568992..569132	-	46	5858820	-	YP_001654550.1	-	-	hypothetical protein CTL0474
+569159..569545	-	128	5858542	-	YP_001654551.1	-	-	hypothetical protein CTL0475
+569687..570493	-	268	5858723	-	YP_001654552.1	-	-	inclusion membrane protein
+570885..571328	-	147	5858164	-	YP_001654553.1	-	-	inclusion membrane protein
+571436..571804	-	122	5857945	-	YP_001654554.1	-	-	inclusion membrane protein
+571903..572418	-	171	5858000	-	YP_001654555.1	-	-	inclusion membrane protein
+572547..572948	-	133	5858589	-	YP_001654556.1	-	-	inclusion membrane protein
+573229..573819	-	196	5858580	-	YP_001654557.1	-	-	inclusion membrane protein
+573969..574616	-	215	5858598	-	YP_001654558.1	-	-	inclusion membrane protein
+574842..576089	+	415	5858518	-	YP_001654559.1	-	-	sodium:dicarboxylate symport protein
+576273..577745	+	490	5858493	-	YP_001654560.1	-	-	sodium-dependent amino acid transporter
+577850..578197	+	115	5858593	incB	YP_001654561.1	-	-	inclusion membrane protein B
+578274..578810	+	178	5858169	incC	YP_001654562.1	-	-	inclusion membrane protein C
+578868..581654	+	928	5858147	-	YP_001654563.1	-	-	hypothetical protein CTL0486
+581683..582096	+	137	5858180	-	YP_001654564.1	-	-	Crp family transcriptional regulator
+582157..582390	-	77	5858080	acpP	YP_001654565.1	-	-	acyl carrier protein
+582759..583505	-	248	5858646	fabG	YP_001654566.1	-	-	3-oxoacyl
+583502..584428	-	308	5858671	fabD	YP_001654567.1	-	-	malonyl-CoA
+584445..585440	-	331	5857957	fabH	YP_001654568.2	-	-	3-oxoacyl-ACP synthase
+585566..586168	+	200	5857953	recR	YP_001654569.1	-	-	recombination protein RecR
+586542..588920	+	792	5858510	-	YP_001654570.1	-	-	outer membrane protein
+588987..589508	+	173	5858513	ompH	YP_001654571.1	-	-	outer membrane protein
+589536..590600	+	354	5858495	lpxD	YP_001654572.1	-	-	UDP-3-O-acylglucosamine N-acyltransferase
+590597..591793	-	398	5858758	-	YP_001654573.1	-	-	hypothetical protein CTL0496
+592015..593037	+	340	5858040	pdhA	YP_001654574.1	-	-	pyruvate dehydrogenase E1 component subunit alpha
+593030..594016	+	328	5858662	pdhB	YP_001654575.1	-	-	pyruvate dehydrogenase E1 component subunit beta
+594021..595310	+	429	5858441	pdhC	YP_001654576.1	-	-	pyruvate dehydrogenase complex dihydrolipoyllysine-residue acetyltransferase component
+595337..597781	-	814	5858737	glgP	YP_001654577.1	-	-	glycogen phosphorylase
+597937..598287	+	116	5858684	-	YP_001654578.1	-	-	hypothetical protein CTL0500A
+598341..599711	-	456	5858599	dnaA	YP_001654579.1	-	-	chromosomal replication initiation protein DnaA
+599788..602151	-	787	5858197	oxaA	YP_001654580.1	-	-	membrane protein insertase
+602461..603279	-	272	5858446	lgt	YP_001654581.1	-	-	prolipoprotein diacylglyceryl transferase
+603530..604177	+	215	5858316	-	YP_001654582.1	-	-	hypothetical protein CTL0505
+604181..604951	+	256	5858698	-	YP_001654583.1	-	-	hypothetical protein CTL0506
+605159..605542	-	127	5858603	-	YP_001654584.1	-	-	hypothetical protein CTL0507
+605731..606975	+	414	5858086	-	YP_001654585.1	-	-	hypothetical protein CTL0508
+606965..608179	+	404	5858416	-	YP_001654586.1	-	-	hypothetical protein CTL0509
+608183..609307	-	374	5858396	-	YP_001654587.1	-	-	cysteine desulfurase
+609313..610059	-	248	5858252	-	YP_001654588.1	-	-	protein phosphatase
+610378..610869	+	163	5858282	-	YP_001654589.1	-	-	hypothetical protein CTL0512
+610878..611576	+	232	5857933	dnaQ	YP_001654590.1	-	-	DNA polymerase III subunit epsilon
+611573..612343	+	256	5858787	-	YP_001654591.1	-	-	menaquinone biosynthesis protein
+612336..612926	+	196	5858341	-	YP_001654592.1	-	-	hypothetical protein CTL0515
+612947..614887	-	646	5858391	-	YP_001654593.1	-	-	ABC transporter ATP-binding protein/permease
+614853..615827	-	324	5858233	accA	YP_001654594.1	-	-	acetyl-CoA carboxylase carboxyltransferase subunit alpha
+615960..617141	-	393	5858041	-	YP_001654595.1	-	-	hypothetical protein CTL0518
+617259..617561	-	100	5858371	ihfA	YP_001654596.1	-	-	DNA-binding protein HU
+617781..618560	-	259	5858427	amiA	YP_001654597.1	-	-	N-acetylmuramoyl alanine amidase
+618475..619926	-	483	5858472	murE	YP_001654598.1	-	-	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+620249..622192	-	647	5858504	pbp	YP_001654599.1	-	-	penicillin-binding protein
+622179..622466	-	95	5858686	-	YP_001654600.1	-	-	hypothetical protein CTL0523
+622466..623368	-	300	5857921	-	YP_001654601.1	-	-	ribosomal RNA small subunit methyltransferase H
+623646..624212	+	188	5858465	-	YP_001654602.1	-	-	hypothetical protein CTL0525
+624219..624638	+	139	5858415	-	YP_001654603.1	-	-	hypothetical protein CTL0526
+624880..626247	+	455	5857906	dnaA	YP_001654604.1	-	-	chromosomal replication initiation protein
+626299..626883	+	194	5858196	-	YP_001654605.1	-	-	polymer-forming cytoskeletal protein
+626855..627514	-	219	5858326	-	YP_001654606.1	-	-	hypothetical protein CTL0529
+627516..629027	+	503	5858399	nqrB	YP_001654607.1	-	-	Na(+)-translocating NADH-quinone reductase subunit B
+629031..629981	+	316	5858579	nqrC	YP_001654608.1	-	-	Na(+)-translocating NADH-quinone reductase subunit C
+629971..630612	+	213	5858774	nqrD	YP_001654609.1	-	-	Na(+)-translocating NADH-quinone reductase subunit D
+630618..631352	+	244	5858458	nqrE	YP_001654610.1	-	-	Na(+)-translocating NADH-quinone reductase subunit E
+631376..631729	-	117	5858483	gcsH	YP_001654611.1	-	-	glycine cleavage system protein H
+631749..633821	-	690	5858032	-	YP_001654612.1	-	-	hypothetical protein CTL0535
+634016..635440	-	474	5858255	-	YP_001654613.1	-	-	phospholipase D
+635446..636165	-	239	5858339	lplA	YP_001654614.1	-	-	lipoate-protein ligase A
+636430..638994	+	854	5858192	clpC	YP_001654615.1	-	-	ATP-dependent Clp protease ATP-binding subunit
+638975..640051	-	358	5858654	mnmA	YP_001654616.1	-	-	tRNA-specific 2-thiouridylase MnmA
+640283..641977	+	564	5858413	-	YP_001654617.1	-	-	hypothetical protein CTL0540
+642064..643209	-	381	5858253	-	YP_001654618.1	-	-	hypothetical protein CTL0541
+643267..643944	-	225	5858245	-	YP_001654619.1	-	-	PTS fructose transporter subunit IIA
+643947..644423	-	158	5858364	ptsN_2	YP_001654620.1	-	-	PTS fructose transporter subunit IIA
+644425..644862	-	145	5858750	dut	YP_001654621.1	-	-	deoxyuridine 5\'-triphosphate nucleotidohydrolase
+644899..645825	-	308	5857955	accD	YP_001654622.1	-	-	acetyl-CoA carboxylase carboxyl transferase subunit beta
+645896..646516	-	206	5858610	sodM	YP_001654623.1	-	-	superoxide dismutase
+646648..648429	-	593	5858460	mrsA	YP_001654624.1	-	-	phosphoglucomutase
+648581..649048	-	155	5858586	-	YP_001654625.1	-	-	hypothetical protein CTL0548
+649157..649852	+	231	5858279	rnc	YP_001654626.1	-	-	ribonuclease III
+649836..651200	+	454	5858120	radA	YP_001654627.1	-	-	DNA repair protein RadA
+651178..651903	+	241	5858139	hemC	YP_001654628.2	-	-	porphobilinogen deaminase
+652304..652645	+	113	5858784	-	YP_009143299.1	-	-	hypothetical protein CTL0552
+652698..655502	-	934	5857923	pknD	YP_001654629.1	-	-	serine/threonine-protein kinase
+655517..658336	-	939	5858711	valS	YP_001654630.1	-	-	valine--tRNA ligase
+658463..658978	-	171	5858805	-	YP_001654631.1	-	-	hypothetical protein CTL0555
+658899..659324	-	141	5857935	atpK	YP_001654632.1	-	-	V-type ATP synthase subunit K
+659386..661335	-	649	5858641	atpI	YP_001654633.1	-	-	V-type ATP synthase subunit I
+661341..661952	-	203	5858484	-	YP_001654634.1	-	-	V-type ATP synthase subunit D
+661937..663253	-	438	5858469	-	YP_001654635.1	-	-	V-type ATP synthase subunit beta
+663256..665031	-	591	5858487	-	YP_001654636.1	-	-	V-type ATP synthase subunit alpha
+665025..665825	-	266	5858609	-	YP_001654637.1	-	-	hypothetical protein CTL0561
+665992..666618	-	208	5857920	-	YP_001654638.1	-	-	V-type ATP synthase subunit E
+666727..667437	+	236	5858474	-	YP_001654639.1	-	-	hypothetical protein CTL0563
+667445..667816	-	123	5858293	-	YP_001654640.1	-	-	hypothetical protein CTL0564
+667861..668844	-	327	5857936	tal	YP_001654641.1	-	-	transaldolase
+668956..673146	-	1396	5858218	rpoC	YP_001654642.1	-	-	DNA-directed RNA polymerase subunit beta\'
+673171..676929	-	1252	5858141	rpoB	YP_001654643.1	-	-	DNA-directed RNA polymerase subunit beta
+677290..677682	-	130	5858736	rplL	YP_001654644.1	-	-	50S ribosomal protein L7/L12
+677714..678232	-	172	5858604	rplJ	YP_001654645.1	-	-	50S ribosomal protein L10
+678254..678952	-	232	5858670	rplA	YP_001654646.1	-	-	50S ribosomal protein L1
+678975..679400	-	141	5858530	rplK	YP_001654647.1	-	-	50S ribosomal protein L11
+679506..680054	-	182	5858741	nusG	YP_001654648.1	-	-	transcription termination/antitermination protein NusG
+680058..680306	-	82	5858101	secE	YP_001654649.1	-	-	preprotein translocase subunit SecE
+680449..681633	-	394	5858263	tufA	YP_001654650.1	-	-	elongation factor Tu
+681981..682202	-	73	5858264	infA	YP_001654651.1	-	-	translation initiation factor IF-1
+682615..683526	+	303	5858717	-	YP_001654652.1	-	-	hypothetical protein CTL0576
+683523..683969	+	148	5858294	-	YP_001654653.1	-	-	Fe-S metabolism protein SufE
+686181..686363	-	60	5857915	-	YP_001654654.1	-	-	hypothetical protein CTL0580
+687086..687712	-	208	5858290	trpC	YP_001654655.1	-	-	N-(5\'-phosphoribosyl)anthranilate isomerase
+687908..688732	+	274	5858807	tpiA	YP_001654656.1	-	-	triosephosphate isomerase
+688746..690296	+	516	5858359	xseA	YP_001654657.1	-	-	exodeoxyribonuclease VII large subunit
+690280..690498	+	72	5858834	xseB	YP_001654658.1	-	-	exodeoxyribonuclease VII small subunit
+690505..690777	+	90	5858803	-	YP_001654659.1	-	-	hypothetical protein CTL0584
+690774..692696	+	640	5858397	dxs	YP_001654660.1	-	-	1-deoxy-D-xylulose-5-phosphate synthase
+692793..694250	+	485	5857956	pykF	YP_001654661.1	-	-	pyruvate kinase
+694273..699633	+	1786	5858569	uvrA	YP_001654662.1	-	-	excinuclease ABC subunit A
+699851..701251	+	466	5858828	dnaX	YP_001654663.1	-	-	DNA polymerase III subunit gamma and tau
+701244..701534	+	96	5858113	-	YP_001654664.1	-	-	nucleoid-associated protein
+701544..703259	-	571	5857919	ptsI	YP_001654665.1	-	-	phosphoenolpyruvate-protein phosphotransferase
+703259..703588	-	109	5858721	ptsH	YP_001654666.1	-	-	phosphocarrier protein HPr
+703726..704187	-	153	5858679	-	YP_001654667.1	-	-	hypothetical protein CTL0592
+704244..704498	-	84	24423077	-	YP_009143300.1	-	-	hypothetical protein CTL0592a
+704471..706000	+	509	5858402	-	YP_001654669.1	-	-	hypothetical protein CTL0593
+706072..708108	-	678	5858223	-	YP_001654670.1	-	-	2-oxoisovalerate dehydrogenase subunit alpha/beta
+708143..709321	-	392	5858338	dnaJ	YP_001654671.1	-	-	chaperone protein DnaJ
+709350..709526	-	58	5858534	rpsU	YP_001654672.1	-	-	30S ribosomal protein S21
+709724..710356	-	210	5857978	-	YP_001654673.1	-	-	O-sialoglycoprotein endopeptidase
+710666..713125	+	819	5858232	lon	YP_001654674.1	-	-	Lon protease
+713227..713592	+	121	5858097	-	YP_001654675.1	-	-	hypothetical protein CTL0599
+713935..714849	+	304	5858302	-	YP_001654676.1	-	-	ribonuclease Z
+714911..715858	+	315	5858132	xerC	YP_001654677.1	-	-	tyrosine recombinase XerC
+715912..717501	+	529	5857939	-	YP_001654678.1	-	-	ABC transporter ATP-binding protein
+717537..718127	+	196	5857929	-	YP_001654679.1	-	-	septum formation protein Maf
+718109..719809	+	566	5858295	-	YP_001654680.1	-	-	hypothetical protein CTL0604
+719816..721918	+	700	5858366	-	YP_001654681.1	-	-	hypothetical protein CTL0605
+721992..722300	-	102	5858231	secG	YP_001654682.1	-	-	preprotein translocase subunit SecG
+722456..723001	-	181	5858262	def	YP_001654683.1	-	-	peptide deformylase
+723276..724109	-	277	5858688	-	YP_001654684.1	-	-	ribosomal RNA small subunit methyltransferase A
+724125..725186	-	353	5858094	-	YP_001654685.1	-	-	hypothetical protein CTL0609
+725491..727605	-	704	5858408	-	YP_001654686.1	-	-	hypothetical protein CTL0610
+728062..728394	+	110	5858273	-	YP_001654687.1	-	-	hypothetical protein CTL0611A
+728420..728932	+	170	5857913	-	YP_008470966.1	-	-	hypothetical protein CTL0612
+729014..729604	-	196	5858360	-	YP_001654688.1	-	-	hypothetical protein CTL0613
+729856..730482	-	208	5858261	-	YP_001654689.1	-	-	hypothetical protein CTL0614
+730644..731504	-	286	5858751	dapA	YP_001654690.1	-	-	4-hydroxy-tetrahydrodipicolinate synthase
+731514..732809	-	431	5858118	lysC	YP_001654691.1	-	-	aspartokinase
+732802..733806	-	334	5858738	asd	YP_001654692.1	-	-	aspartate-semialdehyde dehydrogenase
+733816..734577	-	253	5858481	dapB	YP_001654693.1	-	-	4-hydroxy-tetrahydrodipicolinate reductase
+734754..736481	-	575	5858074	-	YP_001654694.1	-	-	hypothetical protein CTL0619
+736651..737973	+	440	5858438	aroA	YP_001654695.1	-	-	3-phosphoshikimate 1-carboxyvinyltransferase
+737915..738469	+	184	5858488	aroL	YP_001654696.1	-	-	shikimate kinase
+738462..739535	+	357	5858480	aroC	YP_001654697.1	-	-	chorismate synthase
+739532..740653	+	373	5858466	aroB	YP_001654698.1	-	-	3-dehydroquinate synthase
+740634..742076	+	480	5858629	aroDE	YP_001654699.1	-	-	bifunctional 3-dehydroquinate dehydratase/shikimate dehydrogenase
+742118..742903	+	261	5858666	-	YP_001654700.1	-	-	hypothetical protein CTL0625
+743044..744372	+	442	5858286	-	YP_001654701.1	-	-	porin AaxA
+745044..746495	+	483	5858403	-	YP_001654702.1	-	-	arginine/agmatine antiporter
+746667..747725	+	352	5858352	-	YP_001654703.1	-	-	oxidoreductase
+747767..748747	-	326	5858419	mdhC	YP_001654704.1	-	-	malate dehydrogenase
+748937..749077	-	46	5858450	ltuA	YP_001654705.1	-	-	late transcription unit A protein
+749192..750769	-	525	5858722	pgi	YP_001654706.1	-	-	glucose-6-phosphate isomerase
+750882..752225	-	447	5858597	-	YP_001654707.1	-	-	GTPase HflX
+752238..753038	-	266	5858384	phnP	YP_001654708.1	-	-	metal-dependent hydrolase
+753067..753840	-	257	5858448	artJ	YP_001654709.1	-	-	arginine ABC transporter substrate-binding protein
+753909..754745	-	278	5858039	aroG	YP_001654710.1	-	-	3-deoxy-7-phosphoheptulonate synthase
+754882..755073	-	63	5858028	-	YP_001654711.1	-	-	hypothetical protein CTL0638
+755256..755987	+	243	5858257	-	YP_001654712.1	-	-	hypothetical protein CTL0639
+755998..757617	-	539	5858251	-	YP_001654713.1	-	-	hypothetical protein CTL0640
+757632..757967	-	111	5858401	-	YP_001654714.1	-	-	hypothetical protein CTL0641
+757964..758833	-	289	5858240	-	YP_001654715.1	-	-	hypothetical protein CTL0642
+759120..761195	+	691	5858228	-	YP_001654716.1	-	-	hypothetical protein CTL0643
+761209..761556	-	115	5858370	-	YP_001654717.1	-	-	hypothetical protein CTL0644
+761738..762964	+	408	5858234	-	YP_001654718.1	-	-	hypothetical protein CTL0645
+763072..764256	+	394	5858236	dapL	YP_001654719.1	-	-	L,L-diaminopimelate aminotransferase
+764264..765271	+	335	5858682	-	YP_001654720.1	-	-	ABC transporter substrate-binding protein
+765280..766410	-	376	5858283	-	YP_001654721.1	-	-	hypothetical protein CTL0648
+766611..768356	+	581	5858382	proS	YP_001654722.1	-	-	proline--tRNA ligase
+768425..769603	+	392	5858140	hrcA	YP_001654723.1	-	-	heat-inducible transcription repressor
+769600..770172	+	190	5858410	grpE	YP_001654724.1	-	-	stress response protein GrpE
+770198..772180	+	660	5858788	dnaK	YP_001654725.1	-	-	chaperone protein DnaK
+772473..774557	+	694	5858673	vacB	YP_001654726.1	-	-	ribonuclease R
+774813..775577	+	254	5858827	-	YP_001654727.1	-	-	hypothetical protein CTL0655
+776000..776986	-	328	5858392	-	YP_001654728.1	-	-	carbohydrate isomerase
+777018..778184	-	388	5857914	sucB	YP_001654729.1	-	-	branched-chain alpha-keto acid dehydrogenase complex dihydrolipoyllysine-residue succinyltransferase
+778430..779668	-	412	5858315	gltT	YP_001654730.1	-	-	sodium:dicarboxylate symport protein
+779665..780774	-	369	5858201	lpxK	YP_001654731.1	-	-	tetraacyldisaccharide 4\'-kinase
+780940..781749	-	269	5858244	-	YP_001654732.1	-	-	SpoU family rRNA methylase
+781737..782564	-	275	5858287	-	YP_001654733.1	-	-	SAM-dependent methyltransferase
+782561..783160	-	199	5857934	ribC	YP_001654734.1	-	-	riboflavin synthase
+783553..784017	+	154	5858672	nrdR	YP_001654735.1	-	-	transcriptional regulator NrdR
+784031..784405	+	124	5858340	dksA	YP_001654736.1	-	-	RNA polymerase-binding transcription factor
+784411..784914	+	167	5858209	lspA	YP_001654737.1	-	-	lipoprotein signal peptidase
+785016..786377	+	453	5858699	-	YP_001654738.1	-	-	sodium/alanine symporter
+786593..787870	+	425	5858266	pcnB	YP_001654739.1	-	-	poly A polymerase
+787931..789754	+	607	5858639	lpxB	YP_001654740.1	-	-	lipid-A-disaccharide synthase
+789861..792788	+	975	5858107	pmpA	YP_001654741.1	-	-	outer membrane protein PmpA
+792927..798176	+	1749	5858502	pmpB	YP_001654742.1	-	-	outer membrane protein PmpB
+798351..803675	+	1774	5858099	pmpC	YP_001654743.1	-	-	outer membrane protein PmpC
+804228..805058	+	276	5858272	-	YP_001654744.1	-	-	metal ABC transporter substrate-binding protein
+805055..805765	+	236	5858376	-	YP_001654745.1	-	-	metal ABC transporter ATP-binding protein
+805756..806637	+	293	5858239	-	YP_001654746.1	-	-	metal ABC transporter permease
+806553..807560	-	335	5857930	obgE	YP_001654747.1	-	-	GTPase ObgE
+807650..807901	-	83	5858329	rpmA	YP_001654748.1	-	-	50S ribosomal protein L27
+807932..808255	-	107	5858312	rplU	YP_001654749.1	-	-	50S ribosomal protein L21
+808805..809506	+	233	5858284	-	YP_001654750.1	-	-	hypothetical protein CTL0678
+809691..809852	+	53	5858385	-	YP_001654751.1	-	-	hypothetical protein CTL0679
+809869..810030	+	53	5858242	-	YP_001654752.1	-	-	hypothetical protein CTL0680
+810043..810528	+	161	5858411	-	YP_001654753.1	-	-	endoribonuclease
+810661..811770	+	369	5857922	-	YP_001654754.1	-	-	hypothetical protein CTL0682
+811959..812309	+	116	5858395	rsbV	YP_001654755.1	-	-	anti-sigma F factor antagonist
+812487..814352	+	621	5858733	-	YP_001654756.1	-	-	hypothetical protein CTL0684
+814549..815658	+	369	5858386	-	YP_001654757.1	-	-	menaquinone biosynthesis protein
+815631..816452	+	273	5858368	-	YP_001654758.1	-	-	ubiquinone/menaquinone biosynthesis protein
+816388..817077	+	229	5858221	ubiE	YP_001654759.1	-	-	demethylmenaquinone methyltransferase
+817103..818092	-	329	5858831	-	YP_001654760.1	-	-	hypothetical protein CTL0688
+818153..818980	-	275	5858387	dapF	YP_001654761.1	-	-	diaminopimelate epimerase
+818949..819527	-	192	5858690	clpP	YP_001654762.1	-	-	ATP-dependent Clp protease proteolytic subunit
+819539..821032	-	497	5858124	glyA	YP_001654763.1	-	-	serine hydroxymethyltransferase
+821396..822067	+	223	5858617	hemD	YP_001654764.1	-	-	hypothetical protein CTL0692
+822170..822706	+	178	5858357	ispF	YP_001654765.1	-	-	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+822703..823755	-	350	5858356	-	YP_001654766.1	-	-	hypothetical protein CTL0694
+823772..824089	-	105	5858248	rpsJ	YP_001654767.1	-	-	30S ribosomal protein S10
+824097..826181	-	694	5858519	fusA	YP_001654768.1	-	-	elongation factor G
+826223..826696	-	157	5858037	rpsG	YP_001654769.1	-	-	30S ribosomal protein S7
+826746..827117	-	123	5858160	rpsL	YP_001654770.2	-	-	30S ribosomal protein S12
+827377..827715	+	112	5857998	-	YP_001654771.1	-	-	hypothetical protein CTL0699
+827873..829822	+	649	5858256	tsp	YP_001654772.1	-	-	carboxy-terminal processing protease
+829929..830381	-	150	5858812	-	YP_001654773.1	-	-	hypothetical protein CTL0701
+830559..832220	-	553	5858203	omcB	YP_001654774.1	-	-	outer membrane protein OmcB
+832367..832633	-	88	5858422	omcA	YP_001654775.1	-	-	lipoprotein OmcA
+832970..833194	+	74	5858155	-	YP_001654776.1	-	-	hypothetical protein CTL0704
+833191..834711	-	506	5858291	gltX	YP_001654777.1	-	-	glutamate--tRNA ligase
+834982..835533	-	183	5858744	euo	YP_001654778.1	-	-	hypothetical protein CTL0706
+835937..837691	-	584	5858123	recJ	YP_001654779.1	-	-	single-stranded-DNA-specific exonuclease
+837809..842011	-	1400	5858531	secF	YP_001654780.1	-	-	preprotein translocase subunit SecD/SecF
+842431..842763	-	110	5858520	-	YP_001654781.1	-	-	hypothetical protein CTL0709
+843225..843986	+	253	5858394	uppS	YP_001654782.1	-	-	isoprenyl transferase
+843992..844909	+	305	5858818	cdsA	YP_001654783.1	-	-	phosphatidate cytidylyltransferase
+844906..845556	+	216	5858467	cmk	YP_001654784.1	-	-	cytidylate kinase
+845553..846203	+	216	5858044	plsC	YP_001654785.1	-	-	1-acyl-sn-glycerol-3-phosphate acyltransferase
+846218..847909	+	563	5858772	argS	YP_001654786.1	-	-	arginine--tRNA ligase
+847947..849281	-	444	5858463	murA	YP_001654787.1	-	-	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+849494..852511	+	1005	5858633	tarp	YP_001654788.1	-	-	translocated actin-recruiting phosphoprotein
+852563..853279	-	238	5858082	-	YP_001654789.1	-	-	transcriptional regulator
+853462..853965	-	167	5857916	-	YP_001654790.1	-	-	acetyltransferase
+853962..855069	-	368	5858265	prfB	YP_001654791.1	-	-	peptide chain release factor 2
+855389..855649	+	86	5858020	-	YP_001654792.1	-	-	hypothetical protein CTL0720
+855707..856696	+	329	5858324	-	YP_001654793.1	-	-	metallo-phosphoesterase
+856686..857345	+	219	5858346	ispD	YP_001654794.1	-	-	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+857354..858157	+	267	5858814	truA	YP_001654795.1	-	-	tRNA pseudouridine synthase A
+858109..858783	-	224	5858823	-	YP_001654796.1	-	-	HAD superfamily hydrolase
+858876..859517	+	213	5858348	-	YP_001654797.1	-	-	hypothetical protein CTL0725
+859811..860140	+	109	5858303	-	YP_001654798.1	-	-	hypothetical protein CTL0726
+860118..861176	+	352	5858377	atoS	YP_001654799.1	-	-	two component system sensor histidine kinase
+861219..862379	+	386	5858613	atoC	YP_001654800.1	-	-	two component system response regulator
+862606..863142	+	178	5857912	-	YP_001654801.1	-	-	hypothetical protein CTL0729
+863112..863843	+	243	5858380	recO	YP_001654802.1	-	-	DNA repair protein RecO
+863840..864442	-	200	5858178	-	YP_001654803.1	-	-	hypothetical protein CTL0731
+864920..865714	+	264	5858300	-	YP_001654804.1	-	-	hypothetical protein CTL0733
+865720..866034	+	104	5857911	-	YP_001654805.1	-	-	hypothetical protein CTL0734
+865973..866902	-	309	5857918	-	YP_001654806.1	-	-	hypothetical protein CTL0735
+866990..869362	+	790	5858271	pheT	YP_001654807.1	-	-	phenylalanine--tRNA ligase subunit beta
+869359..870324	+	321	5858430	-	YP_001654808.1	-	-	hypothetical protein CTL0737
+870343..870855	+	170	5857907	-	YP_001654809.1	-	-	DNA methyltransferase
+870852..872588	-	578	5858412	oppC2	YP_001654810.1	-	-	oligopeptide ABC transporter permease
+872590..874005	-	471	5858208	oppB2	YP_001654811.1	-	-	oligopeptide ABC transporter permease
+874050..876140	-	696	5858433	oppA4	YP_001654812.1	-	-	oligopeptide ABC transporter substrate-binding protein
+876391..876552	-	53	16665138	-	YP_008470967.1	-	-	hypothetical protein CTL0742a
+876746..877477	-	243	5858440	-	YP_001654813.1	-	-	hypothetical protein CTL0742
+877639..878292	-	217	5858417	-	YP_001654814.1	-	-	hypothetical protein CTL0743
+878760..879125	+	121	5857925	-	YP_001654815.1	-	-	hypothetical protein CTL0744
+879104..880102	-	332	5858325	-	YP_001654816.1	-	-	hypothetical protein CTL0745
+880259..881203	-	314	5858375	hemH	YP_001654817.1	-	-	ferrochelatase
+881225..882010	-	261	5858836	fliY	YP_001654818.1	-	-	ABC transporter substrate-binding protein
+882056..882628	-	190	5858031	-	YP_001654819.1	-	-	methyltransferase
+882625..883359	-	244	5858383	-	YP_001654820.1	-	-	phosphohydrolase
+883448..884773	-	441	5858237	glgC	YP_001654821.1	-	-	glucose-1-phosphate adenylyltransferase
+884965..885216	+	83	5858661	-	YP_001654822.1	-	-	hypothetical protein CTL0751
+885226..886620	-	464	5858390	rho	YP_001654823.1	-	-	transcription termination factor
+886617..887225	-	202	5858507	coaE	YP_001654824.1	-	-	dephospho-CoA kinase
+887219..889819	-	866	5858230	polA	YP_001654825.1	-	-	DNA polymerase I
+889836..890831	-	331	5858706	sohB	YP_001654826.1	-	-	protease
+890971..892593	-	540	5858780	-	YP_001654827.1	-	-	ADP, ATP carrier protein
+892805..893311	-	168	5858351	-	YP_001654828.1	-	-	hypothetical protein CTL0757
+893707..893856	-	49	5858269	-	YP_001654829.1	-	-	hypothetical protein CTL0758
+893825..895243	+	472	5858405	dnaB	YP_001654830.1	-	-	replicative DNA helicase
+895538..897370	+	610	5858651	gidA	YP_001654831.1	-	-	tRNA uridine 5-carboxymethylaminomethyl modification protein GidA
+897360..898061	+	233	5858485	lplA	YP_001654832.1	-	-	lipoate-protein ligase A
+898118..898543	-	141	5858308	ndk	YP_001654833.1	-	-	nucleoside diphosphate kinase
+898703..899305	-	200	5857995	ruvA	YP_001654834.1	-	-	Holliday junction DNA helicase RuvA
+899325..899837	-	170	5858100	ruvC	YP_001654835.1	-	-	crossover junction endodeoxyribonuclease RuvC
+899945..900499	-	184	5858704	-	YP_001654836.2	-	-	hypothetical protein CTL0765
+900786..901652	-	288	5858298	-	YP_001654837.1	-	-	hypothetical protein CTL0766
+901663..902667	-	334	5858421	gapA	YP_001654838.1	-	-	glyceraldehyde 3-phosphate dehydrogenase
+902711..903136	-	141	5858649	rplQ	YP_001654839.1	-	-	50S ribosomal protein L17
+903145..904278	-	377	5858545	rpoA	YP_001654840.1	-	-	DNA-directed RNA polymerase subunit alpha
+904299..904697	-	132	5858051	rpsK	YP_001654841.1	-	-	30S ribosomal protein S11
+904719..905087	-	122	5857992	rpsM	YP_001654842.1	-	-	30S ribosomal protein S13
+905143..906516	-	457	5857999	secY	YP_001654843.1	-	-	preprotein translocase subunit SecY
+906539..906973	-	144	5858342	rplO	YP_001654844.1	-	-	50S ribosomal protein L15
+906966..907463	-	165	5858056	rpsE	YP_001654845.1	-	-	30S ribosomal protein S5
+907478..907849	-	123	5858024	rplR	YP_001654846.1	-	-	50S ribosomal protein L18
+907871..908422	-	183	5858516	rplF	YP_001654847.1	-	-	50S ribosomal protein L6
+908450..908851	-	133	5858635	rpsH	YP_001654848.1	-	-	30S ribosomal protein S8
+908869..909411	-	180	5858563	rplE	YP_001654849.1	-	-	50S ribosomal protein L5
+909413..909748	-	111	5858588	rplX	YP_001654850.1	-	-	50S ribosomal protein L24
+909761..910129	-	122	5858501	rplN	YP_001654851.1	-	-	50S ribosomal protein L14
+910146..910397	-	83	5858543	rpsQ	YP_001654852.1	-	-	30S ribosomal protein S17
+910390..910608	-	72	5858012	rpmC	YP_001654853.1	-	-	50S ribosomal protein L29
+910610..911026	-	138	5858529	rplP	YP_001654854.1	-	-	50S ribosomal protein L16
+911059..911733	-	224	5858591	rpsC	YP_001654855.1	-	-	30S ribosomal protein S3
+911743..912078	-	111	5858697	rplV	YP_001654856.1	-	-	50S ribosomal protein L22
+912097..912363	-	88	5858167	rpsS	YP_001654857.1	-	-	30S ribosomal protein S19
+912369..913223	-	284	5858775	rplB	YP_001654858.1	-	-	50S ribosomal protein L2
+913247..913582	-	111	5858558	rplW	YP_001654859.1	-	-	50S ribosomal protein L23
+913598..914266	-	222	5858492	rplD	YP_001654860.1	-	-	50S ribosomal protein L4
+914275..914940	-	221	5858171	rplC	YP_001654861.1	-	-	50S ribosomal protein L3
+915375..916271	-	298	5858628	-	YP_001654862.1	-	-	hypothetical protein CTL0791
+916437..917387	-	316	5858328	fmt	YP_001654863.1	-	-	methionyl-tRNA formyltransferase
+917377..918219	-	280	5858767	lpxA	YP_001654864.1	-	-	acyl-ACP--UDP-N-acetylglucosamine O-acyltransferase
+918231..918692	-	153	5858310	fabZ	YP_001654865.1	-	-	3-hydroxyacyl-ACP dehydratase
+918689..919549	-	286	5858634	lpxC	YP_001654866.1	-	-	UDP-3-O
+919649..921277	-	542	5858636	lnt	YP_001654867.1	-	-	apolipoprotein N-acyltransferase
+921341..921823	-	160	5858685	-	YP_001654868.1	-	-	acyl-CoA thioester hydrolase
+921959..922711	-	250	5858322	dnaQ2	YP_001654869.1	-	-	DNA polymerase III subunit epsilon
+922715..923188	-	157	5858689	-	YP_001654870.1	-	-	hypothetical protein CTL0799
+923167..923883	-	238	5858319	-	YP_001654871.1	-	-	hypothetical protein CTL0800
+924605..924913	+	102	5858301	trxA	YP_001654872.1	-	-	thioredoxin
+924963..925418	-	151	5858798	-	YP_001654873.1	-	-	tRNA (cytidine(34)-2\'-O)-methyltransferase
+925434..926165	-	243	5858373	mip	YP_001654874.1	-	-	peptidyl-prolyl cis-trans isomerase
+926303..928051	-	582	5858582	aspS	YP_001654875.1	-	-	aspartate--tRNA(Asp/Asn) ligase
+928032..929318	-	428	5858643	hisS	YP_001654876.1	-	-	histidine--tRNA ligase
+929754..931124	+	456	5858832	uhpC	YP_001654877.1	-	-	hexose phosphate transport protein
+931138..934851	+	1237	5858824	dnaE	YP_001654878.1	-	-	DNA polymerase III subunit alpha
+935080..935949	-	289	5858578	-	YP_001654879.1	-	-	hypothetical protein CTL0808
+936101..937057	+	318	5858224	-	YP_001654880.1	-	-	hypothetical protein CTL0809
+937082..937666	+	194	5858393	-	YP_001654881.1	-	-	hypothetical protein CTL0810
+937653..938093	+	146	5858259	rsbW	YP_001654882.1	-	-	serine/threonine protein kinase RsbW
+938100..938525	-	141	5857949	-	YP_001654883.1	-	-	hypothetical protein CTL0812
+938633..939946	+	437	5858238	dacC	YP_001654884.1	-	-	D-alanyl-D-alanine carboxypeptidase
+940079..940486	+	135	5858452	-	YP_001654885.1	-	-	hypothetical protein CTL0814
+940483..941589	+	368	5858250	-	YP_001654886.1	-	-	methyltransferase
+941739..942974	+	411	5858270	brnQ	YP_001654887.1	-	-	branched-chain amino acid transport system carrier protein
+943148..946747	+	1199	5858630	-	YP_001654888.1	-	-	helicase
+946926..947405	+	159	5858220	-	YP_001654889.1	-	-	hypothetical protein CTL0819
+947614..949011	+	465	5857910	lpdA	YP_001654890.1	-	-	2-oxoglutarate dehydrogenase complex dihydrolipoyl dehydrogenase
+949008..949943	+	311	5858095	lipA	YP_001654891.1	-	-	lipoyl synthase
+950047..951024	+	325	5858694	sctJ	YP_001654892.1	-	-	type III secretion system protein
+951025..951861	+	278	5858163	-	YP_001654893.1	-	-	hypothetical protein CTL0823
+952137..952808	+	223	5858219	sctL	YP_001654894.1	-	-	type III secretion system protein
+952821..953741	+	306	5858013	sctR	YP_001654895.1	-	-	type III secretion system protein
+953753..954037	+	94	5858765	sctS	YP_001654896.1	-	-	type III secretion system protein
+954044..954913	+	289	5858166	sctT	YP_001654897.1	-	-	type III secretion system protein
+954992..955435	-	147	5858188	-	YP_001654898.1	-	-	hypothetical protein CTL0828
+955525..956517	-	330	5858225	-	YP_001654899.1	-	-	hypothetical protein CTL0829
+956523..957047	-	174	5858344	-	YP_001654900.1	-	-	hypothetical protein CTL0830
+957032..957487	-	151	5858374	-	YP_001654901.1	-	-	hypothetical protein CTL0831
+957471..957800	-	109	5857928	-	YP_001654902.1	-	-	type II secretion system protein G
+957862..959037	-	391	5858170	gspF	YP_001654903.1	-	-	type II secretion system protein F
+959049..960554	-	501	5857994	gspE	YP_001654904.1	-	-	type II secretion system protein E
+960538..962820	-	760	5858577	gspD	YP_001654905.1	-	-	type II secretion system protein D
+962821..964050	-	409	5858749	-	YP_001654906.1	-	-	hypothetical protein CTL0836
+964179..965249	-	356	5858409	pepP	YP_001654907.1	-	-	aminopeptidase
+965260..966990	-	576	5857954	mutL	YP_001654908.1	-	-	DNA mismatch repair protein
+967270..967968	+	232	5858547	scc2	YP_001654909.1	-	-	type III secretion system chaperone
+967985..968344	+	119	5857944	-	YP_001654910.1	-	-	hypothetical protein CTL0840
+968381..969844	+	487	5858247	copB	YP_001654911.1	-	-	type III secretion system translocator CopB
+969875..971194	+	439	5858647	copD	YP_001654912.1	-	-	type III secretion system translocator CopD
+971272..972255	-	327	5858034	-	YP_001654913.1	-	-	S-adenosylmethionine/S-adenosylhomocysteine transporter
+972560..974467	+	635	5858349	thrS	YP_001654914.1	-	-	threonine--tRNA ligase
+974919..975686	+	255	5858400	minD	YP_001654915.1	-	-	ParA family chromosome partitioning ATPase
+975691..976482	+	263	5858313	gp6D	YP_001654916.1	-	-	virulence protein GP6-D
+976448..976999	+	183	5858337	-	YP_001654917.1	-	-	hypothetical protein CTL0847
+977178..978218	+	346	5858275	trpS	YP_001654918.1	-	-	tryptophan--tRNA ligase
+978243..980249	+	668	5858802	uvrB	YP_001654919.1	-	-	excinuclease ABC subunit B
+980411..981685	+	424	5858819	eno	YP_001654920.1	-	-	enolase
+981813..983765	+	650	5858650	rbsU	YP_001654921.1	-	-	serine phosphatase RsbU
+983890..985698	+	602	5858554	-	YP_001654922.1	-	-	hypothetical protein CTL0852
+985713..988577	-	954	5858381	-	YP_001654923.1	-	-	hypothetical protein CTL0853
+988674..989372	-	232	5858334	sdhB	YP_001654924.1	-	-	succinate dehydrogenase iron-sulfur subunit
+989451..991331	-	626	5858174	sdhA	YP_001654925.1	-	-	succinate dehydrogenase flavoprotein subunit
+992336..993127	-	263	5858235	-	YP_001654926.1	-	-	hydrolase
+993212..995290	-	692	5858367	dsdD	YP_001654927.1	-	-	thiol:disulfide interchange protein
+995443..996141	+	232	5858614	exbB	YP_001654928.1	-	-	biopolymer transport protein
+996138..996545	+	135	5858064	-	YP_001654929.1	-	-	biopolymer transport protein
+996548..997255	+	235	5858297	-	YP_001654930.1	-	-	hypothetical protein CTL0861A
+997255..998550	+	431	5858217	tolB	YP_001654931.1	-	-	translocation protein TolB
+998547..999113	+	188	5858363	pal	YP_001654932.1	-	-	peptidoglycan-associated lipoprotein
+999103..999705	+	200	5858445	-	YP_001654933.1	-	-	hypothetical protein CTL0864
+999776..1000168	+	130	5858278	-	YP_001654934.1	-	-	hypothetical protein CTL0865
+1000165..1000752	-	195	5857909	ahpC	YP_001654935.1	-	-	thioredoxin peroxidase
+1000960..1002561	-	533	5858350	groEL2	YP_001654936.1	-	-	molecular chaperone GroEL
+1002641..1003867	-	408	5858121	-	YP_001654937.1	-	-	hypothetical protein CTL0868
+1004063..1004692	+	209	5858323	-	YP_001654938.1	-	-	non-canonical purine NTP pyrophosphatase
+1004666..1004905	-	79	5858299	-	YP_001654939.1	-	-	hypothetical protein CTL0870
+1004890..1005579	-	229	5858388	ung	YP_001654940.1	-	-	uracil-DNA glycosylase
+1005660..1007564	+	634	5858826	uvrD	YP_001654941.1	-	-	ATP-dependent DNA helicase
+1007568..1008878	+	436	5858833	rpoN	YP_001654942.1	-	-	RNA polymerase sigma-54 factor
+1008986..1009681	-	231	5858740	-	YP_001654943.1	-	-	virulence protein CADD
+1009678..1010409	-	243	5858369	-	YP_001654944.1	-	-	gamma-glutamyl ligase
+1010381..1010860	-	159	5858372	folA	YP_001654945.1	-	-	dihydrofolate reductase
+1010857..1012209	-	450	5858627	folP	YP_001654946.1	-	-	bifunctional 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase/dihydropteroate synthase
+1012206..1012580	-	124	5858156	folX	YP_001654947.1	-	-	dihydroneopterin aldolase
+1012599..1014314	-	571	5858464	rpoD	YP_001654948.1	-	-	RNA polymerase sigma factor
+1014463..1015752	-	429	5858732	-	YP_001654949.1	-	-	hypothetical protein CTL0880
+1016201..1016497	+	98	5858407	rpsT	YP_001654950.1	-	-	30S ribosomal protein S20
+1016730..1017530	+	266	5857989	-	YP_001654951.1	-	-	hypothetical protein CTL0882
+1017586..1020213	-	875	5858241	-	YP_001654952.1	-	-	hypothetical protein CTL0883
+1020329..1022845	+	838	5858335	-	YP_001654953.1	-	-	hypothetical protein CTL0884
+1022909..1025407	-	832	5858222	-	YP_001654954.1	-	-	hypothetical protein CTL0885
+1025635..1027590	-	651	5858321	-	YP_001654955.1	-	-	hypothetical protein CTL0886
+1027698..1028999	-	433	5858035	-	YP_001654956.1	-	-	hypothetical protein CTL0887
+1029017..1029235	+	72	16665139	-	YP_008470968.1	-	-	hypothetical protein CTL0887a
+1029243..1030853	-	536	5858622	-	YP_001654957.2	-	-	lipid II flippase MurJ
+1031026..1031892	+	288	5858592	nfo	YP_001654958.1	-	-	endonuclease IV
+1031988..1032617	-	209	5858496	rpsD	YP_001654959.1	-	-	30S ribosomal protein S4
+1033001..1033984	+	327	5858693	-	YP_001654960.1	-	-	hypothetical protein CTL0891
+1034057..1034932	-	291	5858624	ispA	YP_001654961.1	-	-	farnesyl diphosphate synthase
+1034988..1035605	-	205	5858708	-	YP_001654962.1	-	-	glucosamine-1-phosphate acetyltransferase
+1035658..1036341	-	227	5858490	-	YP_001654963.1	-	-	transcriptional regulator
+1036521..1036775	+	84	5858664	-	YP_001654964.1	-	-	hypothetical protein CTL0895
+1036956..1038545	-	529	5858281	-	YP_001654965.1	-	-	hypothetical protein CTL0897
