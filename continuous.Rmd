@@ -197,7 +197,7 @@ text(x=results[[7]]$solution[1,1], y=results[[7]]$loglik, "unconstrained best", 
 A rule of thumb for confidence for likelihood is all points two log likelihood units worse than the best value. Draw a dotted line on the plot to show this
 
 ```{r, eval=TRUE}
-abline(h=_______________, lty="dotted") #Two log-likelihood
+abline(h=-416.4428, lty="dotted") #Two log-likelihood
 ```
 
 Now, let's try looking at both theta parameters at once, keeping the other parameters at their MLEs
