@@ -1,57 +1,139 @@
 ---
 title: "Continuous character models"
-author: "Brian C. O'Meara"
-date: "`r format(Sys.time(), '%d %B, %Y')`"
-output: pdf_document
+author: "Erika Moore"
+date: "4/17/18"
+output:
+  html_document:
+    df_print: paged
 ---
 
 First get packages we need
 
 ```{r, eval=TRUE}
-install.packages("yearn")
+#install.packages("yearn")
 yearn::yearn(ape) #utility fns
 yearn::yearn(geiger) #utilty fns
 yearn::yearn(OUwie)
 ```
 
-Now get the tree and data. For these exercises, knowing uncertainty in your measurements can also be important. (remember for homework to change `eval=FALSE` to `eval=TRUE`).
+Now get the tree and data. For these exercises, knowing uncertainty in your measurements can also be important. (remember for homework to change `eval=TRUE` to `eval=TRUE`).
 
-```{r, eval=FALSE}
-tree <- read.tree("____PATH_TO_TREE_OR_SOME_OTHER_WAY_OF_GETTING_A_TREE____")
-continuous.data <- read.csv(file="____PATH_TO_DATA_OR_SOME_OTHER_WAY_OF_GETTING_TRAITS____", stringsAsFactors=FALSE) #death to factors.
+```{r, eval=TRUE}
+#install.packages("BIEN")
+library(BIEN)
+library(rotl)
+library(ape)
+yearn::yearn(BIEN)
+asteraceae.data <- BIEN_trait_family("Asteraceae")
+my.tree <- get_study_tree("ot_502", "tree1")
+print(asteraceae.data)
+plot(my.tree)
 ```
 
 A function to clean data, make sure taxon names match between tree and data, etc.
 
-```{r, eval=FALSE}
-CleanData <- function(phy, data) {
-	#treedata() in Geiger is probably my favorite function in R.
+```{r, eval=TRUE}
+# Cleaned Data
+library("datelife")
+a.data<-subset(asteraceae.data,trait_name=="seed mass")
+trees<-datelife_search(input=a.data$scrubbed_species_binomial)
+str(trees) 
+biggest.ntax <- 0
+biggest.tree <- NULL
+for (tree.index in sequence(length(trees))) {
+  if(Ntip(trees[[tree.index]]) > biggest.ntax) {
+    biggest.tree <- trees[[tree.index]]
+    biggest.ntax <- Ntip(trees[[tree.index]])
+  }
 }
+
+
+### Cleaned Tree
+#biggest.tree
+
+### Cleaned Data
+#a.data
+  
 ```
 
 A function to plot data. Look at `phytools::contMap()`. This is all part of checking: do your data all seem sensible? **LOOK AT IT**.
 
-```{r, eval=FALSE}
-VisualizeData <- function(phy, data) {
-	#Important here is to LOOK at your data before running it. Any weird values? Does it all make sense? What about your tree? Polytomies?
-}
+```{r, eval=TRUE}
+#Important here is to LOOK at your data before running it. Any weird values? Does it all make sense? What about your tree? Polytomies?
+plot(biggest.tree)
+print(a.data)
+yearn::yearn(dplyr)
+
+ library(taxize)
+  gnr.data <- gnr_datasources()
+  gnr.source <- gnr.data[gnr.data$title=="NCBI", "id"]
+  new.tree.names <- taxize::gnr_resolve(biggest.tree$tip.label, data_source=gnr.source, best_match_only =TRUE)$matched_name
+ # print(cbind(tree$tip.label, new.tree.names))
+  biggest.tree$tip.label <- new.tree.names
+  library(geiger)
+  
+  data.names <- a.data$scrubbed_species_binomial
+  actual.data <- data.frame(species=a.data$scrubbed_species_binomial,seed.mass=a.data[, "trait_value"], stringsAsFactors = FALSE)
+  actual.data$seed.mass <- as.numeric(actual.data$seed.mass)
+  aggregated.data <- as.data.frame(group_by(actual.data, species) %>% summarise(median = median(seed.mass)))
+    seed.sd <- as.data.frame(group_by(actual.data, species) %>% summarise(sd = sd(seed.mass)))
+    seed.sd.vector <- seed.sd$sd
+    names(seed.sd.vector) <- seed.sd$species
+    seed.sd.vector <- sort(seed.sd.vector, decreasing=TRUE)
+    seed.sd.vector <- seed.sd.vector[!is.na(seed.sd.vector)]
+    seed.sd.vector <- seed.sd.vector[!is.na(names(seed.sd.vector))]
+#some plants had really high variance in seed size: Helianthus annuus went from 1 mg to over 50 mg seeds. This seems... wrong. So we prune out species with high variance
+    top.2.5.percent <- quantile(seed.sd.vector,c(0.975), na.rm=TRUE)
+    bad.seeds <- names(seed.sd.vector)[which(seed.sd.vector>top.2.5.percent)]
+    
+
+  aggregated.data <- aggregated.data[!is.na(aggregated.data$species),]
+  aggregated.data <- aggregated.data[!(aggregated.data$species %in% bad.seeds),]
+  rownames(aggregated.data) <- aggregated.data$species
+ 
+  cleaned.result<- treedata(phy=biggest.tree,data=aggregated.data,sort=TRUE) #to get the same tree data between tree and dataset
+  cleaned.tree <- cleaned.result$phy
+  cleaned.data <- cleaned.result$data
+  cleaned.vector <- log(as.numeric(cleaned.data[,2]))
+  names(cleaned.vector) <- rownames(cleaned.data)
+
+
+phytools::contMap(cleaned.tree, cleaned.vector)
+
 ```
 
 First, start basic. What is the rate of evolution of your trait on the tree?
 
-```{r, eval=FALSE}
-BM1 <- geiger::fitContinuous(tree, cleaned.continuous, model="BM")
-print(paste("The rate of evolution is", _____, "in units of", _______))
+```{r, eval=TRUE}
+
+# Current Tree
+#cleaned.tree
+
+# Current Data
+#cleaned.vector
+
+
+BM1 <- geiger::fitContinuous(phy = cleaned.tree, dat = cleaned.vector, model="BM")
+print(paste("The rate of evolution is ", BM1$opt$sigsq, "in units of", "(log(mg))^2)/my"))
 ```
 
 Important: What are the rates of evolution? In what units?
 
 
-```{r, eval=FALSE}
-OU1 <- fitContinuous(tree, cleaned.continuous, model="OU")
-par(mfcol(c(1,2)))
-plot(tree, show.tip.label=FALSE)
-ou.tree <- rescale(tree, model="OU", ___alpha____)
+```{r, eval=TRUE}
+##claimed non-ultrametric, so fixing branch lengths
+new.p <- ape::chronoMPL(cleaned.tree)
+print(ape::is.ultrametric(new.p))
+plot(cleaned.tree$edge.length, new.p$edge.length, xlab="Original tree", ylab="Post-chronos tree", pch=20, bty="n")
+abline(a=0, b=1, col="gray", lwd=0.5)
+
+library(geiger)
+OU1 <- fitContinuous(new.p, cleaned.vector, model="OU")
+par(mfcol=c(1,2))
+
+
+plot(new.p, show.tip.label=FALSE)
+ou.tree <- rescale(new.p, model="OU", OU1$opt$alpha)
 plot(ou.tree)
 ```
 
@@ -59,11 +141,13 @@ How are the trees different?
 
 Compare trees
 
-```{r, eval=FALSE}
-AIC.BM1 <- ________FIGURE_OUT_HOW_TO_DO_THIS_____
-AIC.OU1 <- ________FIGURE_OUT_HOW_TO_DO_THIS_____
-delta.AIC.BM1 <- ________FIGURE_OUT_HOW_TO_DO_THIS_____
-delta.AIC.OU1 <- ________FIGURE_OUT_HOW_TO_DO_THIS_____
+```{r, eval=TRUE}
+AIC.BM1 <- BM1$opt$aic ##432.7713
+AIC.OU1 <- OU1$opt$aic ##411.0845
+delta.AIC.BM1 <- AIC.BM1 - AIC.OU1 ##21.6868
+delta.AIC.OU1 <- AIC.OU1 - AIC.OU1 ##0
+
+"OU1 is the better model given my data with a 21.6868 difference between models"
 ```
 
 
@@ -75,27 +159,95 @@ We're a bit obsessive about doing multiple starts and in general performing a th
 
 First, we need to assign regimes. The way we do this is with ancestral state estimation of a discrete trait. We can do this using ace() in ape, or similar functions in corHMM or diversitree. Use only one discrete char.
 
-```{r, eval=FALSE}
-one.discrete.char <- _____________
-reconstruction.info <- ace(one.discrete.char, tree, type="discrete", method="ML", CI=TRUE)
+```{r, eval=TRUE}
+#asteraceae.data <- BIEN_trait_family("Asteraceae")
+asteraceae.data
+d.a.data<-subset(asteraceae.data,trait_name=="whole plant growth form")
+
+data.names <- d.a.data$scrubbed_species_binomial
+actual.data <- data.frame(species=d.a.data$scrubbed_species_binomial,growth.form=d.a.data[, "trait_value"], stringsAsFactors = FALSE)
+duplicate<- duplicated(data.names)
+aggregated.discrete <- actual.data[!duplicate,]
+aggregated.discrete[,2]<-as.numeric(as.factor(c("Herb", "Shrub")))
+new.sd <- as.data.frame(group_by(aggregated.discrete, species))
+new.vector <- new.sd$growth.form
+names(new.vector) <- new.sd$species
+new.vector
+
+
+ cleaned.result<- treedata(phy=cleaned.tree,data=new.vector,sort=TRUE) #to get the same tree data between tree and dataset
+  cleaned.data <- cleaned.result$data
+  cleaned.treee <- cleaned.result$phy
+  cleaned.vector <- as.numeric(cleaned.data[,1])
+  names(cleaned.vector) <- rownames(cleaned.data)
+  
+  
+#Branch length issues:
+new.phy <- ape::chronoMPL(cleaned.treee)
+print(ape::is.ultrametric(new.phy))
+plot(cleaned.treee$edge.length, new.phy$edge.length, xlab="Original tree", ylab="Post-chronos tree", pch=20, bty="n")
+abline(a=0, b=1, col="gray", lwd=0.5)
+
+new.phy$edge.length[which(new.phy$edge.length<0)] <- 0
+new.phy <- di2multi(new.phy)
+
+
+
+
+
+
+#vector names = species, vector data = 0,1
+one.discrete.char <- cleaned.vector
+new.phy <- phytools::midpoint.root(new.phy)
+new.phy <- multi2di(new.phy)
+new.phy$edge.length[which(new.phy$edge.length==0)] <- 1e-10
+reconstruction.info <- ace(one.discrete.char, new.phy, type="discrete", method="ML", CI=TRUE)
 best.states <- colnames(reconstruction.info$lik.anc)[apply(reconstruction.info$lik.anc, 1, which.max)]
 ```
 
 Now add these labels to your tree.
 
-```{r, eval=FALSE}
-labeled.tree <- ________________
-nodeBased.OUMV <- OUwie(tree, cleaned.continuous,model="OUMV", simmap.tree=FALSE, diagn=FALSE)
-print(nodeBased.OUMV)
+```{r, eval=TRUE}
+labeled.tree <- new.phy
+labeled.tree$node.label <- best.states
+ouwie.data<-new.sd
+
+
+##aggregated.data = continuous - seed mass
+##aggregated.discrete = discrete data - herb or shrub
+ouwie.data <- merge(aggregated.data,aggregated.discrete,all = FALSE, by="species")
+
+to.delete.from.data <- !(ouwie.data[,"species"] %in% labeled.tree$tip.label)
+to.delete.from.tree <- which(!(labeled.tree$tip.label %in% ouwie.data[,"species"]))
+ouwie.data <- ouwie.data[-which(to.delete.from.data),]
+if(length(to.delete.from.tree)>0) {
+  labeled.tree <- drop.tip(labeled.tree, labeled.tree$tip.label[to.delete.from.tree])
+}
+
+ouwie.data<-ouwie.data[,c(1,3,2)]
+
+nodeBased.OUM <- OUwie(labeled.tree, ouwie.data,model="OUM", simmap.tree=FALSE, diagn=FALSE)
+print(nodeBased.OUM)
 ```
 
 What do the numbers mean?
+The AIC of this model shows how well the model fits when comparing it to other models. The alpha value represents the variance of the model and sigma squared represents the covariance. 
+
 
 Now run all OUwie models:
 
-```{r, eval=FALSE}
+```{r, eval=TRUE}
+
+RunSingleOUwieModel <- function(model, phy, data) {
+  return(OUwie(phy, data,model))
+}
 models <- c("BM1","BMS","OU1","OUM","OUMV","OUMA","OUMVA")
-results <- lapply(models, RunSingleOUwieModel, phy=tree, data=trait)
+
+# We don't trust the results for OUMA and OUMVA. So let's not look at those
+
+models <-  c("BM1","BMS","OU1","OUM","OUMV")
+
+results <- lapply(models, RunSingleOUwieModel, phy=labeled.tree, data=ouwie.data)
 
 AICc.values<-sapply(results, "[[", "AICc")
 names(AICc.values)<-models
@@ -112,38 +264,41 @@ print(best) #prints info on best model
 We get SE for the optima (see nodeBased.OUMV$theta) but not for the other parameters. Let's see how hard they are to estimate.
 First, look at ?OUwie.fixed to see how to calculate likelihood at a single point.
 
-```{r, eval=FALSE}
+```{r, eval=TRUE}
 ?OUwie.fixed
 ```
 
 Next, keep all parameters but alpha at their maximum likelihood estimates (better would be to fix just alpha and let the others optimize given this constraint, but this is harder to program for this class). Try a range of alpha values and plot the likelihood against this.
 
-```{r, eval=FALSE}
-alpha.values<-seq(from= _______________ , to= _______________ , length.out=50)
+```{r, eval=TRUE}
+alpha.values<-seq(from=0.01 , to=4 , length.out=50)
 ```
 
 Keep it simple (and slow) and do a for loop:
 
-```{r, eval=FALSE}
+```{r, eval=TRUE}
 likelihood.values <- rep(NA, length(alpha.values))
 for (iteration in sequence(length(alpha.values))) {
-	likelihood.values[iteration] <- OUwie.fixed(tree, trait, model="OUMV", alpha=rep(alpha.values[iteration],2), sigma.sq=best$solution[2,], theta=best$theta[,1])$loglik
+	likelihood.values[iteration] <- OUwie.fixed(labeled.tree, ouwie.data, model="OUMV", alpha=rep(alpha.values[iteration],2), sigma.sq=best$solution[2,], theta=best$theta[,1])$loglik
 }
 
-plot(x= _______________ , y= _______________, xlab="_______________", ylab="_______________", type="l", bty="n")
+plot(x= alpha.values , y= likelihood.values, xlab="alpha_", ylab="likelihood", type="l", bty="n")
 points(x=best$solution[1,1], y=best$loglik, pch=16, col="red")
 text(x=best$solution[1,1], y=best$loglik, "unconstrained best", pos=4, col="red")
 ```
 
 A rule of thumb for confidence for likelihood is all points two log likelihood units worse than the best value. Draw a dotted line on the plot to show this
 
-```{r, eval=FALSE}
-abline(h=_______________, lty="dotted") #Two log-likelihood
+```{r, eval=TRUE}
+plot(x= alpha.values , y= likelihood.values, xlab="alpha_", ylab="likelihood", type="l", bty="n")
+points(x=best$solution[1,1], y=best$loglik, pch=16, col="red")
+text(x=best$solution[1,1], y=best$loglik, "unconstrained best", pos=4, col="red")
+abline(h=max(likelihood.values-2), lty="dotted") #Two log-likelihood
 ```
 
 Now, let's try looking at both theta parameters at once, keeping the other parameters at their MLEs
 
-```{r, eval=FALSE}
+```{r, eval=TRUE}
 require("akima")
 nreps<-400
 theta1.points<-c(best$theta[1,1], rnorm(nreps-1, best$theta[1,1], 5*best$theta[1,2])) #center on optimal value, have extra variance
@@ -151,46 +306,48 @@ theta2.points<-c(best$theta[2,1], rnorm(nreps-1, best$theta[2,1], 5*best$theta[2
 likelihood.values<-rep(NA,nreps)
 
 for (iteration in sequence(nreps)) {
-	likelihood.values[iteration] <- OUwie.fixed(tree, trait, model="OUMV", alpha=best$solution[1,], sigma.sq=best$solution[2,], theta=c(theta1.points[iteration], theta2.points[iteration]))$loglik
+	likelihood.values[iteration] <- OUwie.fixed(labeled.tree, ouwie.data, model="OUMV", alpha=best$solution[1,], sigma.sq=best$solution[2,], theta=c(theta1.points[iteration], theta2.points[iteration]))$loglik
 }
 ```
 
 
 Think of how long that took to do 400 iterations. Now remember how long the search took (longer).
 
-```{r, eval=FALSE}
+```{r, eval=TRUE}
 likelihood.differences<-(-(likelihood.values-max(likelihood.values)))
 ```
 
 We are interpolating here: contour wants a nice grid. But by centering our simulations on the MLE values, we made sure to sample most thoroughly there
 
-```{r, eval=FALSE}
+```{r, eval=TRUE}
+library(akima)
 interpolated.points<-interp(x=theta1.points, y=theta2.points, z= likelihood.differences, linear=FALSE, extrap=TRUE, xo=seq(min(theta1.points), max(theta1.points), length = 400), yo=seq(min(theta2.points), max(theta2.points), length = 400))
 
 contour(interpolated.points, xlim=range(c(theta1.points, theta2.points)),ylim=range(c(theta1.points, theta2.points)), xlab="Theta 1", ylab="Theta 2", levels=c(2,5,10),add=FALSE,lwd=1, bty="n", asp=1)
 
 points(x=best$theta[1,1], y=best$theta[2,1], col="red", pch=16)
 
-points(x=trait$X[which(trait$Reg==1)],y=rep(min(c(theta1.points, theta2.points)), length(which(trait$Reg==1))), pch=18, col=rgb(0,0,0,.3)) #the tip values in regime 1, plotted along x axis
-points(y=trait$X[which(trait$Reg==2)],x=rep(min(c(theta1.points, theta2.points)), length(which(trait$Reg==2))), pch=18, col=rgb(0,0,0,.3)) #the tip values in regime 2, plotted along y axis
+points(x=ouwie.data$X[which(ouwie.data$Reg==1)],y=rep(min(c(theta1.points, theta2.points)), length(which(ouwie.data$Reg==1))), pch=18, col=rgb(0,0,0,.3)) #the tip values in regime 1, plotted along x axis
+points(y=ouwie.data$X[which(ouwie.data$Reg==2)],x=rep(min(c(theta1.points, theta2.points)), length(which(ouwie.data$Reg==2))), pch=18, col=rgb(0,0,0,.3)) #the tip values in regime 2, plotted along y axis
 ```
 
 The below only works if the discrete trait rate is low, so you have a good chance of estimating where the state is. If it evolves quickly, hard to estimate where the regimes are, so some in regime 1 are incorrectly mapped in regime 2 vice versa. This makes the models more similar than they should be. See Revell 2013, DOI:10.1093/sysbio/sys084 for an exploration of this effect.
 
-```{r, eval=FALSE}
+```{r, eval=TRUE}
 yearn::yearn(phytools)
-trait.ordered<-data.frame(trait[,2], trait[,2],row.names=trait[,1])
-trait.ordered<- trait.ordered[tree$tip.label,]
+trait.ordered<-data.frame(ouwie.data[,2], ouwie.data[,2],row.names=ouwie.data[,1])
+trait.ordered<- trait.ordered[labeled.tree$tip.label,]
 z<-trait.ordered[,1]
 names(z)<-rownames(trait.ordered)
-tree.mapped<-make.simmap(tree,z,model="ER",nsim=1)
+tree.mapped<-make.simmap(labeled.tree,z,model="ER",nsim=1)
 leg<-c("black","red")
 names(leg)<-c(1,2)
 plotSimmap(tree.mapped,leg,pts=FALSE,ftype="off", lwd=1)
 
-simmapBased<-OUwie(tree.mapped,trait,model="OUMV", simmap.tree=TRUE, diagn=FALSE)
+simmapBased<-OUwie(tree.mapped,ouwie.data, model="OUMV", simmap.tree=TRUE, diagn=FALSE)
 print(simmapBased)
 print(best)
 ```
 
 How does this compare to our best model from above? Should they be directly comparable?
+- similiarish model but it is just testing what we have made before with branch nodes in comparison to using the tip labels instead. The phylogeny's various colors in the branches indicate to me a less reliable tree because of all the moments of change, it doesn't seem plausible.
